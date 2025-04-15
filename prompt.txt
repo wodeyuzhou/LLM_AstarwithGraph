@@ -1,0 +1,5664 @@
+
+Available Nodes:
+- Node ID : 6800001
+- Node ID : 6800002
+- Node ID : 6800003
+- Node ID : 6800004
+- Node ID : 6800005
+- Node ID : 6800006
+- Node ID : 6800007
+- Node ID : 6800008
+- Node ID : 6800009
+- Node ID : 6800010
+- Node ID : 6800011
+- Node ID : 6800012
+- Node ID : 6800013
+- Node ID : 6800014
+- Node ID : 6800015
+- Node ID : 6800016
+- Node ID : 6800017
+- Node ID : 6800018
+- Node ID : 6800019
+- Node ID : 6800020
+- Node ID : 6800021
+- Node ID : 6800022
+- Node ID : 6800023
+- Node ID : 6800024
+- Node ID : 6800025
+- Node ID : 6800026
+- Node ID : 6800027
+- Node ID : 6800028
+- Node ID : 6800029
+- Node ID : 6800030
+- Node ID : 6800031
+- Node ID : 6800032
+- Node ID : 6800033
+- Node ID : 6800034
+- Node ID : 6800035
+- Node ID : 6800036
+- Node ID : 6800037
+- Node ID : 6800038
+- Node ID : 6800039
+- Node ID : 6800040
+- Node ID : 6800041
+- Node ID : 6800042
+- Node ID : 6800043
+- Node ID : 6800044
+- Node ID : 6800045
+- Node ID : 6800046
+- Node ID : 6800047
+- Node ID : 6800048
+- Node ID : 6800049
+- Node ID : 6800050
+- Node ID : 6800051
+- Node ID : 6800052
+- Node ID : 6800053
+- Node ID : 6800054
+- Node ID : 6800055
+- Node ID : 6800056
+- Node ID : 6800057
+- Node ID : 6800058
+- Node ID : 6800059
+- Node ID : 6800060
+- Node ID : 6800062
+- Node ID : 6800063
+- Node ID : 6800064
+- Node ID : 6800065
+- Node ID : 6800067
+- Node ID : 6800069
+- Node ID : 6800075
+- Node ID : 6800076
+- Node ID : 6800077
+- Node ID : 6800078
+- Node ID : 6800079
+- Node ID : 6800080
+- Node ID : 6800081
+- Node ID : 6800082
+- Node ID : 6800083
+- Node ID : 6800084
+- Node ID : 6800085
+- Node ID : 6800086
+- Node ID : 6800087
+- Node ID : 6800088
+- Node ID : 6800089
+- Node ID : 6800090
+- Node ID : 6800091
+- Node ID : 6800092
+- Node ID : 6800093
+- Node ID : 6800094
+- Node ID : 6800095
+- Node ID : 6800096
+- Node ID : 6800097
+- Node ID : 6800098
+- Node ID : 6800099
+- Node ID : 6800100
+- Node ID : 6800101
+- Node ID : 6800102
+- Node ID : 6800103
+- Node ID : 6800104
+- Node ID : 6800105
+- Node ID : 6800106
+- Node ID : 6800107
+- Node ID : 6800108
+- Node ID : 6800109
+- Node ID : 6800111
+- Node ID : 6800112
+- Node ID : 6800113
+- Node ID : 6800114
+- Node ID : 6800124
+- Node ID : 6800125
+- Node ID : 6800126
+- Node ID : 6800127
+- Node ID : 6800128
+- Node ID : 6800129
+- Node ID : 6800130
+- Node ID : 6800131
+- Node ID : 6800132
+- Node ID : 6800133
+- Node ID : 6800134
+- Node ID : 6800135
+- Node ID : 6800136
+- Node ID : 6800137
+- Node ID : 6800138
+- Node ID : 6800139
+- Node ID : 6800140
+- Node ID : 6800141
+- Node ID : 6800142
+- Node ID : 6800143
+- Node ID : 6800144
+- Node ID : 6800145
+- Node ID : 6800146
+- Node ID : 6800147
+- Node ID : 6800148
+- Node ID : 6800149
+- Node ID : 6800150
+- Node ID : 6800151
+- Node ID : 6800152
+- Node ID : 6800153
+- Node ID : 6800154
+- Node ID : 6800155
+- Node ID : 6800156
+- Node ID : 6800157
+- Node ID : 6800158
+- Node ID : 6800159
+- Node ID : 6800160
+- Node ID : 6800161
+- Node ID : 6800162
+- Node ID : 6800163
+- Node ID : 6800164
+- Node ID : 6800165
+- Node ID : 6800166
+- Node ID : 6800167
+- Node ID : 6800168
+- Node ID : 6800169
+- Node ID : 6800170
+- Node ID : 6800171
+- Node ID : 6800172
+- Node ID : 6800173
+- Node ID : 6800174
+- Node ID : 6800175
+- Node ID : 6800176
+- Node ID : 6800177
+- Node ID : 6800178
+- Node ID : 6800179
+- Node ID : 6800180
+- Node ID : 6800181
+- Node ID : 6800182
+- Node ID : 6800183
+- Node ID : 6800184
+- Node ID : 6800185
+- Node ID : 6800186
+- Node ID : 6800187
+- Node ID : 6800188
+- Node ID : 6800189
+- Node ID : 6800190
+- Node ID : 6800191
+- Node ID : 6800192
+- Node ID : 6800193
+- Node ID : 6800194
+- Node ID : 6800195
+- Node ID : 6800196
+- Node ID : 6800197
+- Node ID : 6800198
+- Node ID : 6800199
+- Node ID : 6800200
+- Node ID : 6800201
+- Node ID : 6800202
+- Node ID : 6800208
+- Node ID : 6800209
+- Node ID : 6800210
+- Node ID : 6800211
+- Node ID : 6800212
+- Node ID : 6800213
+- Node ID : 6800214
+- Node ID : 6800215
+- Node ID : 6800216
+- Node ID : 6800217
+- Node ID : 6800218
+- Node ID : 6800219
+- Node ID : 6800220
+- Node ID : 6800221
+- Node ID : 6800222
+- Node ID : 6800223
+- Node ID : 6800224
+- Node ID : 6800225
+- Node ID : 6800226
+- Node ID : 6800227
+- Node ID : 6800228
+- Node ID : 6800229
+- Node ID : 6800230
+- Node ID : 6800231
+- Node ID : 6800232
+- Node ID : 6800233
+- Node ID : 6800234
+- Node ID : 6800235
+- Node ID : 6800236
+- Node ID : 6800237
+- Node ID : 6800238
+- Node ID : 6800239
+- Node ID : 6800240
+- Node ID : 6800241
+- Node ID : 6800242
+- Node ID : 6800243
+- Node ID : 6800244
+- Node ID : 6800245
+- Node ID : 6800246
+- Node ID : 6800247
+- Node ID : 6800248
+- Node ID : 6800249
+- Node ID : 6800250
+- Node ID : 6800251
+- Node ID : 6800252
+- Node ID : 6800253
+- Node ID : 6800254
+- Node ID : 6800255
+- Node ID : 6800256
+- Node ID : 6800257
+- Node ID : 6800258
+- Node ID : 6800259
+- Node ID : 6800260
+- Node ID : 6800261
+- Node ID : 6800263
+- Node ID : 6800264
+- Node ID : 6800265
+- Node ID : 6800266
+- Node ID : 6800267
+- Node ID : 6800268
+- Node ID : 6800269
+- Node ID : 6800270
+- Node ID : 6800271
+- Node ID : 6800272
+- Node ID : 6800273
+- Node ID : 6800274
+- Node ID : 6800275
+- Node ID : 6800276
+- Node ID : 6800277
+- Node ID : 6800278
+- Node ID : 6800279
+- Node ID : 6800280
+- Node ID : 6800281
+- Node ID : 6800282
+- Node ID : 6800283
+- Node ID : 6800284
+- Node ID : 6800285
+- Node ID : 6800286
+- Node ID : 6800287
+- Node ID : 6800288
+- Node ID : 6800289
+- Node ID : 6800290
+- Node ID : 6800291
+- Node ID : 6800292
+- Node ID : 6800293
+- Node ID : 6800294
+- Node ID : 6800295
+- Node ID : 6800296
+- Node ID : 6800297
+- Node ID : 6800298
+- Node ID : 6800299
+- Node ID : 6800300
+- Node ID : 6800301
+- Node ID : 6800302
+- Node ID : 6800303
+- Node ID : 6800304
+- Node ID : 6800305
+- Node ID : 6800306
+- Node ID : 6800307
+- Node ID : 6800308
+- Node ID : 6800309
+- Node ID : 6800310
+- Node ID : 6800311
+- Node ID : 6800312
+- Node ID : 6800313
+- Node ID : 6800314
+- Node ID : 6800315
+- Node ID : 6800316
+- Node ID : 6800317
+- Node ID : 6800318
+- Node ID : 6800319
+- Node ID : 6800320
+- Node ID : 6800321
+- Node ID : 6800322
+- Node ID : 6800323
+- Node ID : 6800324
+- Node ID : 6800325
+- Node ID : 6800326
+- Node ID : 6800327
+- Node ID : 6800328
+- Node ID : 6800329
+- Node ID : 6800330
+- Node ID : 6800331
+- Node ID : 6800332
+- Node ID : 6800333
+- Node ID : 6800334
+- Node ID : 6800335
+- Node ID : 6800336
+- Node ID : 6800337
+- Node ID : 6800338
+- Node ID : 6800339
+- Node ID : 6800340
+- Node ID : 6800341
+- Node ID : 6800342
+- Node ID : 6800343
+- Node ID : 6800344
+- Node ID : 6800345
+- Node ID : 6800346
+- Node ID : 6800347
+- Node ID : 6800348
+- Node ID : 6800349
+- Node ID : 6800350
+- Node ID : 6800351
+- Node ID : 6800352
+- Node ID : 6800353
+- Node ID : 6800354
+- Node ID : 6800355
+- Node ID : 6800356
+- Node ID : 6800357
+- Node ID : 6800358
+- Node ID : 6800359
+- Node ID : 6800360
+- Node ID : 6800361
+- Node ID : 6800362
+- Node ID : 6800363
+- Node ID : 6800364
+- Node ID : 6800365
+- Node ID : 6800366
+- Node ID : 6800367
+- Node ID : 6800368
+- Node ID : 6800369
+- Node ID : 6800370
+- Node ID : 6800371
+- Node ID : 6800372
+- Node ID : 6800373
+- Node ID : 6800374
+- Node ID : 6800375
+- Node ID : 6800376
+- Node ID : 6800377
+- Node ID : 6800378
+- Node ID : 6800379
+- Node ID : 6800380
+- Node ID : 6800381
+- Node ID : 6800382
+- Node ID : 6800383
+- Node ID : 6800384
+- Node ID : 6800385
+- Node ID : 6800386
+- Node ID : 6800387
+- Node ID : 6800388
+- Node ID : 6800389
+- Node ID : 6800390
+- Node ID : 6800391
+- Node ID : 6800392
+- Node ID : 6800393
+- Node ID : 6800394
+- Node ID : 6800395
+- Node ID : 6800396
+- Node ID : 6800397
+- Node ID : 6800398
+- Node ID : 6800399
+- Node ID : 6800400
+- Node ID : 6800401
+- Node ID : 6800402
+- Node ID : 6800403
+- Node ID : 6800404
+- Node ID : 6800405
+- Node ID : 6800406
+- Node ID : 6800407
+- Node ID : 6800408
+- Node ID : 6800409
+- Node ID : 6800410
+- Node ID : 6800411
+- Node ID : 6800412
+- Node ID : 6800413
+- Node ID : 6800414
+- Node ID : 6800415
+- Node ID : 6800416
+- Node ID : 6800417
+- Node ID : 6800418
+- Node ID : 6800419
+- Node ID : 6800420
+- Node ID : 6800421
+- Node ID : 6800422
+- Node ID : 6800423
+- Node ID : 6800424
+- Node ID : 6800425
+- Node ID : 6800426
+- Node ID : 6800427
+- Node ID : 6800428
+- Node ID : 6800429
+- Node ID : 6800430
+- Node ID : 6800431
+- Node ID : 6800432
+- Node ID : 6800433
+- Node ID : 6800434
+- Node ID : 6800435
+- Node ID : 6800436
+- Node ID : 6800437
+- Node ID : 6800438
+- Node ID : 6800439
+- Node ID : 6800440
+- Node ID : 6800441
+- Node ID : 6800442
+- Node ID : 6800443
+- Node ID : 6800444
+- Node ID : 6800445
+- Node ID : 6800446
+- Node ID : 6800447
+- Node ID : 6800448
+- Node ID : 6800449
+- Node ID : 6800450
+- Node ID : 6800451
+- Node ID : 6800452
+- Node ID : 6800453
+- Node ID : 6800454
+- Node ID : 6800455
+- Node ID : 6800456
+- Node ID : 6800457
+- Node ID : 6800458
+- Node ID : 6800459
+- Node ID : 6800460
+- Node ID : 6800461
+- Node ID : 6800462
+- Node ID : 6800463
+- Node ID : 6800464
+- Node ID : 6800465
+- Node ID : 6800466
+- Node ID : 6800467
+- Node ID : 6800468
+- Node ID : 6800469
+- Node ID : 6800470
+- Node ID : 6800471
+- Node ID : 6800472
+- Node ID : 6800473
+- Node ID : 6800474
+- Node ID : 6800475
+- Node ID : 6800476
+- Node ID : 6800477
+- Node ID : 6800478
+- Node ID : 6800479
+- Node ID : 6800480
+- Node ID : 6800481
+- Node ID : 6800482
+- Node ID : 6800483
+- Node ID : 6800484
+- Node ID : 6800485
+- Node ID : 6800486
+- Node ID : 6800487
+- Node ID : 6800488
+- Node ID : 6800489
+- Node ID : 6800490
+- Node ID : 6800491
+- Node ID : 6800492
+- Node ID : 6800493
+- Node ID : 6800494
+- Node ID : 6800495
+- Node ID : 6800496
+- Node ID : 6800497
+- Node ID : 6800498
+- Node ID : 6800499
+- Node ID : 6800500
+- Node ID : 6800501
+- Node ID : 6800502
+- Node ID : 6800503
+- Node ID : 6800504
+- Node ID : 6800505
+- Node ID : 6800506
+- Node ID : 6800507
+- Node ID : 6800508
+- Node ID : 6800509
+- Node ID : 6800511
+- Node ID : 6800512
+- Node ID : 6800513
+- Node ID : 6800514
+- Node ID : 6800515
+- Node ID : 6800516
+- Node ID : 6800517
+- Node ID : 6800518
+- Node ID : 6800519
+- Node ID : 6800520
+- Node ID : 6800521
+- Node ID : 6800522
+- Node ID : 6800523
+- Node ID : 6800524
+- Node ID : 6800525
+- Node ID : 6800526
+- Node ID : 6800527
+- Node ID : 6800528
+- Node ID : 6800529
+- Node ID : 6800530
+- Node ID : 6800531
+- Node ID : 6800532
+- Node ID : 6800533
+- Node ID : 6800534
+- Node ID : 6800535
+- Node ID : 6800536
+- Node ID : 6800537
+- Node ID : 6800538
+- Node ID : 6800539
+- Node ID : 6800540
+- Node ID : 6800541
+- Node ID : 6800542
+- Node ID : 6800543
+- Node ID : 6800544
+- Node ID : 6800545
+- Node ID : 6800546
+- Node ID : 6800547
+- Node ID : 6800548
+- Node ID : 6800549
+- Node ID : 6800550
+- Node ID : 6800551
+- Node ID : 6800552
+- Node ID : 6800553
+- Node ID : 6800554
+- Node ID : 6800555
+- Node ID : 6800556
+- Node ID : 6800557
+- Node ID : 6800558
+- Node ID : 6800559
+- Node ID : 6800560
+- Node ID : 6800561
+- Node ID : 6800562
+- Node ID : 6800563
+- Node ID : 6800564
+- Node ID : 6800565
+- Node ID : 6800566
+- Node ID : 6800567
+- Node ID : 6800568
+- Node ID : 6800571
+- Node ID : 6800572
+- Node ID : 6800573
+- Node ID : 6800574
+- Node ID : 6800575
+- Node ID : 6800576
+- Node ID : 6800577
+- Node ID : 6800578
+- Node ID : 6800579
+- Node ID : 6800580
+- Node ID : 6800581
+- Node ID : 6800582
+- Node ID : 6800583
+- Node ID : 6800584
+- Node ID : 6800585
+- Node ID : 6800586
+- Node ID : 6800587
+- Node ID : 6800588
+- Node ID : 6800589
+- Node ID : 6800590
+- Node ID : 6800591
+- Node ID : 6800592
+- Node ID : 6800593
+- Node ID : 6800594
+- Node ID : 6800595
+- Node ID : 6800596
+- Node ID : 6800597
+- Node ID : 6800598
+- Node ID : 6800599
+- Node ID : 6800600
+- Node ID : 6800601
+- Node ID : 6800602
+- Node ID : 6800603
+- Node ID : 6800604
+- Node ID : 6800605
+- Node ID : 6800606
+- Node ID : 6800607
+- Node ID : 6800608
+- Node ID : 6800609
+- Node ID : 6800610
+- Node ID : 6800611
+- Node ID : 6800612
+- Node ID : 6800613
+- Node ID : 6800614
+- Node ID : 6800615
+- Node ID : 6800616
+- Node ID : 6800617
+- Node ID : 6800618
+- Node ID : 6800619
+- Node ID : 6800620
+- Node ID : 6800621
+- Node ID : 6800622
+- Node ID : 6800623
+- Node ID : 6800624
+- Node ID : 6800625
+- Node ID : 6800626
+- Node ID : 6800627
+- Node ID : 6800628
+- Node ID : 6800629
+- Node ID : 6800630
+- Node ID : 6800631
+- Node ID : 6800632
+- Node ID : 6800633
+- Node ID : 6800634
+- Node ID : 6800635
+- Node ID : 6800636
+- Node ID : 6800637
+- Node ID : 6800638
+- Node ID : 6800639
+- Node ID : 6800640
+- Node ID : 6800641
+- Node ID : 6800642
+- Node ID : 6800643
+- Node ID : 6800644
+- Node ID : 6800645
+- Node ID : 6800646
+- Node ID : 6800647
+- Node ID : 6800648
+- Node ID : 6800649
+- Node ID : 6800650
+- Node ID : 6800651
+- Node ID : 6800652
+- Node ID : 6800653
+- Node ID : 6800654
+- Node ID : 6800655
+- Node ID : 6800656
+- Node ID : 6800657
+- Node ID : 6800658
+- Node ID : 6800659
+- Node ID : 6800660
+- Node ID : 6800661
+- Node ID : 6800662
+- Node ID : 6800663
+- Node ID : 6800664
+- Node ID : 6800665
+- Node ID : 6800666
+- Node ID : 6800667
+- Node ID : 6800668
+- Node ID : 6800669
+- Node ID : 6800670
+- Node ID : 6800671
+- Node ID : 6800672
+- Node ID : 6800673
+- Node ID : 6800674
+- Node ID : 6800675
+- Node ID : 6800676
+- Node ID : 6800677
+- Node ID : 6800678
+- Node ID : 6800679
+- Node ID : 6800680
+- Node ID : 6800681
+- Node ID : 6800682
+- Node ID : 6800683
+- Node ID : 6800684
+- Node ID : 6800685
+- Node ID : 6800686
+- Node ID : 6800687
+- Node ID : 6800688
+- Node ID : 6800689
+- Node ID : 6800690
+- Node ID : 6800691
+- Node ID : 6800692
+- Node ID : 6800693
+- Node ID : 6800694
+- Node ID : 6800695
+- Node ID : 6800696
+- Node ID : 6800697
+- Node ID : 6800698
+- Node ID : 6800699
+- Node ID : 6800700
+- Node ID : 6800701
+- Node ID : 6800702
+- Node ID : 6800703
+- Node ID : 6800704
+- Node ID : 6800705
+- Node ID : 6800706
+- Node ID : 6800707
+- Node ID : 6800708
+- Node ID : 6800709
+- Node ID : 6800710
+- Node ID : 6800711
+- Node ID : 6800712
+- Node ID : 6800713
+- Node ID : 6800714
+- Node ID : 6800715
+- Node ID : 6800716
+- Node ID : 6800717
+- Node ID : 6800718
+- Node ID : 6800719
+- Node ID : 6800720
+- Node ID : 6800721
+- Node ID : 6800722
+- Node ID : 6800723
+- Node ID : 6800724
+- Node ID : 6800725
+- Node ID : 6800726
+- Node ID : 6800727
+- Node ID : 6800728
+- Node ID : 6800729
+- Node ID : 6800730
+- Node ID : 6800731
+- Node ID : 6800732
+- Node ID : 6800733
+- Node ID : 6800734
+- Node ID : 6800735
+- Node ID : 6800736
+- Node ID : 6800737
+- Node ID : 6800738
+- Node ID : 6800739
+- Node ID : 6800740
+- Node ID : 6800741
+- Node ID : 6800742
+- Node ID : 6800743
+- Node ID : 6800744
+- Node ID : 6800745
+- Node ID : 6800746
+- Node ID : 6800747
+- Node ID : 6800748
+- Node ID : 6800749
+- Node ID : 6800750
+- Node ID : 6800751
+- Node ID : 6800752
+- Node ID : 6800753
+- Node ID : 6800754
+- Node ID : 6800755
+- Node ID : 6800756
+- Node ID : 6800757
+- Node ID : 6800758
+- Node ID : 6800759
+- Node ID : 6800760
+- Node ID : 6800761
+- Node ID : 6800762
+- Node ID : 6800763
+- Node ID : 6800764
+- Node ID : 6800765
+- Node ID : 6800766
+- Node ID : 6800767
+- Node ID : 6800768
+- Node ID : 6800769
+- Node ID : 6800770
+- Node ID : 6800771
+- Node ID : 6800772
+- Node ID : 6800773
+- Node ID : 6800774
+- Node ID : 6800775
+- Node ID : 6800776
+- Node ID : 6800777
+- Node ID : 6800778
+- Node ID : 6800779
+- Node ID : 6800780
+- Node ID : 6800781
+- Node ID : 6800782
+- Node ID : 6800783
+- Node ID : 6800784
+- Node ID : 6800785
+- Node ID : 6800786
+- Node ID : 6800787
+- Node ID : 6800788
+- Node ID : 6800789
+- Node ID : 6800790
+- Node ID : 6800791
+- Node ID : 6800792
+- Node ID : 6800793
+- Node ID : 6800794
+- Node ID : 6800795
+- Node ID : 6800796
+- Node ID : 6800797
+- Node ID : 6800798
+- Node ID : 6800799
+- Node ID : 6800800
+- Node ID : 6800801
+- Node ID : 6800802
+- Node ID : 6800803
+- Node ID : 6800804
+- Node ID : 6800805
+- Node ID : 6800806
+- Node ID : 6800807
+- Node ID : 6800808
+- Node ID : 6800809
+- Node ID : 6800810
+- Node ID : 6800811
+- Node ID : 6800812
+- Node ID : 6800813
+- Node ID : 6800814
+- Node ID : 6800815
+- Node ID : 6800816
+- Node ID : 6800817
+- Node ID : 6800818
+- Node ID : 6800819
+- Node ID : 6800820
+- Node ID : 6800821
+- Node ID : 6800822
+- Node ID : 6800823
+- Node ID : 6800824
+- Node ID : 6800825
+- Node ID : 6800826
+- Node ID : 6800827
+- Node ID : 6800828
+- Node ID : 6800829
+- Node ID : 6800830
+- Node ID : 6800831
+- Node ID : 6800832
+- Node ID : 6800833
+- Node ID : 6800834
+- Node ID : 6800835
+- Node ID : 6800836
+- Node ID : 6800837
+- Node ID : 6800838
+- Node ID : 6800839
+- Node ID : 6800840
+- Node ID : 6800841
+- Node ID : 6800842
+- Node ID : 6800843
+- Node ID : 6800844
+- Node ID : 6800845
+- Node ID : 6800846
+- Node ID : 6800847
+- Node ID : 6800848
+- Node ID : 6800849
+- Node ID : 6800850
+- Node ID : 6800851
+- Node ID : 6800852
+- Node ID : 6800853
+- Node ID : 6800854
+- Node ID : 6800855
+- Node ID : 6800856
+- Node ID : 6800857
+- Node ID : 6800858
+- Node ID : 6800859
+- Node ID : 6800860
+- Node ID : 6800861
+- Node ID : 6800862
+- Node ID : 6800863
+- Node ID : 6800864
+- Node ID : 6800865
+- Node ID : 6800866
+- Node ID : 6800867
+- Node ID : 6800868
+- Node ID : 6800869
+- Node ID : 6800870
+- Node ID : 6800871
+- Node ID : 6800872
+- Node ID : 6800873
+- Node ID : 6800874
+- Node ID : 6800875
+- Node ID : 6800876
+- Node ID : 6800877
+- Node ID : 6800878
+- Node ID : 6800879
+- Node ID : 6800880
+- Node ID : 6800881
+- Node ID : 6800882
+- Node ID : 6800883
+- Node ID : 6800884
+- Node ID : 6800885
+- Node ID : 6800886
+- Node ID : 6800887
+- Node ID : 6800888
+- Node ID : 6800889
+- Node ID : 6800890
+- Node ID : 6800891
+- Node ID : 6800892
+- Node ID : 6800893
+- Node ID : 6800894
+- Node ID : 6800895
+- Node ID : 6800896
+- Node ID : 6800897
+- Node ID : 6800898
+- Node ID : 6800899
+- Node ID : 6800900
+- Node ID : 6800901
+- Node ID : 6800902
+- Node ID : 6800903
+- Node ID : 6800904
+- Node ID : 6800905
+- Node ID : 6800906
+- Node ID : 6800907
+- Node ID : 6800908
+- Node ID : 6800909
+- Node ID : 6800910
+- Node ID : 6800911
+- Node ID : 6800912
+- Node ID : 6800913
+- Node ID : 6800914
+- Node ID : 6800915
+- Node ID : 6800916
+- Node ID : 6800917
+- Node ID : 6800918
+- Node ID : 6800919
+- Node ID : 6800920
+- Node ID : 6800921
+- Node ID : 6800922
+- Node ID : 6800923
+- Node ID : 6800924
+- Node ID : 6800925
+- Node ID : 6800926
+- Node ID : 6800927
+- Node ID : 6800928
+- Node ID : 6800929
+- Node ID : 6800930
+- Node ID : 6800931
+- Node ID : 6800932
+- Node ID : 6800933
+- Node ID : 6800934
+- Node ID : 6800935
+- Node ID : 6800936
+- Node ID : 6800937
+- Node ID : 6800938
+- Node ID : 6800939
+- Node ID : 6800940
+- Node ID : 6800941
+- Node ID : 6800942
+- Node ID : 6800943
+- Node ID : 6800944
+- Node ID : 6800945
+- Node ID : 6800946
+- Node ID : 6800947
+- Node ID : 6800948
+- Node ID : 6800949
+- Node ID : 6800950
+- Node ID : 6800951
+- Node ID : 6800952
+- Node ID : 6800953
+- Node ID : 6800954
+- Node ID : 6800955
+- Node ID : 6800956
+- Node ID : 6800957
+- Node ID : 6800958
+- Node ID : 6800959
+- Node ID : 6800960
+- Node ID : 6800961
+- Node ID : 6800962
+- Node ID : 6800963
+- Node ID : 6800964
+- Node ID : 6800965
+- Node ID : 6800966
+- Node ID : 6800967
+- Node ID : 6800968
+- Node ID : 6800969
+- Node ID : 6800970
+- Node ID : 6800971
+- Node ID : 6800972
+- Node ID : 6800973
+- Node ID : 6800974
+- Node ID : 6800975
+- Node ID : 6800976
+- Node ID : 6800977
+- Node ID : 6800978
+- Node ID : 6800979
+- Node ID : 6800980
+- Node ID : 6800981
+- Node ID : 6800982
+- Node ID : 6800983
+- Node ID : 6800984
+- Node ID : 6800985
+- Node ID : 6800986
+- Node ID : 6800987
+- Node ID : 6800988
+- Node ID : 6800989
+- Node ID : 6800990
+- Node ID : 6800991
+- Node ID : 6800992
+- Node ID : 6800993
+- Node ID : 6800994
+- Node ID : 6800995
+- Node ID : 6800996
+- Node ID : 6800997
+- Node ID : 6800998
+- Node ID : 6800999
+- Node ID : 6801000
+- Node ID : 6801001
+- Node ID : 6801002
+- Node ID : 6801003
+- Node ID : 6801004
+- Node ID : 6801005
+- Node ID : 6801006
+- Node ID : 6801007
+- Node ID : 6801008
+- Node ID : 6801009
+- Node ID : 6801010
+- Node ID : 6801011
+- Node ID : 6801012
+- Node ID : 6801013
+- Node ID : 6801014
+- Node ID : 6801015
+- Node ID : 6801016
+- Node ID : 6801017
+- Node ID : 6801018
+- Node ID : 6801019
+- Node ID : 6801020
+- Node ID : 6801021
+- Node ID : 6801022
+- Node ID : 6801023
+- Node ID : 6801024
+- Node ID : 6801025
+- Node ID : 6801026
+- Node ID : 6801027
+- Node ID : 6801028
+- Node ID : 6801029
+- Node ID : 6801030
+- Node ID : 6801031
+- Node ID : 6801032
+- Node ID : 6801033
+- Node ID : 6801034
+- Node ID : 6801035
+- Node ID : 6801036
+- Node ID : 6801037
+- Node ID : 6801038
+- Node ID : 6801039
+- Node ID : 6801040
+- Node ID : 6801041
+- Node ID : 6801042
+- Node ID : 6801043
+- Node ID : 6801044
+- Node ID : 6801045
+- Node ID : 6801046
+- Node ID : 6801047
+- Node ID : 6801048
+- Node ID : 6801049
+- Node ID : 6801050
+- Node ID : 6801051
+- Node ID : 6801052
+- Node ID : 6801053
+- Node ID : 6801054
+- Node ID : 6801055
+- Node ID : 6801056
+- Node ID : 6801057
+- Node ID : 6801058
+- Node ID : 6801059
+- Node ID : 6801060
+- Node ID : 6801061
+- Node ID : 6801062
+- Node ID : 6801063
+- Node ID : 6801064
+- Node ID : 6801065
+- Node ID : 6801066
+- Node ID : 6801067
+- Node ID : 6801068
+- Node ID : 6801069
+- Node ID : 6801070
+- Node ID : 6801071
+- Node ID : 6801072
+- Node ID : 6801073
+- Node ID : 6801074
+- Node ID : 6801075
+- Node ID : 6801076
+- Node ID : 6801077
+- Node ID : 6801078
+- Node ID : 6801079
+- Node ID : 6801080
+- Node ID : 6801081
+- Node ID : 6801082
+- Node ID : 6801083
+- Node ID : 6801084
+- Node ID : 6801085
+- Node ID : 6801086
+- Node ID : 6801087
+- Node ID : 6801088
+- Node ID : 6801089
+- Node ID : 6801090
+- Node ID : 6801091
+- Node ID : 6801092
+- Node ID : 6801093
+- Node ID : 6801094
+- Node ID : 6801095
+- Node ID : 6801096
+- Node ID : 6801097
+- Node ID : 6801098
+- Node ID : 6801099
+- Node ID : 6801100
+- Node ID : 6801101
+- Node ID : 6801102
+- Node ID : 6801103
+- Node ID : 6801104
+- Node ID : 6801105
+- Node ID : 6801106
+- Node ID : 6801107
+- Node ID : 6801108
+- Node ID : 6801109
+- Node ID : 6801110
+- Node ID : 6801111
+- Node ID : 6801112
+- Node ID : 6801113
+- Node ID : 6801114
+- Node ID : 6801115
+- Node ID : 6801116
+- Node ID : 6801117
+- Node ID : 6801118
+- Node ID : 6801119
+- Node ID : 6801120
+- Node ID : 6801121
+- Node ID : 6801122
+- Node ID : 6801123
+- Node ID : 6801124
+- Node ID : 6801125
+- Node ID : 6801126
+- Node ID : 6801127
+- Node ID : 6801128
+- Node ID : 6801129
+- Node ID : 6801130
+- Node ID : 6801131
+- Node ID : 6801132
+- Node ID : 6801133
+- Node ID : 6801134
+- Node ID : 6801135
+- Node ID : 6801136
+- Node ID : 6801137
+- Node ID : 6801138
+- Node ID : 6801139
+- Node ID : 6801140
+- Node ID : 6801141
+- Node ID : 6801142
+- Node ID : 6801144
+- Node ID : 6801145
+- Node ID : 6801146
+- Node ID : 6801148
+- Node ID : 6801149
+- Node ID : 6801150
+- Node ID : 6801151
+- Node ID : 6801152
+- Node ID : 6801153
+- Node ID : 6801154
+- Node ID : 6801155
+- Node ID : 6801156
+- Node ID : 6801157
+- Node ID : 6801158
+- Node ID : 6801159
+- Node ID : 6801160
+- Node ID : 6801161
+- Node ID : 6801162
+- Node ID : 6801163
+- Node ID : 6801164
+- Node ID : 6801165
+- Node ID : 6801166
+- Node ID : 6801167
+- Node ID : 6801168
+- Node ID : 6801169
+- Node ID : 6801170
+- Node ID : 6801171
+- Node ID : 6801172
+- Node ID : 6801173
+- Node ID : 6801174
+- Node ID : 6801175
+- Node ID : 6801176
+- Node ID : 6801177
+- Node ID : 6801178
+- Node ID : 6801179
+- Node ID : 6801180
+- Node ID : 6801181
+- Node ID : 6801188
+- Node ID : 6801192
+- Node ID : 6801193
+- Node ID : 6801194
+- Node ID : 6801195
+- Node ID : 6801196
+- Node ID : 6801197
+- Node ID : 6801198
+- Node ID : 6801199
+- Node ID : 6801200
+- Node ID : 6801201
+- Node ID : 6801202
+- Node ID : 6801203
+- Node ID : 6801204
+- Node ID : 6801205
+- Node ID : 6801207
+- Node ID : 6801208
+- Node ID : 6801209
+- Node ID : 6801210
+- Node ID : 6801211
+- Node ID : 6801212
+- Node ID : 6801215
+- Node ID : 6801216
+- Node ID : 6801217
+- Node ID : 6801218
+- Node ID : 6801219
+- Node ID : 6801220
+- Node ID : 6801221
+- Node ID : 6801223
+- Node ID : 6801224
+- Node ID : 6801225
+- Node ID : 6801226
+- Node ID : 6801227
+- Node ID : 6801228
+- Node ID : 6801229
+- Node ID : 6801230
+- Node ID : 6801231
+- Node ID : 6801232
+- Node ID : 6801233
+- Node ID : 6801237
+- Node ID : 6801238
+- Node ID : 6801239
+- Node ID : 6801240
+- Node ID : 6801241
+- Node ID : 6801242
+- Node ID : 6801243
+- Node ID : 6801244
+- Node ID : 6801247
+- Node ID : 6801249
+- Node ID : 6801251
+- Node ID : 6801252
+- Node ID : 6801253
+- Node ID : 6801254
+- Node ID : 6801255
+- Node ID : 6801256
+- Node ID : 6801257
+- Node ID : 6801258
+- Node ID : 6801259
+- Node ID : 6801260
+- Node ID : 6801261
+- Node ID : 6801262
+- Node ID : 6801263
+- Node ID : 6801264
+- Node ID : 6801265
+- Node ID : 6801266
+- Node ID : 6801267
+- Node ID : 6801269
+- Node ID : 6801275
+- Node ID : 6801276
+- Node ID : 6801277
+- Node ID : 6801278
+- Node ID : 6801279
+- Node ID : 6801280
+- Node ID : 6801282
+- Node ID : 6801283
+- Node ID : 6801285
+- Node ID : 6801286
+- Node ID : 6801287
+- Node ID : 6801288
+- Node ID : 6801289
+- Node ID : 6801290
+- Node ID : 6801291
+- Node ID : 6801292
+- Node ID : 6801293
+- Node ID : 6801294
+- Node ID : 6801295
+- Node ID : 6801296
+- Node ID : 6801297
+- Node ID : 6801298
+- Node ID : 6801300
+- Node ID : 6801301
+- Node ID : 6801302
+- Node ID : 6801303
+- Node ID : 6801304
+- Node ID : 6801307
+- Node ID : 6801309
+- Node ID : 6801316
+- Node ID : 6801317
+- Node ID : 6801328
+- Node ID : 6801329
+- Node ID : 6801330
+- Node ID : 6801331
+- Node ID : 6801332
+- Node ID : 6801333
+- Node ID : 6801334
+- Node ID : 6801335
+- Node ID : 6801336
+- Node ID : 6801337
+- Node ID : 6801338
+- Node ID : 6801339
+- Node ID : 6801340
+- Node ID : 6801341
+- Node ID : 6801342
+- Node ID : 6801343
+- Node ID : 6801344
+- Node ID : 6801345
+- Node ID : 6801346
+- Node ID : 6801347
+- Node ID : 6801348
+- Node ID : 6801349
+- Node ID : 6801350
+- Node ID : 6801351
+- Node ID : 6801352
+- Node ID : 6801353
+- Node ID : 6801354
+- Node ID : 6801355
+- Node ID : 6801356
+- Node ID : 6801357
+- Node ID : 6801358
+- Node ID : 6801359
+- Node ID : 6801360
+- Node ID : 6801361
+- Node ID : 6801362
+- Node ID : 6801363
+- Node ID : 6801364
+- Node ID : 6801365
+- Node ID : 6801366
+- Node ID : 6801367
+- Node ID : 6801368
+- Node ID : 6801369
+- Node ID : 6801370
+- Node ID : 6801371
+- Node ID : 6801372
+- Node ID : 6801373
+- Node ID : 6801374
+- Node ID : 6801375
+- Node ID : 6801376
+- Node ID : 6801377
+- Node ID : 6801378
+- Node ID : 6801379
+- Node ID : 6801380
+- Node ID : 6801381
+- Node ID : 6801382
+- Node ID : 6801383
+- Node ID : 6801384
+- Node ID : 6801385
+- Node ID : 6801386
+- Node ID : 6801387
+- Node ID : 6801388
+- Node ID : 6801389
+- Node ID : 6801390
+- Node ID : 6801391
+- Node ID : 6801392
+- Node ID : 6801393
+- Node ID : 6801394
+- Node ID : 6801395
+- Node ID : 6801396
+- Node ID : 6801397
+- Node ID : 6801398
+- Node ID : 6801399
+- Node ID : 6801400
+- Node ID : 6801401
+- Node ID : 6801402
+- Node ID : 6801403
+- Node ID : 6801404
+- Node ID : 6801405
+- Node ID : 6801406
+- Node ID : 6801407
+- Node ID : 6801408
+- Node ID : 6801409
+- Node ID : 6801413
+- Node ID : 6801414
+- Node ID : 6801415
+- Node ID : 6801416
+- Node ID : 6801417
+- Node ID : 6801418
+- Node ID : 6801423
+- Node ID : 6801424
+- Node ID : 6801426
+- Node ID : 6801485
+- Node ID : 6801486
+- Node ID : 6801487
+- Node ID : 6801488
+- Node ID : 6801489
+- Node ID : 6801490
+- Node ID : 6801491
+- Node ID : 6801492
+- Node ID : 6801493
+- Node ID : 6801494
+- Node ID : 6801495
+- Node ID : 6801496
+- Node ID : 6801497
+- Node ID : 6801798
+- Node ID : 6801799
+- Node ID : 6801800
+- Node ID : 6801801
+- Node ID : 6801802
+- Node ID : 6801803
+- Node ID : 6801804
+- Node ID : 6801805
+- Node ID : 6801806
+- Node ID : 6801807
+- Node ID : 6801808
+- Node ID : 6801809
+- Node ID : 6801815
+- Node ID : 6801816
+- Node ID : 6801817
+- Node ID : 6801818
+- Node ID : 6801819
+- Node ID : 6801820
+- Node ID : 6801821
+- Node ID : 6801822
+- Node ID : 6801823
+- Node ID : 6801824
+- Node ID : 6801825
+- Node ID : 6801826
+- Node ID : 6801827
+- Node ID : 6801828
+- Node ID : 6801829
+- Node ID : 6801830
+- Node ID : 6801831
+- Node ID : 6801832
+- Node ID : 6801833
+- Node ID : 6801834
+- Node ID : 6801835
+- Node ID : 6801836
+- Node ID : 6801837
+- Node ID : 6801838
+- Node ID : 6801839
+- Node ID : 6801840
+- Node ID : 6801841
+- Node ID : 6801842
+- Node ID : 6801843
+- Node ID : 6801844
+- Node ID : 6801845
+- Node ID : 6801846
+- Node ID : 6801847
+- Node ID : 6801848
+- Node ID : 6801849
+- Node ID : 6801850
+- Node ID : 6801851
+- Node ID : 6801852
+- Node ID : 6801853
+- Node ID : 6801854
+- Node ID : 6801855
+- Node ID : 6801856
+- Node ID : 6801857
+- Node ID : 6801858
+- Node ID : 6801859
+- Node ID : 6801860
+- Node ID : 6801861
+- Node ID : 6801862
+- Node ID : 6801863
+- Node ID : 6801864
+- Node ID : 6801865
+- Node ID : 6801866
+- Node ID : 6801867
+- Node ID : 6801868
+- Node ID : 6801869
+- Node ID : 6801870
+- Node ID : 6801871
+- Node ID : 6801872
+- Node ID : 6801873
+- Node ID : 6801874
+- Node ID : 6801875
+- Node ID : 6801876
+- Node ID : 6801877
+- Node ID : 6801878
+- Node ID : 6801879
+- Node ID : 6801880
+- Node ID : 6801881
+- Node ID : 6801882
+- Node ID : 6801883
+- Node ID : 6801884
+- Node ID : 6801885
+- Node ID : 6801886
+- Node ID : 6801887
+- Node ID : 6801888
+- Node ID : 6801889
+- Node ID : 6801890
+- Node ID : 6801891
+- Node ID : 6801892
+- Node ID : 6801893
+- Node ID : 6801894
+- Node ID : 6801895
+- Node ID : 6801896
+- Node ID : 6801897
+- Node ID : 6801898
+- Node ID : 6801899
+- Node ID : 6801900
+- Node ID : 6801901
+- Node ID : 6801902
+- Node ID : 6801903
+- Node ID : 6801904
+- Node ID : 6801905
+- Node ID : 6801906
+- Node ID : 6801907
+- Node ID : 6801908
+- Node ID : 6801909
+- Node ID : 6801910
+- Node ID : 6801911
+- Node ID : 6801912
+- Node ID : 6801913
+- Node ID : 6801914
+- Node ID : 6801915
+- Node ID : 6801916
+- Node ID : 6801917
+- Node ID : 6801982
+- Node ID : 6801983
+- Node ID : 6801984
+- Node ID : 6802300
+- Node ID : 6802301
+- Node ID : 6802302
+- Node ID : 6802303
+- Node ID : 6802304
+- Node ID : 6802305
+- Node ID : 6802306
+- Node ID : 6802307
+- Node ID : 6802308
+- Node ID : 6802309
+- Node ID : 6802310
+- Node ID : 6802311
+- Node ID : 6802312
+- Node ID : 6802313
+- Node ID : 6802314
+- Node ID : 6802315
+- Node ID : 6802316
+- Node ID : 6802317
+- Node ID : 6802318
+- Node ID : 6802319
+- Node ID : 6802320
+- Node ID : 6802321
+- Node ID : 6802322
+- Node ID : 6802323
+- Node ID : 6802324
+- Node ID : 6802325
+- Node ID : 6802326
+- Node ID : 6802327
+- Node ID : 6802328
+- Node ID : 6802329
+- Node ID : 6802330
+- Node ID : 6802331
+- Node ID : 6802332
+- Node ID : 6802333
+- Node ID : 6802334
+- Node ID : 6802335
+- Node ID : 6802337
+- Node ID : 6802338
+- Node ID : 6802339
+- Node ID : 6802340
+- Node ID : 6802341
+- Node ID : 6802342
+- Node ID : 6802343
+- Node ID : 6802344
+- Node ID : 6802345
+- Node ID : 6802346
+- Node ID : 6802347
+- Node ID : 6802348
+- Node ID : 6802349
+- Node ID : 6802350
+- Node ID : 6802351
+- Node ID : 6802352
+- Node ID : 6802353
+- Node ID : 6802354
+- Node ID : 6802355
+- Node ID : 6802356
+- Node ID : 6802357
+- Node ID : 6802358
+- Node ID : 6802359
+- Node ID : 6802360
+- Node ID : 6802361
+- Node ID : 6802362
+- Node ID : 6802363
+- Node ID : 6802366
+- Node ID : 6802367
+- Node ID : 6802368
+- Node ID : 6802369
+- Node ID : 6802388
+- Node ID : 6802389
+- Node ID : 6802390
+- Node ID : 6802391
+- Node ID : 6802392
+- Node ID : 6802393
+- Node ID : 6802394
+- Node ID : 6802395
+- Node ID : 6802396
+- Node ID : 6802397
+- Node ID : 6802398
+- Node ID : 6802399
+- Node ID : 6802400
+- Node ID : 6802402
+- Node ID : 6802403
+- Node ID : 6802404
+- Node ID : 6802405
+- Node ID : 6802406
+- Node ID : 6802407
+- Node ID : 6802408
+- Node ID : 6803858
+- Node ID : 6803859
+- Node ID : 6804602
+- Node ID : 6804603
+- Node ID : 6805254
+- Node ID : 6805255
+- Node ID : 6805256
+- Node ID : 6805257
+- Node ID : 6805260
+- Node ID : 6805261
+- Node ID : 6805484
+- Node ID : 6805485
+- Node ID : 6805486
+- Node ID : 6805488
+- Node ID : 6805489
+- Node ID : 6805490
+- Node ID : 6805491
+- Node ID : 6805492
+- Node ID : 6805500
+- Node ID : 6805503
+- Node ID : 6805507
+- Node ID : 6805508
+- Node ID : 6805509
+- Node ID : 6805510
+- Node ID : 6805511
+- Node ID : 6805513
+- Node ID : 6805514
+- Node ID : 6805515
+- Node ID : 6805516
+- Node ID : 6805517
+- Node ID : 6805518
+- Node ID : 6805519
+- Node ID : 6805520
+- Node ID : 6805529
+- Node ID : 6805530
+- Node ID : 6805531
+- Node ID : 6805532
+- Node ID : 6805533
+- Node ID : 6805534
+- Node ID : 6805535
+- Node ID : 6805536
+- Node ID : 6805537
+- Node ID : 6805538
+- Node ID : 6805539
+- Node ID : 6805540
+- Node ID : 6805587
+- Node ID : 6805588
+- Node ID : 6805589
+- Node ID : 6805590
+- Node ID : 6805591
+- Node ID : 6805592
+- Node ID : 6805593
+- Node ID : 6805594
+- Node ID : 6805595
+- Node ID : 6805596
+- Node ID : 6805597
+- Node ID : 6805598
+- Node ID : 6805599
+- Node ID : 6805600
+- Node ID : 6805601
+- Node ID : 6805602
+- Node ID : 6805603
+- Node ID : 6805604
+- Node ID : 6805605
+- Node ID : 6805606
+- Node ID : 6805607
+- Node ID : 6805608
+- Node ID : 6805609
+- Node ID : 6805610
+- Node ID : 6805611
+- Node ID : 6805612
+- Node ID : 6805613
+- Node ID : 6805614
+- Node ID : 6805615
+- Node ID : 6805616
+- Node ID : 6805617
+- Node ID : 6805618
+- Node ID : 6805620
+- Node ID : 6805621
+- Node ID : 6805622
+- Node ID : 6805623
+- Node ID : 6805624
+- Node ID : 6805625
+- Node ID : 6805626
+- Node ID : 6805627
+- Node ID : 6805628
+- Node ID : 6805629
+- Node ID : 6805630
+- Node ID : 6805631
+- Node ID : 6805632
+- Node ID : 6805633
+- Node ID : 6805634
+- Node ID : 6805635
+- Node ID : 6805636
+- Node ID : 6805637
+- Node ID : 6805638
+- Node ID : 6805639
+- Node ID : 6805640
+- Node ID : 6805641
+- Node ID : 6805642
+- Node ID : 6805643
+- Node ID : 6805644
+- Node ID : 6805645
+- Node ID : 6805646
+- Node ID : 6805647
+- Node ID : 6805648
+- Node ID : 6805650
+- Node ID : 6805651
+- Node ID : 6805652
+- Node ID : 6805653
+- Node ID : 6805654
+- Node ID : 6805655
+- Node ID : 6805656
+- Node ID : 6805657
+- Node ID : 6805658
+- Node ID : 6805659
+- Node ID : 6805660
+- Node ID : 6805661
+- Node ID : 6805662
+- Node ID : 6805663
+- Node ID : 6805664
+- Node ID : 6805665
+- Node ID : 6805666
+- Node ID : 6805667
+- Node ID : 6805668
+- Node ID : 6805669
+- Node ID : 6805670
+- Node ID : 6805671
+- Node ID : 6805672
+- Node ID : 6805673
+- Node ID : 6805674
+- Node ID : 6805675
+- Node ID : 6805676
+- Node ID : 6805677
+- Node ID : 6805678
+- Node ID : 6805679
+- Node ID : 6805680
+- Node ID : 6805681
+- Node ID : 6805682
+- Node ID : 6805683
+- Node ID : 6805684
+- Node ID : 6805685
+- Node ID : 6805686
+- Node ID : 6805687
+- Node ID : 6805688
+- Node ID : 6805689
+- Node ID : 6805690
+- Node ID : 6805691
+- Node ID : 6805692
+- Node ID : 6805693
+- Node ID : 6805694
+- Node ID : 6805695
+- Node ID : 6805696
+- Node ID : 6805697
+- Node ID : 6805698
+- Node ID : 6805699
+- Node ID : 6805700
+- Node ID : 6805701
+- Node ID : 6805702
+- Node ID : 6805703
+- Node ID : 6805704
+- Node ID : 6805705
+- Node ID : 6805706
+- Node ID : 6805807
+- Node ID : 6805808
+- Node ID : 6805809
+- Node ID : 6805810
+- Node ID : 6805811
+- Node ID : 6805812
+- Node ID : 6805813
+- Node ID : 6805814
+- Node ID : 6805815
+- Node ID : 6805816
+- Node ID : 6805817
+- Node ID : 6806002
+- Node ID : 6806003
+- Node ID : 6806186
+- Node ID : 6806187
+- Node ID : 6806188
+- Node ID : 6806189
+- Node ID : 6806190
+- Node ID : 6806233
+- Node ID : 6806234
+- Node ID : 6806235
+- Node ID : 6806236
+- Node ID : 6806237
+- Node ID : 6806238
+- Node ID : 6806239
+- Node ID : 6806240
+- Node ID : 6806241
+- Node ID : 6806242
+- Node ID : 6806243
+- Node ID : 6806244
+- Node ID : 6806245
+- Node ID : 6806246
+- Node ID : 6806247
+- Node ID : 6806249
+- Node ID : 6806250
+- Node ID : 6806251
+- Node ID : 6806252
+- Node ID : 6806253
+- Node ID : 6806254
+- Node ID : 6806255
+- Node ID : 6806256
+- Node ID : 6806257
+- Node ID : 6806258
+- Node ID : 6806259
+- Node ID : 6806260
+- Node ID : 6806261
+- Node ID : 6806267
+- Node ID : 6806269
+- Node ID : 6806270
+- Node ID : 6806271
+- Node ID : 6806272
+- Node ID : 6806273
+- Node ID : 6806274
+- Node ID : 6806275
+- Node ID : 6806279
+- Node ID : 6806303
+- Node ID : 6806304
+- Node ID : 6806305
+- Node ID : 6806306
+- Node ID : 6806307
+- Node ID : 6806308
+- Node ID : 6806309
+- Node ID : 6806310
+- Node ID : 6806315
+- Node ID : 6806316
+- Node ID : 6806317
+- Node ID : 6806318
+- Node ID : 6806319
+- Node ID : 6806320
+- Node ID : 6806321
+- Node ID : 6806322
+- Node ID : 6806323
+- Node ID : 6806324
+- Node ID : 6806325
+- Node ID : 6806326
+- Node ID : 6806327
+- Node ID : 6806329
+- Node ID : 6806330
+- Node ID : 6806331
+- Node ID : 6806332
+- Node ID : 6806333
+- Node ID : 6806334
+- Node ID : 6806335
+- Node ID : 6806336
+- Node ID : 6806337
+- Node ID : 6806338
+- Node ID : 6806342
+- Node ID : 6806343
+- Node ID : 6806344
+- Node ID : 6806345
+- Node ID : 6806346
+- Node ID : 6806347
+- Node ID : 6806348
+- Node ID : 6806349
+- Node ID : 6806350
+- Node ID : 6806351
+- Node ID : 6806357
+- Node ID : 6806358
+- Node ID : 6806359
+- Node ID : 6806360
+- Node ID : 6806361
+- Node ID : 6806362
+- Node ID : 6806363
+- Node ID : 6806364
+- Node ID : 6806365
+- Node ID : 6806366
+- Node ID : 6806367
+- Node ID : 6806370
+- Node ID : 6806371
+- Node ID : 6806372
+- Node ID : 6806388
+- Node ID : 6806389
+- Node ID : 6806390
+- Node ID : 6806391
+- Node ID : 6806392
+- Node ID : 6806393
+- Node ID : 6806394
+- Node ID : 6806395
+- Node ID : 6806396
+- Node ID : 6806397
+- Node ID : 6806398
+- Node ID : 6806399
+- Node ID : 6806400
+- Node ID : 6806401
+- Node ID : 6806402
+- Node ID : 6806403
+- Node ID : 6806404
+- Node ID : 6806405
+- Node ID : 6806406
+- Node ID : 6806407
+- Node ID : 6806511
+- Node ID : 6806512
+- Node ID : 6806513
+- Node ID : 6806514
+- Node ID : 6806515
+- Node ID : 6806516
+- Node ID : 6806517
+- Node ID : 6806518
+- Node ID : 6806519
+- Node ID : 6806520
+- Node ID : 6806521
+- Node ID : 6806522
+- Node ID : 6806523
+- Node ID : 6806524
+- Node ID : 6806525
+- Node ID : 6806526
+- Node ID : 6806527
+- Node ID : 6806528
+- Node ID : 6806529
+- Node ID : 6806530
+- Node ID : 6806531
+- Node ID : 6806540
+- Node ID : 6806541
+- Node ID : 6806542
+- Node ID : 6806543
+- Node ID : 6806544
+- Node ID : 6806545
+- Node ID : 6806546
+- Node ID : 6806547
+- Node ID : 6806548
+- Node ID : 6806549
+- Node ID : 6806550
+- Node ID : 6806551
+- Node ID : 6806552
+- Node ID : 6806553
+- Node ID : 6806554
+- Node ID : 6806555
+- Node ID : 6806556
+- Node ID : 6806557
+- Node ID : 6806558
+- Node ID : 6806559
+- Node ID : 6806560
+- Node ID : 6806561
+- Node ID : 6806562
+- Node ID : 6806563
+- Node ID : 6806564
+- Node ID : 6806565
+- Node ID : 6806566
+- Node ID : 6806567
+- Node ID : 6806568
+- Node ID : 6806569
+- Node ID : 6806570
+- Node ID : 6806571
+- Node ID : 6806572
+- Node ID : 6806573
+- Node ID : 6900021
+- Node ID : 6900054
+- Node ID : 6900055
+- Node ID : 6900075
+- Node ID : 6900089
+- Node ID : 6900091
+- Node ID : 6900092
+- Node ID : 6900093
+- Node ID : 6900133
+- Node ID : 6900145
+- Node ID : 6900174
+- Node ID : 6900203
+- Node ID : 6900204
+- Node ID : 6900205
+- Node ID : 6900206
+- Node ID : 6900207
+- Node ID : 6900306
+- Node ID : 6900310
+- Node ID : 6900311
+- Node ID : 6900360
+- Node ID : 6900361
+- Node ID : 6900473
+- Node ID : 6900474
+- Node ID : 6900475
+- Node ID : 6900519
+- Node ID : 6900520
+- Node ID : 6900521
+- Node ID : 6900624
+- Node ID : 6900754
+- Node ID : 6900795
+- Node ID : 6900796
+- Node ID : 6900797
+- Node ID : 6900801
+- Node ID : 6900906
+- Node ID : 6900975
+- Node ID : 6900976
+- Node ID : 6900977
+- Node ID : 6900978
+- Node ID : 6900979
+- Node ID : 6900980
+- Node ID : 6900981
+- Node ID : 6900982
+- Node ID : 6900983
+- Node ID : 6900984
+- Node ID : 6900985
+- Node ID : 6900986
+- Node ID : 6901021
+- Node ID : 6901022
+- Node ID : 6901023
+- Node ID : 6901050
+- Node ID : 6901052
+- Node ID : 6901054
+- Node ID : 6901057
+- Node ID : 6901058
+- Node ID : 6901059
+- Node ID : 6901060
+- Node ID : 6901061
+- Node ID : 6901062
+- Node ID : 6901070
+- Node ID : 6901071
+- Node ID : 6901097
+- Node ID : 6901117
+- Node ID : 6901118
+- Node ID : 6901145
+- Node ID : 6901146
+- Node ID : 6901148
+- Node ID : 6901168
+- Node ID : 6901179
+- Node ID : 6901181
+- Node ID : 6901215
+- Node ID : 6901288
+- Node ID : 6901289
+- Node ID : 6901296
+- Node ID : 6901302
+- Node ID : 6901357
+- Node ID : 6901369
+- Node ID : 6901401
+- Node ID : 6901827
+- Node ID : 6902334
+- Node ID : 6902346
+- Node ID : 6902366
+- Node ID : 6902367
+- Node ID : 6902397
+- Node ID : 6905612
+- Node ID : 6905614
+- Node ID : 6905615
+- Node ID : 6905698
+- Node ID : 6905807
+
+Available Paths:
+- From 6800001 to 6801982 → Cost: 28
+- From 6800001 to 6805516 → Cost: 46
+- From 6800001 to 6800157 → Cost: 45
+- From 6800001 to 6800002 → Cost: 92
+- From 6800001 to 6801485 → Cost: 5
+- From 6800001 to 6800076 → Cost: 45
+- From 6800001 to 6801141 → Cost: 7
+- From 6800001 to 6800045 → Cost: 21
+- From 6800002 to 6800001 → Cost: 6
+- From 6800002 to 6801800 → Cost: 15
+- From 6800002 to 6800748 → Cost: 65
+- From 6800004 to 6800748 → Cost: 66
+- From 6800004 to 6800005 → Cost: 66
+- From 6800005 to 6800004 → Cost: 97
+- From 6800005 to 6800136 → Cost: 61
+- From 6800005 to 6801982 → Cost: 53
+- From 6800005 to 6801181 → Cost: 39
+- From 6800006 to 6800165 → Cost: 26
+- From 6800006 to 6805261 → Cost: 31
+- From 6800006 to 6800136 → Cost: 13
+- From 6800006 to 6800007 → Cost: 27
+- From 6800007 to 6800006 → Cost: 91
+- From 6800007 to 6801144 → Cost: 23
+- From 6800007 to 6801047 → Cost: 9
+- From 6800007 to 6800137 → Cost: 56
+- From 6800008 to 6800038 → Cost: 59
+- From 6800008 to 6806370 → Cost: 21
+- From 6800008 to 6800040 → Cost: 51
+- From 6800009 to 6801144 → Cost: 2
+- From 6800009 to 6800010 → Cost: 75
+- From 6800010 to 6800009 → Cost: 17
+- From 6800010 to 6801256 → Cost: 29
+- From 6800010 to 6800148 → Cost: 2
+- From 6800010 to 6800011 → Cost: 76
+- From 6800011 to 6801256 → Cost: 71
+- From 6800011 to 6801231 → Cost: 66
+- From 6800011 to 6800010 → Cost: 89
+- From 6800011 to 6801805 → Cost: 49
+- From 6800013 to 6802316 → Cost: 72
+- From 6800013 to 6800014 → Cost: 64
+- From 6800014 to 6800013 → Cost: 89
+- From 6800014 to 6800587 → Cost: 82
+- From 6800014 to 6800605 → Cost: 52
+- From 6800014 to 6800015 → Cost: 46
+- From 6800015 to 6800014 → Cost: 27
+- From 6800015 to 6800949 → Cost: 41
+- From 6800016 to 6801817 → Cost: 27
+- From 6800016 to 6801874 → Cost: 71
+- From 6800016 to 6801873 → Cost: 53
+- From 6800016 to 6806275 → Cost: 10
+- From 6800016 to 6800950 → Cost: 4
+- From 6800016 to 6801866 → Cost: 32
+- From 6800016 to 6801829 → Cost: 51
+- From 6800016 to 6802361 → Cost: 2
+- From 6800016 to 6801179 → Cost: 47
+- From 6800016 to 6801181 → Cost: 9
+- From 6800016 to 6802363 → Cost: 3
+- From 6800031 to 6801875 → Cost: 25
+- From 6800031 to 6801816 → Cost: 20
+- From 6800031 to 6801290 → Cost: 69
+- From 6800031 to 6806274 → Cost: 88
+- From 6800031 to 6802368 → Cost: 31
+- From 6800031 to 6801867 → Cost: 84
+- From 6800031 to 6801181 → Cost: 59
+- From 6800031 to 6802363 → Cost: 59
+- From 6800031 to 6802361 → Cost: 10
+- From 6800031 to 6801179 → Cost: 69
+- From 6800032 to 6800590 → Cost: 26
+- From 6800032 to 6800033 → Cost: 3
+- From 6800032 to 6805537 → Cost: 45
+- From 6800032 to 6800948 → Cost: 4
+- From 6800033 to 6800032 → Cost: 94
+- From 6800033 to 6801232 → Cost: 62
+- From 6800034 to 6801232 → Cost: 39
+- From 6800034 to 6800035 → Cost: 82
+- From 6800035 to 6800034 → Cost: 4
+- From 6800035 to 6800036 → Cost: 61
+- From 6800035 to 6801806 → Cost: 56
+- From 6800036 to 6800035 → Cost: 63
+- From 6800036 to 6800037 → Cost: 14
+- From 6800036 to 6800148 → Cost: 15
+- From 6800037 to 6800036 → Cost: 29
+- From 6800037 to 6800038 → Cost: 26
+- From 6800037 to 6800148 → Cost: 41
+- From 6800038 to 6800037 → Cost: 84
+- From 6800038 to 6800008 → Cost: 92
+- From 6800040 to 6806370 → Cost: 15
+- From 6800040 to 6800041 → Cost: 9
+- From 6800040 to 6800008 → Cost: 14
+- From 6800040 to 6805260 → Cost: 14
+- From 6800040 to 6801257 → Cost: 2
+- From 6800041 to 6800040 → Cost: 16
+- From 6800041 to 6800149 → Cost: 60
+- From 6800041 to 6805260 → Cost: 52
+- From 6800041 to 6801050 → Cost: 71
+- From 6800042 to 6800149 → Cost: 73
+- From 6800042 to 6800043 → Cost: 20
+- From 6800042 to 6805538 → Cost: 25
+- From 6800042 to 6801179 → Cost: 94
+- From 6800042 to 6801485 → Cost: 89
+- From 6800043 to 6800042 → Cost: 27
+- From 6800043 to 6800044 → Cost: 49
+- From 6800043 to 6802334 → Cost: 62
+- From 6800043 to 6805538 → Cost: 11
+- From 6800044 to 6800043 → Cost: 15
+- From 6800044 to 6800045 → Cost: 95
+- From 6800044 to 6800146 → Cost: 68
+- From 6800045 to 6800044 → Cost: 72
+- From 6800045 to 6801304 → Cost: 61
+- From 6800045 to 6800001 → Cost: 49
+- From 6800054 to 6801069 → Cost: 74
+- From 6800054 to 6801903 → Cost: 90
+- From 6800054 to 6801168 → Cost: 20
+- From 6800054 to 6801054 → Cost: 74
+- From 6800054 to 6805518 → Cost: 61
+- From 6800054 to 6800129 → Cost: 53
+- From 6800055 to 6801904 → Cost: 10
+- From 6800055 to 6801055 → Cost: 79
+- From 6800055 to 6801157 → Cost: 30
+- From 6800055 to 6805621 → Cost: 77
+- From 6800055 to 6801070 → Cost: 64
+- From 6800055 to 6800128 → Cost: 63
+- From 6800065 to 6801286 → Cost: 74
+- From 6800065 to 6806251 → Cost: 27
+- From 6800065 to 6806269 → Cost: 72
+- From 6800067 to 6805492 → Cost: 38
+- From 6800067 to 6800580 → Cost: 39
+- From 6800069 to 6806252 → Cost: 67
+- From 6800069 to 6801287 → Cost: 62
+- From 6800069 to 6806271 → Cost: 89
+- From 6800075 to 6801485 → Cost: 43
+- From 6800075 to 6800076 → Cost: 93
+- From 6800075 to 6800105 → Cost: 85
+- From 6800076 to 6800075 → Cost: 19
+- From 6800076 to 6800077 → Cost: 34
+- From 6800076 to 6800001 → Cost: 75
+- From 6800076 to 6805515 → Cost: 96
+- From 6800077 to 6800076 → Cost: 99
+- From 6800077 to 6805587 → Cost: 60
+- From 6800077 to 6800078 → Cost: 41
+- From 6800078 to 6806002 → Cost: 8
+- From 6800078 to 6801138 → Cost: 96
+- From 6800078 to 6805608 → Cost: 56
+- From 6800078 to 6800077 → Cost: 87
+- From 6800081 to 6805610 → Cost: 47
+- From 6800081 to 6800082 → Cost: 64
+- From 6800082 to 6800081 → Cost: 40
+- From 6800082 to 6800083 → Cost: 53
+- From 6800083 to 6800082 → Cost: 25
+- From 6800083 to 6801301 → Cost: 85
+- From 6800094 to 6800863 → Cost: 14
+- From 6800094 to 6800095 → Cost: 66
+- From 6800095 to 6800094 → Cost: 56
+- From 6800095 to 6800096 → Cost: 49
+- From 6800095 to 6805659 → Cost: 57
+- From 6800096 to 6800095 → Cost: 63
+- From 6800096 to 6806240 → Cost: 21
+- From 6800096 to 6800325 → Cost: 83
+- From 6800097 to 6806240 → Cost: 49
+- From 6800097 to 6800098 → Cost: 99
+- From 6800097 to 6805597 → Cost: 72
+- From 6800098 to 6800097 → Cost: 45
+- From 6800098 to 6800099 → Cost: 75
+- From 6800099 to 6801240 → Cost: 58
+- From 6800099 to 6801239 → Cost: 24
+- From 6800099 to 6800098 → Cost: 81
+- From 6800100 to 6801239 → Cost: 67
+- From 6800100 to 6802317 → Cost: 28
+- From 6800101 to 6802317 → Cost: 32
+- From 6800101 to 6806003 → Cost: 65
+- From 6800101 to 6800327 → Cost: 59
+- From 6800101 to 6805609 → Cost: 76
+- From 6800103 to 6800327 → Cost: 10
+- From 6800103 to 6800105 → Cost: 40
+- From 6800105 to 6800103 → Cost: 34
+- From 6800105 to 6801982 → Cost: 89
+- From 6800105 to 6801209 → Cost: 89
+- From 6800105 to 6800075 → Cost: 91
+- From 6800105 to 6805516 → Cost: 2
+- From 6800107 to 6801138 → Cost: 20
+- From 6800107 to 6801238 → Cost: 94
+- From 6800108 to 6801238 → Cost: 82
+- From 6800108 to 6800109 → Cost: 70
+- From 6800108 to 6805590 → Cost: 30
+- From 6800109 to 6800108 → Cost: 79
+- From 6800109 to 6800315 → Cost: 69
+- From 6800112 to 6800974 → Cost: 40
+- From 6800112 to 6800113 → Cost: 76
+- From 6800112 to 6805660 → Cost: 9
+- From 6800113 to 6800112 → Cost: 97
+- From 6800113 to 6800862 → Cost: 98
+- From 6800114 to 6800322 → Cost: 14
+- From 6800114 to 6806359 → Cost: 66
+- From 6800124 to 6806254 → Cost: 53
+- From 6800124 to 6802320 → Cost: 83
+- From 6800124 to 6800720 → Cost: 79
+- From 6800124 to 6805813 → Cost: 15
+- From 6800124 to 6800134 → Cost: 20
+- From 6800124 to 6800679 → Cost: 33
+- From 6800124 to 6801894 → Cost: 11
+- From 6800125 to 6802320 → Cost: 57
+- From 6800125 to 6800126 → Cost: 92
+- From 6800125 to 6805503 → Cost: 26
+- From 6800126 to 6800125 → Cost: 25
+- From 6800126 to 6805486 → Cost: 90
+- From 6800126 to 6801260 → Cost: 2
+- From 6800128 to 6801910 → Cost: 85
+- From 6800128 to 6800055 → Cost: 77
+- From 6800129 to 6800054 → Cost: 26
+- From 6800129 to 6801909 → Cost: 92
+- From 6800130 to 6801297 → Cost: 97
+- From 6800130 to 6805485 → Cost: 43
+- From 6800130 to 6800131 → Cost: 29
+- From 6800131 to 6805485 → Cost: 93
+- From 6800131 to 6800132 → Cost: 65
+- From 6800131 to 6800130 → Cost: 17
+- From 6800132 to 6800131 → Cost: 73
+- From 6800132 to 6802319 → Cost: 70
+- From 6800133 to 6802319 → Cost: 58
+- From 6800133 to 6806253 → Cost: 84
+- From 6800133 to 6805534 → Cost: 37
+- From 6800133 to 6805812 → Cost: 49
+- From 6800133 to 6800134 → Cost: 30
+- From 6800133 to 6800628 → Cost: 41
+- From 6800134 to 6800133 → Cost: 91
+- From 6800134 to 6800124 → Cost: 10
+- From 6800136 to 6800005 → Cost: 78
+- From 6800136 to 6801207 → Cost: 24
+- From 6800136 to 6800006 → Cost: 24
+- From 6800137 to 6800007 → Cost: 52
+- From 6800137 to 6801809 → Cost: 44
+- From 6800138 to 6801809 → Cost: 12
+- From 6800138 to 6800139 → Cost: 90
+- From 6800139 to 6800138 → Cost: 37
+- From 6800139 to 6800140 → Cost: 90
+- From 6800139 to 6802335 → Cost: 84
+- From 6800139 to 6800141 → Cost: 1
+- From 6800140 to 6800139 → Cost: 61
+- From 6800140 to 6805647 → Cost: 23
+- From 6800141 to 6805647 → Cost: 1
+- From 6800141 to 6802333 → Cost: 95
+- From 6800141 to 6800139 → Cost: 29
+- From 6800142 to 6802333 → Cost: 50
+- From 6800142 to 6800143 → Cost: 34
+- From 6800143 to 6800142 → Cost: 54
+- From 6800143 to 6801013 → Cost: 3
+- From 6800146 to 6801050 → Cost: 27
+- From 6800146 to 6800044 → Cost: 71
+- From 6800148 to 6800036 → Cost: 85
+- From 6800148 to 6800037 → Cost: 34
+- From 6800148 to 6800010 → Cost: 22
+- From 6800148 to 6801256 → Cost: 33
+- From 6800149 to 6800041 → Cost: 59
+- From 6800149 to 6800042 → Cost: 16
+- From 6800149 to 6801848 → Cost: 69
+- From 6800150 to 6806363 → Cost: 10
+- From 6800150 to 6800151 → Cost: 33
+- From 6800150 to 6800216 → Cost: 73
+- From 6800151 to 6800150 → Cost: 39
+- From 6800151 to 6800152 → Cost: 83
+- From 6800152 to 6800151 → Cost: 20
+- From 6800152 to 6800153 → Cost: 26
+- From 6800152 to 6800305 → Cost: 65
+- From 6800153 to 6800221 → Cost: 26
+- From 6800153 to 6800340 → Cost: 6
+- From 6800153 to 6800152 → Cost: 92
+- From 6800153 to 6800338 → Cost: 47
+- From 6800153 to 6800154 → Cost: 22
+- From 6800153 to 6800342 → Cost: 63
+- From 6800154 to 6800341 → Cost: 65
+- From 6800154 to 6800155 → Cost: 58
+- From 6800154 to 6800153 → Cost: 52
+- From 6800154 to 6800383 → Cost: 53
+- From 6800155 to 6800154 → Cost: 65
+- From 6800155 to 6801141 → Cost: 25
+- From 6800157 to 6800001 → Cost: 57
+- From 6800157 to 6800158 → Cost: 66
+- From 6800158 to 6800157 → Cost: 8
+- From 6800158 to 6800159 → Cost: 65
+- From 6800159 to 6800158 → Cost: 81
+- From 6800159 to 6800160 → Cost: 37
+- From 6800160 to 6800159 → Cost: 23
+- From 6800160 to 6800380 → Cost: 76
+- From 6800160 to 6801208 → Cost: 39
+- From 6800160 to 6800338 → Cost: 97
+- From 6800162 to 6801208 → Cost: 40
+- From 6800162 to 6800680 → Cost: 15
+- From 6800162 to 6800209 → Cost: 98
+- From 6800165 to 6801799 → Cost: 57
+- From 6800165 to 6800006 → Cost: 55
+- From 6800165 to 6806367 → Cost: 26
+- From 6800165 to 6801848 → Cost: 1
+- From 6800165 to 6800216 → Cost: 28
+- From 6800209 to 6800162 → Cost: 85
+- From 6800209 to 6800210 → Cost: 95
+- From 6800210 to 6800209 → Cost: 60
+- From 6800210 to 6800211 → Cost: 63
+- From 6800211 to 6800210 → Cost: 69
+- From 6800211 to 6800212 → Cost: 47
+- From 6800212 to 6800211 → Cost: 10
+- From 6800212 to 6800213 → Cost: 8
+- From 6800212 to 6801204 → Cost: 65
+- From 6800213 to 6800212 → Cost: 51
+- From 6800213 to 6800214 → Cost: 76
+- From 6800214 to 6800213 → Cost: 50
+- From 6800214 to 6800636 → Cost: 91
+- From 6800216 to 6800636 → Cost: 55
+- From 6800216 to 6806363 → Cost: 6
+- From 6800216 to 6801912 → Cost: 87
+- From 6800216 to 6801799 → Cost: 62
+- From 6800216 to 6800150 → Cost: 20
+- From 6800216 to 6800165 → Cost: 71
+- From 6800219 to 6801798 → Cost: 90
+- From 6800219 to 6800221 → Cost: 31
+- From 6800219 to 6801210 → Cost: 1
+- From 6800219 to 6802334 → Cost: 55
+- From 6800219 to 6801912 → Cost: 14
+- From 6800221 to 6800219 → Cost: 51
+- From 6800221 to 6800153 → Cost: 42
+- From 6800222 to 6806362 → Cost: 19
+- From 6800222 to 6800223 → Cost: 39
+- From 6800222 to 6800681 → Cost: 42
+- From 6800222 to 6801911 → Cost: 7
+- From 6800222 to 6801050 → Cost: 69
+- From 6800222 to 6801798 → Cost: 99
+- From 6800223 to 6800222 → Cost: 94
+- From 6800223 to 6806365 → Cost: 68
+- From 6800223 to 6802329 → Cost: 54
+- From 6800224 to 6802329 → Cost: 97
+- From 6800224 to 6800225 → Cost: 90
+- From 6800225 to 6800224 → Cost: 82
+- From 6800225 to 6800226 → Cost: 57
+- From 6800226 to 6800225 → Cost: 89
+- From 6800226 to 6800227 → Cost: 72
+- From 6800226 to 6802335 → Cost: 71
+- From 6800226 to 6800256 → Cost: 89
+- From 6800227 to 6800226 → Cost: 15
+- From 6800227 to 6800228 → Cost: 37
+- From 6800228 to 6800227 → Cost: 58
+- From 6800228 to 6800229 → Cost: 19
+- From 6800229 to 6800228 → Cost: 9
+- From 6800229 to 6800230 → Cost: 74
+- From 6800230 to 6800229 → Cost: 88
+- From 6800230 to 6800231 → Cost: 75
+- From 6800231 to 6800230 → Cost: 9
+- From 6800231 to 6800232 → Cost: 6
+- From 6800232 to 6800231 → Cost: 70
+- From 6800232 to 6800233 → Cost: 45
+- From 6800233 to 6800232 → Cost: 69
+- From 6800233 to 6800234 → Cost: 31
+- From 6800234 to 6800233 → Cost: 92
+- From 6800234 to 6800235 → Cost: 91
+- From 6800235 to 6800234 → Cost: 47
+- From 6800235 to 6800236 → Cost: 1
+- From 6800236 to 6800235 → Cost: 26
+- From 6800236 to 6800237 → Cost: 79
+- From 6800237 to 6800236 → Cost: 24
+- From 6800237 to 6801802 → Cost: 35
+- From 6800238 to 6801802 → Cost: 54
+- From 6800238 to 6800239 → Cost: 99
+- From 6800238 to 6801906 → Cost: 16
+- From 6800238 to 6801181 → Cost: 70
+- From 6800239 to 6800238 → Cost: 58
+- From 6800239 to 6806236 → Cost: 10
+- From 6800239 to 6805638 → Cost: 45
+- From 6800239 to 6801803 → Cost: 90
+- From 6800240 to 6801803 → Cost: 89
+- From 6800240 to 6800241 → Cost: 34
+- From 6800240 to 6805636 → Cost: 19
+- From 6800240 to 6805632 → Cost: 60
+- From 6800241 to 6800240 → Cost: 85
+- From 6800241 to 6800242 → Cost: 93
+- From 6800242 to 6800241 → Cost: 61
+- From 6800243 to 6805640 → Cost: 20
+- From 6800243 to 6800244 → Cost: 75
+- From 6800244 to 6800243 → Cost: 48
+- From 6800244 to 6801804 → Cost: 29
+- From 6800244 to 6805633 → Cost: 16
+- From 6800244 to 6805635 → Cost: 13
+- From 6800245 to 6802346 → Cost: 91
+- From 6800245 to 6800263 → Cost: 52
+- From 6800245 to 6801804 → Cost: 83
+- From 6800245 to 6805639 → Cost: 72
+- From 6800246 to 6805639 → Cost: 79
+- From 6800246 to 6800247 → Cost: 63
+- From 6800247 to 6800246 → Cost: 4
+- From 6800247 to 6802331 → Cost: 16
+- From 6800248 to 6802331 → Cost: 13
+- From 6800248 to 6802332 → Cost: 86
+- From 6800248 to 6800275 → Cost: 84
+- From 6800250 to 6801259 → Cost: 83
+- From 6800250 to 6800251 → Cost: 74
+- From 6800251 to 6800250 → Cost: 92
+- From 6800251 to 6800252 → Cost: 80
+- From 6800252 to 6800251 → Cost: 72
+- From 6800252 to 6800253 → Cost: 35
+- From 6800253 to 6800252 → Cost: 8
+- From 6800253 to 6800254 → Cost: 45
+- From 6800253 to 6800274 → Cost: 60
+- From 6800254 to 6800253 → Cost: 41
+- From 6800254 to 6800255 → Cost: 46
+- From 6800255 to 6800254 → Cost: 47
+- From 6800255 to 6801011 → Cost: 79
+- From 6800256 to 6800226 → Cost: 31
+- From 6800256 to 6800257 → Cost: 55
+- From 6800257 to 6800256 → Cost: 34
+- From 6800257 to 6800258 → Cost: 95
+- From 6800258 to 6800257 → Cost: 32
+- From 6800258 to 6800259 → Cost: 86
+- From 6800259 to 6800258 → Cost: 63
+- From 6800259 to 6800907 → Cost: 72
+- From 6800260 to 6800907 → Cost: 33
+- From 6800260 to 6802330 → Cost: 18
+- From 6800261 to 6802330 → Cost: 16
+- From 6800261 to 6802331 → Cost: 85
+- From 6800261 to 6805637 → Cost: 91
+- From 6800263 to 6800245 → Cost: 31
+- From 6800263 to 6801801 → Cost: 67
+- From 6800264 to 6801801 → Cost: 27
+- From 6800264 to 6800265 → Cost: 65
+- From 6800265 to 6800264 → Cost: 69
+- From 6800265 to 6800266 → Cost: 81
+- From 6800266 to 6800265 → Cost: 95
+- From 6800266 to 6800267 → Cost: 33
+- From 6800267 to 6800266 → Cost: 63
+- From 6800267 to 6800268 → Cost: 74
+- From 6800268 to 6800267 → Cost: 97
+- From 6800268 to 6800269 → Cost: 86
+- From 6800269 to 6800268 → Cost: 69
+- From 6800269 to 6800270 → Cost: 8
+- From 6800270 to 6800269 → Cost: 19
+- From 6800270 to 6800271 → Cost: 10
+- From 6800271 to 6800270 → Cost: 76
+- From 6800271 to 6800272 → Cost: 23
+- From 6800272 to 6800271 → Cost: 52
+- From 6800272 to 6800273 → Cost: 2
+- From 6800273 to 6800272 → Cost: 66
+- From 6800273 to 6800274 → Cost: 22
+- From 6800274 to 6800273 → Cost: 67
+- From 6800274 to 6800253 → Cost: 63
+- From 6800275 to 6800248 → Cost: 47
+- From 6800275 to 6800276 → Cost: 8
+- From 6800276 to 6800298 → Cost: 56
+- From 6800276 to 6800277 → Cost: 25
+- From 6800276 to 6800275 → Cost: 67
+- From 6800277 to 6800276 → Cost: 1
+- From 6800277 to 6801253 → Cost: 12
+- From 6800278 to 6801253 → Cost: 89
+- From 6800278 to 6800279 → Cost: 15
+- From 6800279 to 6800278 → Cost: 29
+- From 6800279 to 6800280 → Cost: 49
+- From 6800280 to 6800279 → Cost: 54
+- From 6800280 to 6800281 → Cost: 81
+- From 6800281 to 6800280 → Cost: 30
+- From 6800281 to 6800282 → Cost: 58
+- From 6800282 to 6800281 → Cost: 50
+- From 6800282 to 6800283 → Cost: 17
+- From 6800283 to 6800282 → Cost: 22
+- From 6800283 to 6800284 → Cost: 82
+- From 6800284 to 6800283 → Cost: 83
+- From 6800284 to 6801252 → Cost: 43
+- From 6800285 to 6801252 → Cost: 56
+- From 6800285 to 6800286 → Cost: 8
+- From 6800286 to 6800285 → Cost: 57
+- From 6800286 to 6800907 → Cost: 17
+- From 6800286 to 6802332 → Cost: 7
+- From 6800286 to 6800287 → Cost: 99
+- From 6800287 to 6800286 → Cost: 96
+- From 6800287 to 6800288 → Cost: 59
+- From 6800288 to 6800287 → Cost: 21
+- From 6800288 to 6800289 → Cost: 83
+- From 6800289 to 6800288 → Cost: 69
+- From 6800289 to 6800290 → Cost: 37
+- From 6800290 to 6800289 → Cost: 31
+- From 6800290 to 6800291 → Cost: 31
+- From 6800291 to 6800290 → Cost: 15
+- From 6800291 to 6802339 → Cost: 67
+- From 6800293 to 6801047 → Cost: 64
+- From 6800293 to 6800294 → Cost: 6
+- From 6800294 to 6800293 → Cost: 84
+- From 6800294 to 6800295 → Cost: 21
+- From 6800295 to 6800294 → Cost: 82
+- From 6800295 to 6800296 → Cost: 81
+- From 6800296 to 6800295 → Cost: 32
+- From 6800296 to 6800297 → Cost: 43
+- From 6800297 to 6800296 → Cost: 1
+- From 6800297 to 6800298 → Cost: 5
+- From 6800298 to 6800297 → Cost: 79
+- From 6800298 to 6800276 → Cost: 33
+- From 6800300 to 6801011 → Cost: 3
+- From 6800300 to 6800301 → Cost: 76
+- From 6800301 to 6800300 → Cost: 49
+- From 6800301 to 6800302 → Cost: 46
+- From 6800302 to 6800301 → Cost: 11
+- From 6800302 to 6800303 → Cost: 26
+- From 6800302 to 6801205 → Cost: 85
+- From 6800303 to 6800302 → Cost: 94
+- From 6800303 to 6800304 → Cost: 44
+- From 6800304 to 6800303 → Cost: 11
+- From 6800304 to 6800305 → Cost: 10
+- From 6800305 to 6800304 → Cost: 68
+- From 6800305 to 6800152 → Cost: 66
+- From 6800307 to 6806322 → Cost: 18
+- From 6800307 to 6800308 → Cost: 39
+- From 6800307 to 6900906 → Cost: 19
+- From 6800307 to 6800893 → Cost: 45
+- From 6800308 to 6800307 → Cost: 32
+- From 6800308 to 6800685 → Cost: 79
+- From 6800308 to 6800309 → Cost: 78
+- From 6800308 to 6800975 → Cost: 49
+- From 6800309 to 6800308 → Cost: 3
+- From 6800309 to 6801244 → Cost: 56
+- From 6800309 to 6800986 → Cost: 17
+- From 6800309 to 6805604 → Cost: 56
+- From 6800310 to 6805604 → Cost: 99
+- From 6800310 to 6805603 → Cost: 90
+- From 6800311 to 6805603 → Cost: 85
+- From 6800311 to 6806324 → Cost: 69
+- From 6800312 to 6800320 → Cost: 66
+- From 6800312 to 6800313 → Cost: 43
+- From 6800312 to 6805602 → Cost: 56
+- From 6800312 to 6800975 → Cost: 92
+- From 6800313 to 6800312 → Cost: 29
+- From 6800313 to 6800314 → Cost: 62
+- From 6800313 to 6800970 → Cost: 93
+- From 6800313 to 6800986 → Cost: 82
+- From 6800314 to 6800313 → Cost: 59
+- From 6800314 to 6806319 → Cost: 16
+- From 6800314 to 6805618 → Cost: 98
+- From 6800314 to 6900906 → Cost: 46
+- From 6800314 to 6800906 → Cost: 60
+- From 6800315 to 6800109 → Cost: 47
+- From 6800315 to 6806239 → Cost: 42
+- From 6800315 to 6805598 → Cost: 57
+- From 6800316 to 6800974 → Cost: 28
+- From 6800316 to 6800324 → Cost: 35
+- From 6800316 to 6802394 → Cost: 30
+- From 6800319 to 6800862 → Cost: 16
+- From 6800319 to 6800320 → Cost: 11
+- From 6800319 to 6801241 → Cost: 92
+- From 6800320 to 6800319 → Cost: 27
+- From 6800320 to 6800312 → Cost: 64
+- From 6800322 to 6801244 → Cost: 69
+- From 6800322 to 6800863 → Cost: 75
+- From 6800322 to 6800114 → Cost: 74
+- From 6800324 to 6800316 → Cost: 85
+- From 6800324 to 6802394 → Cost: 20
+- From 6800324 to 6802393 → Cost: 80
+- From 6800324 to 6800325 → Cost: 53
+- From 6800325 to 6802393 → Cost: 10
+- From 6800325 to 6800096 → Cost: 69
+- From 6800325 to 6800324 → Cost: 85
+- From 6800327 to 6806003 → Cost: 76
+- From 6800327 to 6800103 → Cost: 93
+- From 6800327 to 6800101 → Cost: 83
+- From 6800329 to 6800370 → Cost: 15
+- From 6800329 to 6800330 → Cost: 7
+- From 6800330 to 6800329 → Cost: 80
+- From 6800330 to 6800331 → Cost: 18
+- From 6800331 to 6800330 → Cost: 29
+- From 6800331 to 6800372 → Cost: 39
+- From 6800331 to 6800431 → Cost: 9
+- From 6800331 to 6800332 → Cost: 95
+- From 6800332 to 6800348 → Cost: 68
+- From 6800332 to 6800333 → Cost: 64
+- From 6800332 to 6800331 → Cost: 67
+- From 6800333 to 6800332 → Cost: 3
+- From 6800333 to 6801124 → Cost: 24
+- From 6800334 to 6801125 → Cost: 81
+- From 6800334 to 6800335 → Cost: 22
+- From 6800334 to 6800372 → Cost: 8
+- From 6800335 to 6800348 → Cost: 41
+- From 6800335 to 6800336 → Cost: 21
+- From 6800335 to 6800334 → Cost: 73
+- From 6800335 to 6800418 → Cost: 50
+- From 6800336 to 6800335 → Cost: 41
+- From 6800336 to 6800350 → Cost: 50
+- From 6800337 to 6800350 → Cost: 9
+- From 6800337 to 6800351 → Cost: 64
+- From 6800338 to 6800153 → Cost: 84
+- From 6800338 to 6800339 → Cost: 25
+- From 6800338 to 6800160 → Cost: 2
+- From 6800339 to 6800338 → Cost: 3
+- From 6800339 to 6800340 → Cost: 88
+- From 6800340 to 6800153 → Cost: 97
+- From 6800340 to 6800342 → Cost: 66
+- From 6800340 to 6800339 → Cost: 70
+- From 6800340 to 6800341 → Cost: 14
+- From 6800341 to 6800340 → Cost: 5
+- From 6800341 to 6800154 → Cost: 17
+- From 6800341 to 6800342 → Cost: 38
+- From 6800342 to 6800340 → Cost: 58
+- From 6800342 to 6805811 → Cost: 54
+- From 6800342 to 6800341 → Cost: 98
+- From 6800342 to 6800343 → Cost: 16
+- From 6800342 to 6800153 → Cost: 96
+- From 6800342 to 6800431 → Cost: 8
+- From 6800343 to 6800342 → Cost: 65
+- From 6800343 to 6800344 → Cost: 16
+- From 6800344 to 6800343 → Cost: 51
+- From 6800344 to 6800345 → Cost: 95
+- From 6800345 to 6800344 → Cost: 84
+- From 6800345 to 6800346 → Cost: 19
+- From 6800345 to 6801128 → Cost: 87
+- From 6800346 to 6800345 → Cost: 85
+- From 6800346 to 6800347 → Cost: 12
+- From 6800347 to 6800346 → Cost: 14
+- From 6800347 to 6800348 → Cost: 48
+- From 6800348 to 6800347 → Cost: 48
+- From 6800348 to 6800335 → Cost: 62
+- From 6800348 to 6800332 → Cost: 18
+- From 6800350 to 6800336 → Cost: 25
+- From 6800350 to 6800337 → Cost: 61
+- From 6800351 to 6800337 → Cost: 14
+- From 6800351 to 6800352 → Cost: 36
+- From 6800352 to 6800351 → Cost: 32
+- From 6800352 to 6800353 → Cost: 84
+- From 6800353 to 6800352 → Cost: 33
+- From 6800353 to 6800354 → Cost: 57
+- From 6800353 to 6800431 → Cost: 13
+- From 6800354 to 6800353 → Cost: 96
+- From 6800354 to 6800355 → Cost: 8
+- From 6800354 to 6800624 → Cost: 89
+- From 6800355 to 6800354 → Cost: 88
+- From 6800355 to 6800356 → Cost: 82
+- From 6800356 to 6800355 → Cost: 52
+- From 6800356 to 6800357 → Cost: 37
+- From 6800356 to 6800474 → Cost: 98
+- From 6800357 to 6800356 → Cost: 88
+- From 6800357 to 6800358 → Cost: 34
+- From 6800358 to 6800357 → Cost: 84
+- From 6800358 to 6802337 → Cost: 68
+- From 6800359 to 6802337 → Cost: 72
+- From 6800359 to 6800624 → Cost: 29
+- From 6800361 to 6800417 → Cost: 45
+- From 6800361 to 6800362 → Cost: 25
+- From 6800361 to 6800507 → Cost: 43
+- From 6800361 to 6800367 → Cost: 44
+- From 6800362 to 6800361 → Cost: 57
+- From 6800362 to 6802338 → Cost: 62
+- From 6800363 to 6802338 → Cost: 82
+- From 6800363 to 6800364 → Cost: 15
+- From 6800364 to 6800363 → Cost: 77
+- From 6800364 to 6800365 → Cost: 57
+- From 6800365 to 6800364 → Cost: 47
+- From 6800365 to 6800366 → Cost: 89
+- From 6800365 to 6800468 → Cost: 13
+- From 6800366 to 6800365 → Cost: 84
+- From 6800366 to 6806372 → Cost: 42
+- From 6800367 to 6806372 → Cost: 54
+- From 6800367 to 6800368 → Cost: 59
+- From 6800367 to 6800361 → Cost: 25
+- From 6800368 to 6800367 → Cost: 24
+- From 6800368 to 6800369 → Cost: 26
+- From 6800368 to 6800418 → Cost: 35
+- From 6800369 to 6800368 → Cost: 85
+- From 6800369 to 6800370 → Cost: 64
+- From 6800370 to 6800369 → Cost: 88
+- From 6800370 to 6800329 → Cost: 26
+- From 6800372 to 6800331 → Cost: 58
+- From 6800372 to 6800373 → Cost: 80
+- From 6800372 to 6800334 → Cost: 82
+- From 6800373 to 6800372 → Cost: 22
+- From 6800373 to 6800374 → Cost: 92
+- From 6800374 to 6800373 → Cost: 2
+- From 6800374 to 6800375 → Cost: 55
+- From 6800375 to 6800374 → Cost: 65
+- From 6800375 to 6800376 → Cost: 79
+- From 6800375 to 6801127 → Cost: 94
+- From 6800376 to 6800375 → Cost: 46
+- From 6800376 to 6800377 → Cost: 95
+- From 6800377 to 6800376 → Cost: 80
+- From 6800377 to 6800378 → Cost: 5
+- From 6800378 to 6805810 → Cost: 53
+- From 6800378 to 6800381 → Cost: 57
+- From 6800378 to 6800377 → Cost: 67
+- From 6800378 to 6800379 → Cost: 29
+- From 6800378 to 6800418 → Cost: 7
+- From 6800378 to 6801208 → Cost: 63
+- From 6800379 to 6800378 → Cost: 40
+- From 6800379 to 6800380 → Cost: 34
+- From 6800380 to 6800160 → Cost: 88
+- From 6800380 to 6800381 → Cost: 36
+- From 6800380 to 6800379 → Cost: 99
+- From 6800381 to 6800378 → Cost: 5
+- From 6800381 to 6801208 → Cost: 95
+- From 6800381 to 6800380 → Cost: 16
+- From 6800381 to 6800382 → Cost: 90
+- From 6800382 to 6800381 → Cost: 48
+- From 6800382 to 6800383 → Cost: 2
+- From 6800383 to 6800382 → Cost: 63
+- From 6800383 to 6801208 → Cost: 50
+- From 6800383 to 6800154 → Cost: 98
+- From 6800384 to 6800624 → Cost: 65
+- From 6800384 to 6800385 → Cost: 74
+- From 6800384 to 6800469 → Cost: 50
+- From 6800384 to 6800386 → Cost: 7
+- From 6800384 to 6800561 → Cost: 89
+- From 6800385 to 6800384 → Cost: 82
+- From 6800385 to 6800386 → Cost: 13
+- From 6800386 to 6800385 → Cost: 70
+- From 6800386 to 6800387 → Cost: 10
+- From 6800386 to 6800384 → Cost: 57
+- From 6800386 to 6800391 → Cost: 23
+- From 6800387 to 6800386 → Cost: 45
+- From 6800387 to 6800388 → Cost: 16
+- From 6800388 to 6800387 → Cost: 26
+- From 6800388 to 6800389 → Cost: 82
+- From 6800389 to 6800388 → Cost: 39
+- From 6800389 to 6805646 → Cost: 59
+- From 6800391 to 6805646 → Cost: 73
+- From 6800391 to 6800392 → Cost: 52
+- From 6800391 to 6800386 → Cost: 52
+- From 6800391 to 6800393 → Cost: 4
+- From 6800392 to 6800391 → Cost: 95
+- From 6800392 to 6806188 → Cost: 30
+- From 6800393 to 6801118 → Cost: 83
+- From 6800393 to 6800394 → Cost: 54
+- From 6800393 to 6800391 → Cost: 54
+- From 6800393 to 6800396 → Cost: 26
+- From 6800394 to 6800393 → Cost: 55
+- From 6800394 to 6800395 → Cost: 45
+- From 6800395 to 6800394 → Cost: 46
+- From 6800395 to 6800396 → Cost: 53
+- From 6800396 to 6800395 → Cost: 97
+- From 6800396 to 6800397 → Cost: 29
+- From 6800396 to 6800393 → Cost: 40
+- From 6800397 to 6800396 → Cost: 38
+- From 6800397 to 6805701 → Cost: 38
+- From 6800397 to 6800399 → Cost: 34
+- From 6800398 to 6805701 → Cost: 79
+- From 6800398 to 6800399 → Cost: 14
+- From 6800399 to 6800398 → Cost: 20
+- From 6800399 to 6801229 → Cost: 75
+- From 6800399 to 6800397 → Cost: 37
+- From 6800399 to 6802402 → Cost: 64
+- From 6800400 to 6801229 → Cost: 78
+- From 6800400 to 6805643 → Cost: 53
+- From 6800400 to 6800402 → Cost: 8
+- From 6800401 to 6805644 → Cost: 92
+- From 6800401 to 6800511 → Cost: 91
+- From 6800401 to 6800566 → Cost: 50
+- From 6800402 to 6800400 → Cost: 30
+- From 6800402 to 6800405 → Cost: 30
+- From 6800402 to 6805644 → Cost: 98
+- From 6800402 to 6800403 → Cost: 51
+- From 6800403 to 6800402 → Cost: 80
+- From 6800403 to 6800404 → Cost: 9
+- From 6800404 to 6800403 → Cost: 51
+- From 6800404 to 6800405 → Cost: 9
+- From 6800405 to 6800402 → Cost: 53
+- From 6800405 to 6800406 → Cost: 46
+- From 6800405 to 6800404 → Cost: 68
+- From 6800406 to 6800405 → Cost: 70
+- From 6800406 to 6800409 → Cost: 98
+- From 6800406 to 6800407 → Cost: 10
+- From 6800407 to 6800406 → Cost: 61
+- From 6800407 to 6800408 → Cost: 28
+- From 6800408 to 6800407 → Cost: 73
+- From 6800408 to 6800409 → Cost: 82
+- From 6800409 to 6800406 → Cost: 72
+- From 6800409 to 6800410 → Cost: 95
+- From 6800409 to 6800408 → Cost: 51
+- From 6800409 to 6806187 → Cost: 93
+- From 6800410 to 6800409 → Cost: 59
+- From 6800410 to 6800415 → Cost: 97
+- From 6800410 to 6801118 → Cost: 91
+- From 6800410 to 6805645 → Cost: 79
+- From 6800412 to 6805645 → Cost: 43
+- From 6800412 to 6800413 → Cost: 83
+- From 6800413 to 6800412 → Cost: 30
+- From 6800413 to 6800414 → Cost: 50
+- From 6800414 to 6800413 → Cost: 53
+- From 6800414 to 6800415 → Cost: 63
+- From 6800415 to 6800416 → Cost: 2
+- From 6800415 to 6800410 → Cost: 64
+- From 6800415 to 6800417 → Cost: 88
+- From 6800415 to 6800414 → Cost: 70
+- From 6800416 to 6800415 → Cost: 48
+- From 6800416 to 6800417 → Cost: 70
+- From 6800417 to 6800416 → Cost: 65
+- From 6800417 to 6800361 → Cost: 44
+- From 6800417 to 6800515 → Cost: 36
+- From 6800417 to 6900361 → Cost: 93
+- From 6800417 to 6800478 → Cost: 77
+- From 6800417 to 6800415 → Cost: 74
+- From 6800418 to 6800335 → Cost: 23
+- From 6800418 to 6800419 → Cost: 64
+- From 6800418 to 6806186 → Cost: 39
+- From 6800418 to 6800368 → Cost: 69
+- From 6800418 to 6800378 → Cost: 8
+- From 6800419 to 6800418 → Cost: 27
+- From 6800419 to 6800420 → Cost: 41
+- From 6800420 to 6800419 → Cost: 24
+- From 6800420 to 6800421 → Cost: 99
+- From 6800421 to 6800420 → Cost: 31
+- From 6800421 to 6800422 → Cost: 82
+- From 6800422 to 6800421 → Cost: 33
+- From 6800422 to 6800423 → Cost: 33
+- From 6800423 to 6800422 → Cost: 11
+- From 6800423 to 6800424 → Cost: 22
+- From 6800424 to 6800423 → Cost: 84
+- From 6800424 to 6800910 → Cost: 41
+- From 6800425 to 6800943 → Cost: 52
+- From 6800425 to 6800426 → Cost: 65
+- From 6800426 to 6800425 → Cost: 86
+- From 6800426 to 6800427 → Cost: 31
+- From 6800427 to 6800426 → Cost: 30
+- From 6800427 to 6800428 → Cost: 81
+- From 6800428 to 6800427 → Cost: 97
+- From 6800428 to 6800429 → Cost: 74
+- From 6800429 to 6800428 → Cost: 77
+- From 6800429 to 6800430 → Cost: 34
+- From 6800430 to 6800429 → Cost: 64
+- From 6800430 to 6800431 → Cost: 87
+- From 6800431 to 6800430 → Cost: 16
+- From 6800431 to 6800331 → Cost: 66
+- From 6800431 to 6800342 → Cost: 95
+- From 6800431 to 6800353 → Cost: 32
+- From 6800431 to 6806190 → Cost: 78
+- From 6800433 to 6806186 → Cost: 45
+- From 6800433 to 6801120 → Cost: 74
+- From 6800433 to 6800440 → Cost: 6
+- From 6800433 to 6806190 → Cost: 39
+- From 6800435 to 6801120 → Cost: 55
+- From 6800435 to 6800436 → Cost: 89
+- From 6800436 to 6800435 → Cost: 7
+- From 6800436 to 6800437 → Cost: 66
+- From 6800437 to 6800436 → Cost: 46
+- From 6800438 to 6805651 → Cost: 28
+- From 6800438 to 6800439 → Cost: 28
+- From 6800439 to 6800438 → Cost: 19
+- From 6800439 to 6800440 → Cost: 9
+- From 6800440 to 6800439 → Cost: 17
+- From 6800440 to 6800433 → Cost: 87
+- From 6800441 to 6801204 → Cost: 80
+- From 6800441 to 6801203 → Cost: 49
+- From 6800442 to 6801203 → Cost: 53
+- From 6800442 to 6800443 → Cost: 28
+- From 6800443 to 6800442 → Cost: 21
+- From 6800443 to 6800444 → Cost: 36
+- From 6800443 to 6801129 → Cost: 13
+- From 6800444 to 6800443 → Cost: 49
+- From 6800444 to 6801269 → Cost: 77
+- From 6800445 to 6801269 → Cost: 50
+- From 6800445 to 6800446 → Cost: 33
+- From 6800446 to 6800445 → Cost: 51
+- From 6800446 to 6800447 → Cost: 18
+- From 6800447 to 6800446 → Cost: 29
+- From 6800447 to 6800448 → Cost: 47
+- From 6800448 to 6800447 → Cost: 72
+- From 6800448 to 6800449 → Cost: 84
+- From 6800449 to 6800448 → Cost: 78
+- From 6800449 to 6800450 → Cost: 72
+- From 6800450 to 6800449 → Cost: 70
+- From 6800450 to 6805650 → Cost: 43
+- From 6800451 to 6800452 → Cost: 73
+- From 6800452 to 6800451 → Cost: 9
+- From 6800452 to 6800453 → Cost: 81
+- From 6800453 to 6800452 → Cost: 53
+- From 6800453 to 6800454 → Cost: 7
+- From 6800454 to 6800453 → Cost: 18
+- From 6800454 to 6800455 → Cost: 68
+- From 6800455 to 6800454 → Cost: 55
+- From 6800455 to 6800456 → Cost: 85
+- From 6800456 to 6800455 → Cost: 21
+- From 6800456 to 6800457 → Cost: 14
+- From 6800457 to 6800456 → Cost: 38
+- From 6800457 to 6800458 → Cost: 29
+- From 6800458 to 6800457 → Cost: 58
+- From 6800458 to 6800459 → Cost: 88
+- From 6800459 to 6800458 → Cost: 55
+- From 6800459 to 6800460 → Cost: 34
+- From 6800460 to 6800459 → Cost: 59
+- From 6800460 to 6800461 → Cost: 30
+- From 6800460 to 6801126 → Cost: 87
+- From 6800461 to 6800460 → Cost: 89
+- From 6800461 to 6801202 → Cost: 94
+- From 6800462 to 6801202 → Cost: 50
+- From 6800462 to 6801205 → Cost: 61
+- From 6800463 to 6800473 → Cost: 30
+- From 6800463 to 6800464 → Cost: 71
+- From 6800464 to 6800463 → Cost: 67
+- From 6800464 to 6800465 → Cost: 86
+- From 6800465 to 6800464 → Cost: 14
+- From 6800465 to 6800466 → Cost: 42
+- From 6800466 to 6800465 → Cost: 4
+- From 6800466 to 6800467 → Cost: 46
+- From 6800467 to 6800466 → Cost: 91
+- From 6800467 to 6800468 → Cost: 93
+- From 6800468 to 6800467 → Cost: 19
+- From 6800468 to 6800474 → Cost: 98
+- From 6800468 to 6800365 → Cost: 84
+- From 6800469 to 6800384 → Cost: 65
+- From 6800469 to 6800470 → Cost: 29
+- From 6800470 to 6800469 → Cost: 74
+- From 6800470 to 6800471 → Cost: 77
+- From 6800470 to 6800479 → Cost: 85
+- From 6800471 to 6800470 → Cost: 72
+- From 6800471 to 6800472 → Cost: 56
+- From 6800472 to 6800471 → Cost: 25
+- From 6800472 to 6800473 → Cost: 46
+- From 6800472 to 6800475 → Cost: 49
+- From 6800473 to 6800472 → Cost: 30
+- From 6800473 to 6800463 → Cost: 67
+- From 6800474 to 6800356 → Cost: 10
+- From 6800474 to 6800475 → Cost: 17
+- From 6800474 to 6800468 → Cost: 48
+- From 6800475 to 6800474 → Cost: 67
+- From 6800475 to 6800472 → Cost: 98
+- From 6800475 to 6800476 → Cost: 79
+- From 6800476 to 6800475 → Cost: 63
+- From 6800476 to 6800477 → Cost: 43
+- From 6800477 to 6800505 → Cost: 17
+- From 6800477 to 6800478 → Cost: 79
+- From 6800477 to 6800476 → Cost: 90
+- From 6800478 to 6800477 → Cost: 64
+- From 6800478 to 6800417 → Cost: 99
+- From 6800479 to 6800470 → Cost: 84
+- From 6800479 to 6805634 → Cost: 61
+- From 6800480 to 6805634 → Cost: 38
+- From 6800480 to 6800481 → Cost: 99
+- From 6800481 to 6800480 → Cost: 9
+- From 6800481 to 6800482 → Cost: 6
+- From 6800482 to 6800481 → Cost: 58
+- From 6800482 to 6801275 → Cost: 25
+- From 6800483 to 6801275 → Cost: 21
+- From 6800483 to 6800484 → Cost: 27
+- From 6800484 to 6800483 → Cost: 58
+- From 6800484 to 6801841 → Cost: 76
+- From 6800485 to 6801841 → Cost: 61
+- From 6800485 to 6800579 → Cost: 14
+- From 6800487 to 6800496 → Cost: 83
+- From 6800487 to 6800488 → Cost: 54
+- From 6800487 to 6800579 → Cost: 83
+- From 6800488 to 6800487 → Cost: 61
+- From 6800488 to 6801277 → Cost: 51
+- From 6800489 to 6805632 → Cost: 55
+- From 6800489 to 6801278 → Cost: 95
+- From 6800490 to 6801278 → Cost: 87
+- From 6800490 to 6800491 → Cost: 73
+- From 6800491 to 6801278 → Cost: 72
+- From 6800491 to 6800492 → Cost: 70
+- From 6800491 to 6800490 → Cost: 13
+- From 6800492 to 6800491 → Cost: 66
+- From 6800492 to 6800497 → Cost: 83
+- From 6800492 to 6800493 → Cost: 83
+- From 6800493 to 6800492 → Cost: 13
+- From 6800493 to 6800494 → Cost: 74
+- From 6800494 to 6800579 → Cost: 50
+- From 6800494 to 6800495 → Cost: 10
+- From 6800494 to 6800493 → Cost: 79
+- From 6800495 to 6800494 → Cost: 53
+- From 6800495 to 6800496 → Cost: 68
+- From 6800496 to 6800495 → Cost: 84
+- From 6800496 to 6800487 → Cost: 90
+- From 6800496 to 6800497 → Cost: 70
+- From 6800497 to 6800492 → Cost: 96
+- From 6800497 to 6800498 → Cost: 93
+- From 6800497 to 6800496 → Cost: 57
+- From 6800498 to 6800497 → Cost: 7
+- From 6800498 to 6801840 → Cost: 2
+- From 6800499 to 6801840 → Cost: 51
+- From 6800499 to 6800500 → Cost: 81
+- From 6800500 to 6800499 → Cost: 78
+- From 6800500 to 6801276 → Cost: 26
+- From 6800501 to 6801276 → Cost: 18
+- From 6800501 to 6800502 → Cost: 75
+- From 6800502 to 6800501 → Cost: 32
+- From 6800502 to 6800503 → Cost: 94
+- From 6800503 to 6800502 → Cost: 24
+- From 6800503 to 6800504 → Cost: 6
+- From 6800504 to 6800503 → Cost: 3
+- From 6800504 to 6800505 → Cost: 24
+- From 6800505 to 6800504 → Cost: 98
+- From 6800505 to 6800477 → Cost: 54
+- From 6800507 to 6800361 → Cost: 2
+- From 6800507 to 6800508 → Cost: 12
+- From 6800508 to 6800507 → Cost: 19
+- From 6800508 to 6800509 → Cost: 80
+- From 6800508 to 6800554 → Cost: 34
+- From 6800508 to 6805652 → Cost: 81
+- From 6800509 to 6800508 → Cost: 52
+- From 6800509 to 6801230 → Cost: 64
+- From 6800511 to 6800401 → Cost: 80
+- From 6800511 to 6800512 → Cost: 2
+- From 6800512 to 6800511 → Cost: 1
+- From 6800512 to 6800513 → Cost: 81
+- From 6800513 to 6800512 → Cost: 87
+- From 6800513 to 6800514 → Cost: 71
+- From 6800514 to 6800513 → Cost: 93
+- From 6800514 to 6800515 → Cost: 67
+- From 6800515 to 6800514 → Cost: 78
+- From 6800515 to 6800417 → Cost: 38
+- From 6800516 to 6801017 → Cost: 61
+- From 6800516 to 6805531 → Cost: 46
+- From 6800517 to 6800620 → Cost: 76
+- From 6800517 to 6800553 → Cost: 64
+- From 6800553 to 6800517 → Cost: 97
+- From 6800553 to 6801042 → Cost: 39
+- From 6800554 to 6800508 → Cost: 29
+- From 6800554 to 6800555 → Cost: 61
+- From 6800555 to 6800554 → Cost: 54
+- From 6800555 to 6806357 → Cost: 54
+- From 6800556 to 6806357 → Cost: 97
+- From 6800556 to 6800557 → Cost: 76
+- From 6800556 to 6805656 → Cost: 7
+- From 6800557 to 6800556 → Cost: 78
+- From 6800557 to 6800558 → Cost: 47
+- From 6800558 to 6800557 → Cost: 83
+- From 6800558 to 6800571 → Cost: 4
+- From 6800558 to 6801283 → Cost: 82
+- From 6800561 to 6800384 → Cost: 55
+- From 6800561 to 6800562 → Cost: 31
+- From 6800562 to 6800561 → Cost: 34
+- From 6800562 to 6800563 → Cost: 55
+- From 6800563 to 6800562 → Cost: 23
+- From 6800563 to 6800564 → Cost: 61
+- From 6800564 to 6800563 → Cost: 62
+- From 6800564 to 6805809 → Cost: 29
+- From 6800566 to 6800401 → Cost: 24
+- From 6800566 to 6800567 → Cost: 57
+- From 6800567 to 6800577 → Cost: 18
+- From 6800567 to 6800568 → Cost: 96
+- From 6800567 to 6800566 → Cost: 59
+- From 6800567 to 6801282 → Cost: 96
+- From 6800568 to 6800567 → Cost: 92
+- From 6800568 to 6800624 → Cost: 66
+- From 6800568 to 6900624 → Cost: 21
+- From 6800571 to 6800558 → Cost: 2
+- From 6800571 to 6801280 → Cost: 71
+- From 6800572 to 6801012 → Cost: 46
+- From 6800572 to 6800575 → Cost: 70
+- From 6800572 to 6805655 → Cost: 96
+- From 6800573 to 6800574 → Cost: 29
+- From 6800573 to 6801012 → Cost: 62
+- From 6800574 to 6801280 → Cost: 10
+- From 6800574 to 6800573 → Cost: 32
+- From 6800574 to 6805654 → Cost: 4
+- From 6800575 to 6800572 → Cost: 58
+- From 6800575 to 6800576 → Cost: 96
+- From 6800576 to 6800575 → Cost: 82
+- From 6800576 to 6800577 → Cost: 45
+- From 6800577 to 6800576 → Cost: 98
+- From 6800577 to 6800567 → Cost: 86
+- From 6800579 to 6800485 → Cost: 7
+- From 6800579 to 6800494 → Cost: 45
+- From 6800579 to 6800487 → Cost: 8
+- From 6800580 to 6800067 → Cost: 55
+- From 6800580 to 6800581 → Cost: 68
+- From 6800581 to 6800580 → Cost: 3
+- From 6800581 to 6805490 → Cost: 29
+- From 6800582 to 6805490 → Cost: 95
+- From 6800582 to 6805489 → Cost: 47
+- From 6800583 to 6805489 → Cost: 71
+- From 6800583 to 6805488 → Cost: 37
+- From 6800584 to 6805488 → Cost: 59
+- From 6800584 to 6800585 → Cost: 26
+- From 6800585 to 6800584 → Cost: 50
+- From 6800585 to 6802328 → Cost: 88
+- From 6800587 to 6800014 → Cost: 44
+- From 6800587 to 6800591 → Cost: 20
+- From 6800587 to 6800948 → Cost: 31
+- From 6800587 to 6805260 → Cost: 20
+- From 6800588 to 6801863 → Cost: 90
+- From 6800589 to 6801862 → Cost: 27
+- From 6800590 to 6800604 → Cost: 12
+- From 6800590 to 6800032 → Cost: 75
+- From 6800590 to 6805261 → Cost: 61
+- From 6800590 to 6800949 → Cost: 14
+- From 6800591 to 6800587 → Cost: 74
+- From 6800591 to 6801807 → Cost: 9
+- From 6800592 to 6801807 → Cost: 4
+- From 6800592 to 6800593 → Cost: 42
+- From 6800593 to 6800592 → Cost: 44
+- From 6800593 to 6800594 → Cost: 11
+- From 6800594 to 6800593 → Cost: 63
+- From 6800594 to 6800595 → Cost: 29
+- From 6800595 to 6800594 → Cost: 57
+- From 6800595 to 6800596 → Cost: 91
+- From 6800596 to 6800595 → Cost: 35
+- From 6800596 to 6800598 → Cost: 24
+- From 6800597 to 6806348 → Cost: 59
+- From 6800597 to 6801108 → Cost: 96
+- From 6800597 to 6800598 → Cost: 50
+- From 6800597 to 6806349 → Cost: 94
+- From 6800598 to 6800596 → Cost: 69
+- From 6800598 to 6800597 → Cost: 4
+- From 6800599 to 6801108 → Cost: 94
+- From 6800599 to 6800600 → Cost: 93
+- From 6800600 to 6800599 → Cost: 72
+- From 6800600 to 6800601 → Cost: 73
+- From 6800601 to 6800600 → Cost: 32
+- From 6800601 to 6800602 → Cost: 28
+- From 6800602 to 6800601 → Cost: 7
+- From 6800602 to 6800603 → Cost: 29
+- From 6800603 to 6800602 → Cost: 83
+- From 6800603 to 6801808 → Cost: 25
+- From 6800604 to 6801808 → Cost: 9
+- From 6800604 to 6800590 → Cost: 81
+- From 6800605 to 6800014 → Cost: 13
+- From 6800605 to 6800606 → Cost: 44
+- From 6800606 to 6800605 → Cost: 98
+- From 6800608 to 6801212 → Cost: 49
+- From 6800609 to 6802305 → Cost: 75
+- From 6800609 to 6802341 → Cost: 69
+- From 6800610 to 6805531 → Cost: 63
+- From 6800610 to 6800611 → Cost: 47
+- From 6800611 to 6800610 → Cost: 68
+- From 6800611 to 6800612 → Cost: 73
+- From 6800612 to 6800611 → Cost: 50
+- From 6800612 to 6800613 → Cost: 51
+- From 6800613 to 6800612 → Cost: 13
+- From 6800613 to 6800614 → Cost: 53
+- From 6800614 to 6800613 → Cost: 32
+- From 6800614 to 6800615 → Cost: 23
+- From 6800615 to 6800614 → Cost: 60
+- From 6800616 to 6802306 → Cost: 45
+- From 6800616 to 6800617 → Cost: 66
+- From 6800617 to 6800616 → Cost: 38
+- From 6800617 to 6800618 → Cost: 68
+- From 6800618 to 6800617 → Cost: 27
+- From 6800618 to 6800619 → Cost: 71
+- From 6800619 to 6800618 → Cost: 63
+- From 6800619 to 6800620 → Cost: 13
+- From 6800620 to 6800619 → Cost: 95
+- From 6800620 to 6800517 → Cost: 30
+- From 6800621 to 6800622 → Cost: 65
+- From 6800621 to 6801066 → Cost: 25
+- From 6800622 to 6801017 → Cost: 28
+- From 6800622 to 6800621 → Cost: 81
+- From 6800624 to 6800359 → Cost: 98
+- From 6800624 to 6800384 → Cost: 90
+- From 6800624 to 6800568 → Cost: 42
+- From 6800624 to 6800354 → Cost: 68
+- From 6800626 to 6801838 → Cost: 78
+- From 6800626 to 6801296 → Cost: 27
+- From 6800626 to 6801165 → Cost: 62
+- From 6800626 to 6901296 → Cost: 59
+- From 6800626 to 6801145 → Cost: 85
+- From 6800628 to 6800133 → Cost: 18
+- From 6800628 to 6800629 → Cost: 34
+- From 6800629 to 6800628 → Cost: 97
+- From 6800629 to 6800630 → Cost: 97
+- From 6800630 to 6800629 → Cost: 58
+- From 6800630 to 6800631 → Cost: 87
+- From 6800631 to 6800630 → Cost: 12
+- From 6800631 to 6800632 → Cost: 80
+- From 6800632 to 6800631 → Cost: 96
+- From 6800632 to 6800633 → Cost: 55
+- From 6800633 to 6800632 → Cost: 52
+- From 6800633 to 6800634 → Cost: 60
+- From 6800634 to 6800633 → Cost: 78
+- From 6800634 to 6800635 → Cost: 61
+- From 6800635 to 6800634 → Cost: 62
+- From 6800635 to 6801201 → Cost: 22
+- From 6800636 to 6806364 → Cost: 44
+- From 6800636 to 6800216 → Cost: 45
+- From 6800636 to 6800214 → Cost: 60
+- From 6800636 to 6801011 → Cost: 64
+- From 6800637 to 6801201 → Cost: 48
+- From 6800637 to 6800638 → Cost: 13
+- From 6800638 to 6800637 → Cost: 2
+- From 6800638 to 6800639 → Cost: 3
+- From 6800639 to 6800638 → Cost: 88
+- From 6800639 to 6800640 → Cost: 33
+- From 6800640 to 6800639 → Cost: 56
+- From 6800640 to 6800641 → Cost: 33
+- From 6800641 to 6800640 → Cost: 14
+- From 6800641 to 6800642 → Cost: 23
+- From 6800642 to 6800641 → Cost: 27
+- From 6800642 to 6800643 → Cost: 9
+- From 6800643 to 6800642 → Cost: 44
+- From 6800643 to 6800644 → Cost: 86
+- From 6800644 to 6800643 → Cost: 20
+- From 6800644 to 6800645 → Cost: 55
+- From 6800645 to 6800644 → Cost: 77
+- From 6800645 to 6801175 → Cost: 65
+- From 6800647 to 6801175 → Cost: 68
+- From 6800647 to 6800648 → Cost: 59
+- From 6800648 to 6800647 → Cost: 9
+- From 6800648 to 6800649 → Cost: 23
+- From 6800649 to 6800648 → Cost: 38
+- From 6800649 to 6800650 → Cost: 43
+- From 6800650 to 6800649 → Cost: 29
+- From 6800650 to 6800651 → Cost: 56
+- From 6800651 to 6800650 → Cost: 50
+- From 6800651 to 6800652 → Cost: 57
+- From 6800652 to 6800651 → Cost: 50
+- From 6800652 to 6800653 → Cost: 33
+- From 6800653 to 6800652 → Cost: 15
+- From 6800653 to 6800654 → Cost: 73
+- From 6800654 to 6800653 → Cost: 24
+- From 6800655 to 6801913 → Cost: 90
+- From 6800655 to 6800656 → Cost: 15
+- From 6800656 to 6800655 → Cost: 17
+- From 6800656 to 6800657 → Cost: 63
+- From 6800657 to 6800656 → Cost: 27
+- From 6800657 to 6800658 → Cost: 35
+- From 6800658 to 6800657 → Cost: 61
+- From 6800658 to 6800659 → Cost: 26
+- From 6800659 to 6800658 → Cost: 25
+- From 6800659 to 6800660 → Cost: 39
+- From 6800660 to 6800659 → Cost: 98
+- From 6800660 to 6801176 → Cost: 3
+- From 6800662 to 6801176 → Cost: 15
+- From 6800662 to 6800663 → Cost: 42
+- From 6800663 to 6800662 → Cost: 88
+- From 6800663 to 6800664 → Cost: 58
+- From 6800664 to 6800663 → Cost: 67
+- From 6800664 to 6800665 → Cost: 19
+- From 6800665 to 6800664 → Cost: 5
+- From 6800665 to 6800666 → Cost: 41
+- From 6800666 to 6800665 → Cost: 64
+- From 6800666 to 6800667 → Cost: 22
+- From 6800667 to 6800666 → Cost: 87
+- From 6800667 to 6801200 → Cost: 12
+- From 6800669 to 6801200 → Cost: 19
+- From 6800669 to 6800670 → Cost: 92
+- From 6800670 to 6800669 → Cost: 62
+- From 6800670 to 6800671 → Cost: 95
+- From 6800671 to 6800670 → Cost: 69
+- From 6800671 to 6800672 → Cost: 87
+- From 6800672 to 6800671 → Cost: 46
+- From 6800672 to 6800673 → Cost: 66
+- From 6800673 to 6800672 → Cost: 51
+- From 6800673 to 6800674 → Cost: 89
+- From 6800674 to 6800673 → Cost: 38
+- From 6800674 to 6800675 → Cost: 64
+- From 6800675 to 6800674 → Cost: 26
+- From 6800675 to 6800676 → Cost: 68
+- From 6800676 to 6800675 → Cost: 24
+- From 6800676 to 6800677 → Cost: 67
+- From 6800677 to 6800676 → Cost: 34
+- From 6800677 to 6800678 → Cost: 12
+- From 6800678 to 6800677 → Cost: 90
+- From 6800678 to 6800679 → Cost: 41
+- From 6800679 to 6800678 → Cost: 98
+- From 6800679 to 6800124 → Cost: 59
+- From 6800680 to 6800162 → Cost: 2
+- From 6800680 to 6800681 → Cost: 17
+- From 6800681 to 6800680 → Cost: 40
+- From 6800681 to 6806362 → Cost: 13
+- From 6800681 to 6800222 → Cost: 9
+- From 6800685 to 6800308 → Cost: 21
+- From 6800685 to 6800971 → Cost: 64
+- From 6800685 to 6800686 → Cost: 35
+- From 6800686 to 6800685 → Cost: 2
+- From 6800686 to 6806327 → Cost: 17
+- From 6800687 to 6806327 → Cost: 33
+- From 6800687 to 6801227 → Cost: 60
+- From 6800689 to 6801227 → Cost: 24
+- From 6800689 to 6800690 → Cost: 3
+- From 6800690 to 6800689 → Cost: 65
+- From 6800690 to 6801228 → Cost: 32
+- From 6800693 to 6801228 → Cost: 86
+- From 6800693 to 6801225 → Cost: 40
+- From 6800694 to 6802345 → Cost: 71
+- From 6800694 to 6805618 → Cost: 86
+- From 6800695 to 6802320 → Cost: 29
+- From 6800695 to 6801891 → Cost: 37
+- From 6800695 to 6800696 → Cost: 21
+- From 6800696 to 6800695 → Cost: 18
+- From 6800696 to 6800697 → Cost: 78
+- From 6800697 to 6800696 → Cost: 81
+- From 6800697 to 6801264 → Cost: 40
+- From 6800700 to 6801266 → Cost: 41
+- From 6800700 to 6800701 → Cost: 6
+- From 6800701 to 6800700 → Cost: 2
+- From 6800701 to 6800999 → Cost: 95
+- From 6800702 to 6800997 → Cost: 65
+- From 6800702 to 6800706 → Cost: 22
+- From 6800703 to 6805641 → Cost: 75
+- From 6800703 to 6801002 → Cost: 42
+- From 6800704 to 6805642 → Cost: 45
+- From 6800704 to 6805641 → Cost: 59
+- From 6800706 to 6800702 → Cost: 1
+- From 6800706 to 6800707 → Cost: 53
+- From 6800707 to 6800706 → Cost: 74
+- From 6800707 to 6801267 → Cost: 77
+- From 6800709 to 6801267 → Cost: 97
+- From 6800709 to 6802322 → Cost: 44
+- From 6800714 to 6802321 → Cost: 88
+- From 6800714 to 6801266 → Cost: 77
+- From 6800715 to 6802322 → Cost: 36
+- From 6800715 to 6801262 → Cost: 47
+- From 6800717 to 6801263 → Cost: 50
+- From 6800717 to 6800718 → Cost: 72
+- From 6800718 to 6800717 → Cost: 23
+- From 6800718 to 6800719 → Cost: 28
+- From 6800719 to 6800718 → Cost: 71
+- From 6800719 to 6802319 → Cost: 74
+- From 6800719 to 6801892 → Cost: 93
+- From 6800720 to 6800124 → Cost: 70
+- From 6800720 to 6800721 → Cost: 49
+- From 6800721 to 6800720 → Cost: 50
+- From 6800721 to 6800722 → Cost: 62
+- From 6800722 to 6800721 → Cost: 14
+- From 6800722 to 6800723 → Cost: 88
+- From 6800723 to 6800722 → Cost: 34
+- From 6800723 to 6805699 → Cost: 67
+- From 6800724 to 6805699 → Cost: 2
+- From 6800724 to 6806252 → Cost: 9
+- From 6800725 to 6802327 → Cost: 6
+- From 6800725 to 6800726 → Cost: 64
+- From 6800726 to 6800725 → Cost: 38
+- From 6800726 to 6800727 → Cost: 20
+- From 6800727 to 6800726 → Cost: 5
+- From 6800727 to 6800728 → Cost: 70
+- From 6800728 to 6800727 → Cost: 62
+- From 6800728 to 6800729 → Cost: 38
+- From 6800729 to 6800728 → Cost: 49
+- From 6800729 to 6800730 → Cost: 50
+- From 6800730 to 6800729 → Cost: 69
+- From 6800730 to 6800731 → Cost: 75
+- From 6800731 to 6800730 → Cost: 50
+- From 6800731 to 6805491 → Cost: 26
+- From 6800733 to 6806251 → Cost: 95
+- From 6800733 to 6805700 → Cost: 84
+- From 6800734 to 6805700 → Cost: 36
+- From 6800734 to 6800735 → Cost: 93
+- From 6800735 to 6800734 → Cost: 17
+- From 6800735 to 6800736 → Cost: 54
+- From 6800736 to 6800735 → Cost: 80
+- From 6800736 to 6805534 → Cost: 30
+- From 6800741 to 6801096 → Cost: 82
+- From 6800741 to 6801289 → Cost: 87
+- From 6800742 to 6805667 → Cost: 65
+- From 6800742 to 6801288 → Cost: 58
+- From 6800742 to 6800793 → Cost: 56
+- From 6800742 to 6801044 → Cost: 20
+- From 6800747 to 6801849 → Cost: 94
+- From 6800747 to 6800753 → Cost: 2
+- From 6800748 to 6801800 → Cost: 5
+- From 6800748 to 6800004 → Cost: 22
+- From 6800748 to 6800753 → Cost: 93
+- From 6800748 to 6800002 → Cost: 69
+- From 6800751 to 6801177 → Cost: 65
+- From 6800751 to 6801291 → Cost: 77
+- From 6800753 to 6800747 → Cost: 15
+- From 6800753 to 6800748 → Cost: 48
+- From 6800755 to 6806273 → Cost: 34
+- From 6800755 to 6800756 → Cost: 67
+- From 6800756 to 6800755 → Cost: 78
+- From 6800756 to 6800963 → Cost: 38
+- From 6800757 to 6800965 → Cost: 78
+- From 6800757 to 6902367 → Cost: 19
+- From 6800757 to 6802367 → Cost: 48
+- From 6800758 to 6805507 → Cost: 5
+- From 6800758 to 6802367 → Cost: 98
+- From 6800758 to 6800944 → Cost: 41
+- From 6800759 to 6802366 → Cost: 66
+- From 6800759 to 6805508 → Cost: 14
+- From 6800759 to 6800945 → Cost: 86
+- From 6800760 to 6802366 → Cost: 68
+- From 6800760 to 6800951 → Cost: 44
+- From 6800761 to 6800953 → Cost: 66
+- From 6800761 to 6800762 → Cost: 40
+- From 6800762 to 6800761 → Cost: 60
+- From 6800762 to 6806272 → Cost: 13
+- From 6800763 to 6801051 → Cost: 51
+- From 6800763 to 6801294 → Cost: 67
+- From 6800764 to 6800792 → Cost: 53
+- From 6800764 to 6800793 → Cost: 21
+- From 6800765 to 6801294 → Cost: 39
+- From 6800765 to 6800766 → Cost: 24
+- From 6800766 to 6800765 → Cost: 84
+- From 6800766 to 6800767 → Cost: 6
+- From 6800767 to 6800766 → Cost: 67
+- From 6800767 to 6800768 → Cost: 40
+- From 6800768 to 6800767 → Cost: 43
+- From 6800768 to 6800769 → Cost: 83
+- From 6800769 to 6800768 → Cost: 73
+- From 6800769 to 6800770 → Cost: 14
+- From 6800770 to 6800769 → Cost: 85
+- From 6800770 to 6800795 → Cost: 37
+- From 6800770 to 6800771 → Cost: 58
+- From 6800770 to 6801216 → Cost: 49
+- From 6800771 to 6800770 → Cost: 73
+- From 6800771 to 6800772 → Cost: 4
+- From 6800772 to 6800771 → Cost: 26
+- From 6800772 to 6800773 → Cost: 4
+- From 6800773 to 6800772 → Cost: 88
+- From 6800773 to 6800774 → Cost: 54
+- From 6800774 to 6800773 → Cost: 2
+- From 6800774 to 6800775 → Cost: 33
+- From 6800775 to 6800774 → Cost: 80
+- From 6800775 to 6800776 → Cost: 30
+- From 6800776 to 6800775 → Cost: 24
+- From 6800776 to 6800777 → Cost: 22
+- From 6800777 to 6800776 → Cost: 18
+- From 6800777 to 6800778 → Cost: 92
+- From 6800778 to 6800777 → Cost: 63
+- From 6800778 to 6800779 → Cost: 10
+- From 6800779 to 6800778 → Cost: 45
+- From 6800780 to 6800781 → Cost: 4
+- From 6800781 to 6800780 → Cost: 10
+- From 6800781 to 6800782 → Cost: 23
+- From 6800782 to 6800781 → Cost: 32
+- From 6800782 to 6800783 → Cost: 67
+- From 6800783 to 6800782 → Cost: 63
+- From 6800783 to 6800784 → Cost: 96
+- From 6800784 to 6800783 → Cost: 15
+- From 6800784 to 6800785 → Cost: 79
+- From 6800785 to 6800784 → Cost: 33
+- From 6800785 to 6800786 → Cost: 72
+- From 6800786 to 6800785 → Cost: 58
+- From 6800786 to 6800787 → Cost: 79
+- From 6800787 to 6800786 → Cost: 43
+- From 6800787 to 6805539 → Cost: 84
+- From 6800788 to 6800797 → Cost: 87
+- From 6800788 to 6800789 → Cost: 4
+- From 6800788 to 6801221 → Cost: 18
+- From 6800788 to 6805539 → Cost: 26
+- From 6800789 to 6800788 → Cost: 15
+- From 6800789 to 6805536 → Cost: 4
+- From 6800790 to 6805536 → Cost: 49
+- From 6800790 to 6800791 → Cost: 48
+- From 6800791 to 6800790 → Cost: 41
+- From 6800791 to 6800792 → Cost: 73
+- From 6800792 to 6800791 → Cost: 76
+- From 6800792 to 6800764 → Cost: 49
+- From 6800793 to 6800764 → Cost: 18
+- From 6800793 to 6800742 → Cost: 38
+- From 6800795 to 6800770 → Cost: 87
+- From 6800795 to 6801215 → Cost: 74
+- From 6800795 to 6801221 → Cost: 15
+- From 6800797 to 6801215 → Cost: 62
+- From 6800797 to 6801216 → Cost: 35
+- From 6800797 to 6800788 → Cost: 83
+- From 6800798 to 6801216 → Cost: 25
+- From 6800798 to 6800799 → Cost: 79
+- From 6800798 to 6800837 → Cost: 64
+- From 6800799 to 6800798 → Cost: 35
+- From 6800799 to 6800800 → Cost: 6
+- From 6800800 to 6800799 → Cost: 62
+- From 6800800 to 6800801 → Cost: 75
+- From 6800801 to 6800800 → Cost: 11
+- From 6800801 to 6801218 → Cost: 1
+- From 6800801 to 6801219 → Cost: 96
+- From 6800801 to 6800805 → Cost: 97
+- From 6800802 to 6801218 → Cost: 11
+- From 6800802 to 6800821 → Cost: 51
+- From 6800803 to 6800820 → Cost: 26
+- From 6800803 to 6800804 → Cost: 50
+- From 6800804 to 6800803 → Cost: 58
+- From 6800804 to 6801219 → Cost: 79
+- From 6800805 to 6800801 → Cost: 46
+- From 6800805 to 6800806 → Cost: 43
+- From 6800805 to 6801219 → Cost: 41
+- From 6800806 to 6800805 → Cost: 53
+- From 6800806 to 6800807 → Cost: 71
+- From 6800807 to 6800806 → Cost: 23
+- From 6800807 to 6801221 → Cost: 40
+- From 6800807 to 6800848 → Cost: 74
+- From 6800808 to 6800821 → Cost: 43
+- From 6800808 to 6800809 → Cost: 13
+- From 6800809 to 6800808 → Cost: 69
+- From 6800809 to 6801416 → Cost: 16
+- From 6800810 to 6801416 → Cost: 81
+- From 6800810 to 6800811 → Cost: 64
+- From 6800811 to 6800810 → Cost: 46
+- From 6800811 to 6800812 → Cost: 78
+- From 6800812 to 6800811 → Cost: 28
+- From 6800812 to 6800815 → Cost: 42
+- From 6800813 to 6800815 → Cost: 81
+- From 6800813 to 6801418 → Cost: 58
+- From 6800813 to 6800854 → Cost: 77
+- From 6800815 to 6800812 → Cost: 22
+- From 6800815 to 6800813 → Cost: 64
+- From 6800816 to 6801418 → Cost: 31
+- From 6800816 to 6800817 → Cost: 56
+- From 6800817 to 6800816 → Cost: 49
+- From 6800817 to 6800818 → Cost: 31
+- From 6800818 to 6800817 → Cost: 33
+- From 6800818 to 6801417 → Cost: 18
+- From 6800819 to 6801417 → Cost: 90
+- From 6800819 to 6800820 → Cost: 92
+- From 6800820 to 6800819 → Cost: 60
+- From 6800820 to 6800803 → Cost: 56
+- From 6800821 to 6800802 → Cost: 13
+- From 6800821 to 6800808 → Cost: 11
+- From 6800822 to 6801851 → Cost: 81
+- From 6800822 to 6800823 → Cost: 79
+- From 6800823 to 6800822 → Cost: 23
+- From 6800823 to 6800824 → Cost: 54
+- From 6800824 to 6800823 → Cost: 93
+- From 6800824 to 6800825 → Cost: 65
+- From 6800825 to 6800824 → Cost: 96
+- From 6800825 to 6800826 → Cost: 61
+- From 6800826 to 6800825 → Cost: 8
+- From 6800826 to 6800827 → Cost: 16
+- From 6800827 to 6800826 → Cost: 63
+- From 6800828 to 6800829 → Cost: 85
+- From 6800829 to 6800828 → Cost: 91
+- From 6800829 to 6800830 → Cost: 81
+- From 6800830 to 6800829 → Cost: 55
+- From 6800830 to 6800831 → Cost: 38
+- From 6800831 to 6800830 → Cost: 82
+- From 6800831 to 6800832 → Cost: 50
+- From 6800832 to 6800831 → Cost: 16
+- From 6800832 to 6800833 → Cost: 56
+- From 6800833 to 6800832 → Cost: 48
+- From 6800833 to 6800834 → Cost: 80
+- From 6800834 to 6800833 → Cost: 23
+- From 6800834 to 6800835 → Cost: 10
+- From 6800835 to 6800834 → Cost: 54
+- From 6800835 to 6800836 → Cost: 33
+- From 6800836 to 6800835 → Cost: 69
+- From 6800836 to 6801850 → Cost: 1
+- From 6800837 to 6800798 → Cost: 44
+- From 6800837 to 6800838 → Cost: 40
+- From 6800838 to 6800837 → Cost: 23
+- From 6800838 to 6800839 → Cost: 2
+- From 6800839 to 6800838 → Cost: 1
+- From 6800839 to 6805535 → Cost: 40
+- From 6800840 to 6805535 → Cost: 75
+- From 6800840 to 6800841 → Cost: 30
+- From 6800841 to 6800840 → Cost: 14
+- From 6800841 to 6801426 → Cost: 27
+- From 6800842 to 6801426 → Cost: 95
+- From 6800842 to 6800849 → Cost: 32
+- From 6800843 to 6802343 → Cost: 98
+- From 6800843 to 6800844 → Cost: 89
+- From 6800844 to 6800843 → Cost: 68
+- From 6800844 to 6800845 → Cost: 18
+- From 6800845 to 6800844 → Cost: 75
+- From 6800845 to 6801220 → Cost: 97
+- From 6800846 to 6801220 → Cost: 6
+- From 6800846 to 6800847 → Cost: 74
+- From 6800847 to 6800846 → Cost: 41
+- From 6800847 to 6800848 → Cost: 54
+- From 6800848 to 6800847 → Cost: 68
+- From 6800848 to 6800807 → Cost: 27
+- From 6800849 to 6800842 → Cost: 61
+- From 6800849 to 6800850 → Cost: 84
+- From 6800850 to 6800849 → Cost: 37
+- From 6800850 to 6800851 → Cost: 86
+- From 6800851 to 6800850 → Cost: 12
+- From 6800851 to 6800852 → Cost: 64
+- From 6800852 to 6800851 → Cost: 22
+- From 6800852 to 6801415 → Cost: 86
+- From 6800853 to 6800856 → Cost: 81
+- From 6800853 to 6800857 → Cost: 44
+- From 6800854 to 6801414 → Cost: 55
+- From 6800854 to 6800813 → Cost: 55
+- From 6800855 to 6801418 → Cost: 31
+- From 6800855 to 6800856 → Cost: 95
+- From 6800856 to 6800855 → Cost: 63
+- From 6800856 to 6800853 → Cost: 53
+- From 6800857 to 6800853 → Cost: 85
+- From 6800857 to 6801413 → Cost: 75
+- From 6800858 to 6801413 → Cost: 98
+- From 6800858 to 6800859 → Cost: 6
+- From 6800859 to 6800858 → Cost: 33
+- From 6800859 to 6800861 → Cost: 32
+- From 6800861 to 6800859 → Cost: 47
+- From 6800861 to 6802343 → Cost: 62
+- From 6800862 to 6800113 → Cost: 80
+- From 6800862 to 6800319 → Cost: 92
+- From 6800863 to 6800322 → Cost: 35
+- From 6800863 to 6800094 → Cost: 67
+- From 6800864 to 6800906 → Cost: 40
+- From 6800864 to 6800894 → Cost: 13
+- From 6800864 to 6800865 → Cost: 77
+- From 6800865 to 6800864 → Cost: 66
+- From 6800865 to 6800866 → Cost: 20
+- From 6800866 to 6806321 → Cost: 23
+- From 6800866 to 6805594 → Cost: 90
+- From 6800866 to 6800865 → Cost: 18
+- From 6800866 to 6801098 → Cost: 76
+- From 6800867 to 6805594 → Cost: 89
+- From 6800867 to 6800868 → Cost: 70
+- From 6800868 to 6800867 → Cost: 15
+- From 6800868 to 6800869 → Cost: 11
+- From 6800869 to 6800868 → Cost: 35
+- From 6800869 to 6801226 → Cost: 76
+- From 6800870 to 6801226 → Cost: 23
+- From 6800870 to 6800871 → Cost: 57
+- From 6800871 to 6800870 → Cost: 55
+- From 6800871 to 6800872 → Cost: 21
+- From 6800872 to 6800871 → Cost: 88
+- From 6800872 to 6800873 → Cost: 7
+- From 6800873 to 6800872 → Cost: 3
+- From 6800873 to 6800874 → Cost: 33
+- From 6800874 to 6800873 → Cost: 25
+- From 6800874 to 6800875 → Cost: 26
+- From 6800875 to 6800874 → Cost: 17
+- From 6800875 to 6800876 → Cost: 72
+- From 6800876 to 6800875 → Cost: 74
+- From 6800876 to 6801193 → Cost: 56
+- From 6800879 to 6801192 → Cost: 8
+- From 6800879 to 6800880 → Cost: 14
+- From 6800880 to 6800879 → Cost: 60
+- From 6800880 to 6800881 → Cost: 33
+- From 6800881 to 6800880 → Cost: 11
+- From 6800881 to 6800882 → Cost: 33
+- From 6800882 to 6800881 → Cost: 27
+- From 6800882 to 6800883 → Cost: 60
+- From 6800883 to 6800882 → Cost: 18
+- From 6800883 to 6800884 → Cost: 1
+- From 6800884 to 6800883 → Cost: 56
+- From 6800884 to 6800885 → Cost: 70
+- From 6800885 to 6800884 → Cost: 40
+- From 6800885 to 6800886 → Cost: 61
+- From 6800886 to 6800885 → Cost: 55
+- From 6800886 to 6800887 → Cost: 54
+- From 6800887 to 6800886 → Cost: 67
+- From 6800887 to 6800888 → Cost: 56
+- From 6800888 to 6800887 → Cost: 20
+- From 6800888 to 6800889 → Cost: 45
+- From 6800889 to 6800888 → Cost: 32
+- From 6800889 to 6801106 → Cost: 77
+- From 6800890 to 6801106 → Cost: 25
+- From 6800890 to 6801983 → Cost: 98
+- From 6800890 to 6800891 → Cost: 23
+- From 6800891 to 6800890 → Cost: 53
+- From 6800891 to 6800892 → Cost: 67
+- From 6800892 to 6800891 → Cost: 52
+- From 6800892 to 6800893 → Cost: 39
+- From 6800893 to 6800892 → Cost: 72
+- From 6800893 to 6800307 → Cost: 68
+- From 6800894 to 6800864 → Cost: 19
+- From 6800894 to 6800895 → Cost: 62
+- From 6800895 to 6800894 → Cost: 48
+- From 6800895 to 6800896 → Cost: 17
+- From 6800896 to 6800895 → Cost: 24
+- From 6800896 to 6800897 → Cost: 74
+- From 6800897 to 6800896 → Cost: 68
+- From 6800897 to 6805612 → Cost: 98
+- From 6800898 to 6805614 → Cost: 40
+- From 6800898 to 6801852 → Cost: 70
+- From 6800899 to 6801224 → Cost: 74
+- From 6800899 to 6801223 → Cost: 35
+- From 6800900 to 6801853 → Cost: 71
+- From 6800900 to 6800901 → Cost: 52
+- From 6800900 to 6805616 → Cost: 73
+- From 6800901 to 6800900 → Cost: 44
+- From 6800901 to 6905612 → Cost: 13
+- From 6800902 to 6905614 → Cost: 9
+- From 6800902 to 6800903 → Cost: 54
+- From 6800902 to 6805617 → Cost: 79
+- From 6800903 to 6800902 → Cost: 52
+- From 6800903 to 6800904 → Cost: 30
+- From 6800904 to 6800903 → Cost: 98
+- From 6800904 to 6800905 → Cost: 20
+- From 6800905 to 6801983 → Cost: 12
+- From 6800905 to 6806322 → Cost: 56
+- From 6800905 to 6800904 → Cost: 18
+- From 6800905 to 6900906 → Cost: 72
+- From 6800905 to 6800906 → Cost: 22
+- From 6800906 to 6800864 → Cost: 65
+- From 6800906 to 6800314 → Cost: 20
+- From 6800906 to 6800905 → Cost: 28
+- From 6800907 to 6800286 → Cost: 89
+- From 6800907 to 6800260 → Cost: 20
+- From 6800907 to 6800259 → Cost: 10
+- From 6800910 to 6800424 → Cost: 94
+- From 6800910 to 6800911 → Cost: 7
+- From 6800911 to 6800910 → Cost: 90
+- From 6800911 to 6801194 → Cost: 14
+- From 6800912 to 6801194 → Cost: 29
+- From 6800912 to 6800913 → Cost: 65
+- From 6800913 to 6800912 → Cost: 71
+- From 6800913 to 6800914 → Cost: 94
+- From 6800914 to 6800913 → Cost: 33
+- From 6800914 to 6805589 → Cost: 31
+- From 6800915 to 6801195 → Cost: 95
+- From 6800915 to 6800916 → Cost: 91
+- From 6800916 to 6800915 → Cost: 54
+- From 6800916 to 6800917 → Cost: 95
+- From 6800917 to 6800916 → Cost: 19
+- From 6800917 to 6801196 → Cost: 56
+- From 6800918 to 6805588 → Cost: 86
+- From 6800918 to 6800933 → Cost: 25
+- From 6800919 to 6801196 → Cost: 52
+- From 6800919 to 6800920 → Cost: 26
+- From 6800920 to 6800919 → Cost: 1
+- From 6800920 to 6801197 → Cost: 90
+- From 6800921 to 6801197 → Cost: 87
+- From 6800921 to 6800922 → Cost: 28
+- From 6800922 to 6800921 → Cost: 54
+- From 6800922 to 6800923 → Cost: 83
+- From 6800923 to 6800922 → Cost: 25
+- From 6800923 to 6800924 → Cost: 62
+- From 6800924 to 6800923 → Cost: 85
+- From 6800924 to 6800925 → Cost: 16
+- From 6800925 to 6800924 → Cost: 34
+- From 6800926 to 6800927 → Cost: 63
+- From 6800927 to 6800926 → Cost: 82
+- From 6800927 to 6800928 → Cost: 85
+- From 6800928 to 6800927 → Cost: 33
+- From 6800928 to 6800929 → Cost: 7
+- From 6800929 to 6800928 → Cost: 8
+- From 6800929 to 6800930 → Cost: 39
+- From 6800930 to 6800929 → Cost: 72
+- From 6800930 to 6800931 → Cost: 47
+- From 6800931 to 6800930 → Cost: 51
+- From 6800931 to 6800932 → Cost: 98
+- From 6800932 to 6800931 → Cost: 59
+- From 6800932 to 6805588 → Cost: 83
+- From 6800933 to 6800918 → Cost: 79
+- From 6800933 to 6800934 → Cost: 53
+- From 6800934 to 6800933 → Cost: 48
+- From 6800934 to 6800935 → Cost: 61
+- From 6800935 to 6800934 → Cost: 9
+- From 6800935 to 6800936 → Cost: 85
+- From 6800936 to 6800935 → Cost: 9
+- From 6800936 to 6800937 → Cost: 82
+- From 6800937 to 6800936 → Cost: 15
+- From 6800937 to 6800938 → Cost: 20
+- From 6800938 to 6800937 → Cost: 81
+- From 6800938 to 6800939 → Cost: 87
+- From 6800939 to 6800938 → Cost: 8
+- From 6800939 to 6800940 → Cost: 18
+- From 6800940 to 6800939 → Cost: 13
+- From 6800940 to 6800941 → Cost: 98
+- From 6800941 to 6800940 → Cost: 11
+- From 6800941 to 6800942 → Cost: 78
+- From 6800942 to 6800941 → Cost: 82
+- From 6800942 to 6800943 → Cost: 83
+- From 6800943 to 6800942 → Cost: 39
+- From 6800943 to 6800425 → Cost: 33
+- From 6800944 to 6801016 → Cost: 7
+- From 6800944 to 6801289 → Cost: 32
+- From 6800944 to 6800758 → Cost: 60
+- From 6800945 to 6801043 → Cost: 24
+- From 6800945 to 6801288 → Cost: 41
+- From 6800945 to 6800759 → Cost: 34
+- From 6800947 to 6806274 → Cost: 70
+- From 6800947 to 6800948 → Cost: 14
+- From 6800947 to 6800955 → Cost: 58
+- From 6800948 to 6806343 → Cost: 27
+- From 6800948 to 6806361 → Cost: 75
+- From 6800948 to 6800947 → Cost: 26
+- From 6800948 to 6800032 → Cost: 17
+- From 6800948 to 6800587 → Cost: 46
+- From 6800949 to 6806360 → Cost: 55
+- From 6800949 to 6806342 → Cost: 20
+- From 6800949 to 6800015 → Cost: 75
+- From 6800949 to 6800950 → Cost: 72
+- From 6800949 to 6800590 → Cost: 24
+- From 6800950 to 6800949 → Cost: 36
+- From 6800950 to 6806275 → Cost: 66
+- From 6800950 to 6800016 → Cost: 26
+- From 6800950 to 6800961 → Cost: 70
+- From 6800951 to 6800760 → Cost: 64
+- From 6800951 to 6800952 → Cost: 39
+- From 6800952 to 6800951 → Cost: 4
+- From 6800952 to 6800953 → Cost: 61
+- From 6800953 to 6800952 → Cost: 75
+- From 6800953 to 6800761 → Cost: 5
+- From 6800954 to 6806272 → Cost: 68
+- From 6800954 to 6800955 → Cost: 18
+- From 6800955 to 6800954 → Cost: 61
+- From 6800955 to 6806245 → Cost: 59
+- From 6800955 to 6800947 → Cost: 90
+- From 6800961 to 6801233 → Cost: 42
+- From 6800961 to 6800962 → Cost: 82
+- From 6800961 to 6800950 → Cost: 20
+- From 6800962 to 6800961 → Cost: 13
+- From 6800962 to 6806273 → Cost: 76
+- From 6800963 to 6800756 → Cost: 4
+- From 6800963 to 6800964 → Cost: 36
+- From 6800964 to 6800963 → Cost: 32
+- From 6800964 to 6800965 → Cost: 30
+- From 6800965 to 6800964 → Cost: 98
+- From 6800965 to 6800757 → Cost: 66
+- From 6800966 to 6806245 → Cost: 97
+- From 6800966 to 6801233 → Cost: 38
+- From 6800967 to 6805590 → Cost: 31
+- From 6800967 to 6802318 → Cost: 41
+- From 6800968 to 6806270 → Cost: 32
+- From 6800968 to 6805592 → Cost: 85
+- From 6800969 to 6805592 → Cost: 2
+- From 6800969 to 6800970 → Cost: 70
+- From 6800970 to 6800969 → Cost: 74
+- From 6800970 to 6800313 → Cost: 16
+- From 6800971 to 6800685 → Cost: 74
+- From 6800971 to 6802344 → Cost: 82
+- From 6800972 to 6802344 → Cost: 10
+- From 6800972 to 6801243 → Cost: 46
+- From 6800973 to 6805593 → Cost: 22
+- From 6800973 to 6801240 → Cost: 11
+- From 6800974 to 6806239 → Cost: 9
+- From 6800974 to 6800112 → Cost: 73
+- From 6800974 to 6800316 → Cost: 70
+- From 6800975 to 6800312 → Cost: 74
+- From 6800975 to 6800976 → Cost: 51
+- From 6800975 to 6800308 → Cost: 33
+- From 6800975 to 6800985 → Cost: 16
+- From 6800976 to 6800975 → Cost: 82
+- From 6800976 to 6800986 → Cost: 46
+- From 6800976 to 6806325 → Cost: 21
+- From 6800977 to 6806325 → Cost: 98
+- From 6800977 to 6805605 → Cost: 48
+- From 6800978 to 6805605 → Cost: 33
+- From 6800978 to 6800979 → Cost: 65
+- From 6800979 to 6800978 → Cost: 36
+- From 6800979 to 6801242 → Cost: 53
+- From 6800981 to 6801242 → Cost: 69
+- From 6800981 to 6800982 → Cost: 99
+- From 6800982 to 6800981 → Cost: 90
+- From 6800982 to 6800983 → Cost: 76
+- From 6800983 to 6800982 → Cost: 75
+- From 6800983 to 6800984 → Cost: 19
+- From 6800984 to 6800983 → Cost: 83
+- From 6800984 to 6806326 → Cost: 80
+- From 6800985 to 6806326 → Cost: 78
+- From 6800985 to 6800986 → Cost: 75
+- From 6800985 to 6800975 → Cost: 81
+- From 6800986 to 6800976 → Cost: 61
+- From 6800986 to 6800313 → Cost: 63
+- From 6800986 to 6800985 → Cost: 50
+- From 6800986 to 6800309 → Cost: 25
+- From 6800988 to 6801805 → Cost: 9
+- From 6800988 to 6800989 → Cost: 19
+- From 6800989 to 6800988 → Cost: 91
+- From 6800989 to 6800990 → Cost: 40
+- From 6800990 to 6800989 → Cost: 63
+- From 6800990 to 6800991 → Cost: 17
+- From 6800990 to 6801839 → Cost: 86
+- From 6800990 to 6801009 → Cost: 4
+- From 6800991 to 6800990 → Cost: 94
+- From 6800991 to 6800992 → Cost: 90
+- From 6800992 to 6800991 → Cost: 45
+- From 6800992 to 6800993 → Cost: 55
+- From 6800993 to 6800992 → Cost: 5
+- From 6800993 to 6800994 → Cost: 92
+- From 6800994 to 6800993 → Cost: 70
+- From 6800994 to 6800995 → Cost: 59
+- From 6800995 to 6800994 → Cost: 77
+- From 6800995 to 6805630 → Cost: 43
+- From 6800996 to 6805630 → Cost: 6
+- From 6800996 to 6805648 → Cost: 25
+- From 6800997 to 6805641 → Cost: 85
+- From 6800997 to 6800702 → Cost: 29
+- From 6800999 to 6800701 → Cost: 98
+- From 6800999 to 6805648 → Cost: 29
+- From 6801002 to 6800703 → Cost: 8
+- From 6801002 to 6801003 → Cost: 63
+- From 6801003 to 6801002 → Cost: 10
+- From 6801003 to 6801004 → Cost: 4
+- From 6801004 to 6801003 → Cost: 96
+- From 6801004 to 6801005 → Cost: 82
+- From 6801005 to 6801004 → Cost: 24
+- From 6801005 to 6801006 → Cost: 3
+- From 6801006 to 6801005 → Cost: 94
+- From 6801006 to 6801007 → Cost: 17
+- From 6801007 to 6801006 → Cost: 73
+- From 6801007 to 6801839 → Cost: 56
+- From 6801009 to 6800990 → Cost: 54
+- From 6801009 to 6801010 → Cost: 71
+- From 6801010 to 6801009 → Cost: 51
+- From 6801010 to 6801806 → Cost: 13
+- From 6801011 to 6800255 → Cost: 13
+- From 6801011 to 6800636 → Cost: 70
+- From 6801011 to 6800300 → Cost: 15
+- From 6801012 to 6800573 → Cost: 8
+- From 6801012 to 6800572 → Cost: 99
+- From 6801013 to 6800143 → Cost: 60
+- From 6801013 to 6801050 → Cost: 16
+- From 6801013 to 6801848 → Cost: 7
+- From 6801015 to 6805667 → Cost: 83
+- From 6801015 to 6801016 → Cost: 69
+- From 6801015 to 6801051 → Cost: 38
+- From 6801015 to 6801851 → Cost: 2
+- From 6801015 to 6801486 → Cost: 9
+- From 6801016 to 6801015 → Cost: 62
+- From 6801016 to 6800944 → Cost: 62
+- From 6801016 to 6801486 → Cost: 13
+- From 6801016 to 6801017 → Cost: 24
+- From 6801017 to 6801016 → Cost: 68
+- From 6801017 to 6801895 → Cost: 91
+- From 6801017 to 6800516 → Cost: 78
+- From 6801017 to 6800622 → Cost: 62
+- From 6801042 to 6801896 → Cost: 38
+- From 6801042 to 6801043 → Cost: 22
+- From 6801042 to 6800553 → Cost: 15
+- From 6801042 to 6801066 → Cost: 66
+- From 6801043 to 6800945 → Cost: 45
+- From 6801043 to 6801044 → Cost: 25
+- From 6801043 to 6801042 → Cost: 93
+- From 6801043 to 6801487 → Cost: 19
+- From 6801044 to 6801043 → Cost: 17
+- From 6801044 to 6805665 → Cost: 91
+- From 6801044 to 6801850 → Cost: 25
+- From 6801044 to 6800742 → Cost: 39
+- From 6801044 to 6801487 → Cost: 17
+- From 6801047 to 6800007 → Cost: 95
+- From 6801047 to 6800293 → Cost: 83
+- From 6801050 to 6800041 → Cost: 99
+- From 6801050 to 6801798 → Cost: 43
+- From 6801050 to 6801207 → Cost: 5
+- From 6801050 to 6806366 → Cost: 93
+- From 6801050 to 6801013 → Cost: 13
+- From 6801050 to 6800146 → Cost: 41
+- From 6801050 to 6800222 → Cost: 99
+- From 6801051 to 6801289 → Cost: 38
+- From 6801051 to 6805665 → Cost: 69
+- From 6801051 to 6801015 → Cost: 4
+- From 6801051 to 6800763 → Cost: 37
+- From 6801052 to 6801160 → Cost: 20
+- From 6801052 to 6805706 → Cost: 18
+- From 6801052 to 6801174 → Cost: 88
+- From 6801052 to 6801829 → Cost: 58
+- From 6801053 to 6801174 → Cost: 5
+- From 6801053 to 6801054 → Cost: 97
+- From 6801053 to 6901054 → Cost: 17
+- From 6801053 to 6801489 → Cost: 61
+- From 6801054 to 6801053 → Cost: 65
+- From 6801054 to 6801070 → Cost: 65
+- From 6801054 to 6801490 → Cost: 87
+- From 6801054 to 6800054 → Cost: 75
+- From 6801054 to 6802368 → Cost: 43
+- From 6801054 to 6801055 → Cost: 83
+- From 6801055 to 6800055 → Cost: 52
+- From 6801055 to 6806261 → Cost: 68
+- From 6801055 to 6801054 → Cost: 49
+- From 6801055 to 6801056 → Cost: 17
+- From 6801056 to 6806261 → Cost: 13
+- From 6801056 to 6801057 → Cost: 9
+- From 6801056 to 6801111 → Cost: 23
+- From 6801056 to 6801055 → Cost: 9
+- From 6801057 to 6801056 → Cost: 54
+- From 6801057 to 6801289 → Cost: 42
+- From 6801057 to 6801062 → Cost: 58
+- From 6801057 to 6806346 → Cost: 48
+- From 6801057 to 6801827 → Cost: 64
+- From 6801057 to 6802367 → Cost: 86
+- From 6801058 to 6801288 → Cost: 83
+- From 6801058 to 6801095 → Cost: 79
+- From 6801059 to 6801095 → Cost: 6
+- From 6801059 to 6801060 → Cost: 33
+- From 6801059 to 6801287 → Cost: 93
+- From 6801060 to 6801059 → Cost: 8
+- From 6801060 to 6801061 → Cost: 99
+- From 6801061 to 6801060 → Cost: 92
+- From 6801061 to 6802407 → Cost: 81
+- From 6801061 to 6801062 → Cost: 25
+- From 6801062 to 6805673 → Cost: 50
+- From 6801062 to 6801057 → Cost: 38
+- From 6801062 to 6802408 → Cost: 99
+- From 6801062 to 6801061 → Cost: 14
+- From 6801062 to 6801068 → Cost: 10
+- From 6801062 to 6802406 → Cost: 82
+- From 6801062 to 6801288 → Cost: 33
+- From 6801063 to 6801288 → Cost: 23
+- From 6801063 to 6801068 → Cost: 19
+- From 6801063 to 6801111 → Cost: 37
+- From 6801063 to 6806347 → Cost: 59
+- From 6801063 to 6805620 → Cost: 64
+- From 6801063 to 6802366 → Cost: 91
+- From 6801066 to 6800621 → Cost: 40
+- From 6801066 to 6801042 → Cost: 68
+- From 6801068 to 6801063 → Cost: 19
+- From 6801068 to 6806260 → Cost: 71
+- From 6801068 to 6801062 → Cost: 56
+- From 6801068 to 6801069 → Cost: 69
+- From 6801069 to 6806260 → Cost: 83
+- From 6801069 to 6800054 → Cost: 77
+- From 6801069 to 6801070 → Cost: 26
+- From 6801069 to 6801068 → Cost: 75
+- From 6801070 to 6801054 → Cost: 94
+- From 6801070 to 6805808 → Cost: 68
+- From 6801070 to 6801071 → Cost: 15
+- From 6801070 to 6800055 → Cost: 29
+- From 6801070 to 6801829 → Cost: 20
+- From 6801070 to 6801069 → Cost: 95
+- From 6801070 to 6801497 → Cost: 6
+- From 6801071 to 6805807 → Cost: 76
+- From 6801071 to 6801149 → Cost: 90
+- From 6801071 to 6801070 → Cost: 63
+- From 6801071 to 6801823 → Cost: 34
+- From 6801071 to 6801165 → Cost: 68
+- From 6801071 to 6801488 → Cost: 27
+- From 6801075 to 6801261 → Cost: 46
+- From 6801075 to 6802321 → Cost: 23
+- From 6801095 to 6801058 → Cost: 56
+- From 6801095 to 6801059 → Cost: 97
+- From 6801096 to 6801114 → Cost: 7
+- From 6801096 to 6800741 → Cost: 5
+- From 6801098 to 6800866 → Cost: 83
+- From 6801098 to 6801099 → Cost: 43
+- From 6801099 to 6801098 → Cost: 18
+- From 6801099 to 6801100 → Cost: 59
+- From 6801100 to 6801099 → Cost: 53
+- From 6801100 to 6801101 → Cost: 35
+- From 6801101 to 6801100 → Cost: 55
+- From 6801101 to 6801984 → Cost: 10
+- From 6801102 to 6801984 → Cost: 29
+- From 6801102 to 6801103 → Cost: 31
+- From 6801103 to 6801102 → Cost: 96
+- From 6801103 to 6801104 → Cost: 81
+- From 6801104 to 6801103 → Cost: 62
+- From 6801104 to 6801105 → Cost: 9
+- From 6801105 to 6801104 → Cost: 56
+- From 6801105 to 6801106 → Cost: 95
+- From 6801106 to 6800889 → Cost: 69
+- From 6801106 to 6800890 → Cost: 16
+- From 6801106 to 6801105 → Cost: 7
+- From 6801108 to 6800597 → Cost: 6
+- From 6801108 to 6800599 → Cost: 3
+- From 6801111 to 6801063 → Cost: 35
+- From 6801111 to 6805672 → Cost: 17
+- From 6801111 to 6802407 → Cost: 81
+- From 6801111 to 6801056 → Cost: 43
+- From 6801111 to 6801112 → Cost: 15
+- From 6801111 to 6801289 → Cost: 67
+- From 6801111 to 6802405 → Cost: 55
+- From 6801112 to 6802408 → Cost: 34
+- From 6801112 to 6801113 → Cost: 40
+- From 6801112 to 6801111 → Cost: 94
+- From 6801113 to 6801112 → Cost: 39
+- From 6801113 to 6801114 → Cost: 39
+- From 6801114 to 6801113 → Cost: 92
+- From 6801114 to 6801096 → Cost: 95
+- From 6801114 to 6801286 → Cost: 80
+- From 6801118 to 6806189 → Cost: 25
+- From 6801118 to 6800393 → Cost: 11
+- From 6801118 to 6806187 → Cost: 96
+- From 6801118 to 6800410 → Cost: 66
+- From 6801120 to 6800433 → Cost: 29
+- From 6801120 to 6800435 → Cost: 33
+- From 6801124 to 6800333 → Cost: 83
+- From 6801124 to 6801125 → Cost: 15
+- From 6801125 to 6801124 → Cost: 5
+- From 6801125 to 6800334 → Cost: 65
+- From 6801126 to 6800460 → Cost: 26
+- From 6801126 to 6801127 → Cost: 82
+- From 6801127 to 6801126 → Cost: 90
+- From 6801127 to 6800375 → Cost: 67
+- From 6801128 to 6800345 → Cost: 36
+- From 6801128 to 6801129 → Cost: 26
+- From 6801129 to 6801128 → Cost: 71
+- From 6801129 to 6800443 → Cost: 57
+- From 6801134 to 6805607 → Cost: 31
+- From 6801134 to 6801135 → Cost: 8
+- From 6801135 to 6801134 → Cost: 51
+- From 6801135 to 6801136 → Cost: 56
+- From 6801136 to 6801135 → Cost: 38
+- From 6801136 to 6801137 → Cost: 84
+- From 6801137 to 6801136 → Cost: 20
+- From 6801137 to 6801237 → Cost: 8
+- From 6801138 to 6800078 → Cost: 70
+- From 6801138 to 6800107 → Cost: 14
+- From 6801139 to 6801849 → Cost: 47
+- From 6801139 to 6801799 → Cost: 49
+- From 6801139 to 6801911 → Cost: 77
+- From 6801141 to 6800155 → Cost: 49
+- From 6801141 to 6801304 → Cost: 88
+- From 6801141 to 6800001 → Cost: 27
+- From 6801144 to 6800007 → Cost: 1
+- From 6801144 to 6800009 → Cost: 89
+- From 6801145 to 6800626 → Cost: 57
+- From 6801145 to 6801146 → Cost: 66
+- From 6801146 to 6801145 → Cost: 62
+- From 6801146 to 6806307 → Cost: 2
+- From 6801149 to 6801071 → Cost: 53
+- From 6801149 to 6801875 → Cost: 55
+- From 6801149 to 6805706 → Cost: 30
+- From 6801151 to 6801866 → Cost: 54
+- From 6801151 to 6801152 → Cost: 1
+- From 6801151 to 6801816 → Cost: 85
+- From 6801152 to 6801151 → Cost: 70
+- From 6801152 to 6801153 → Cost: 92
+- From 6801152 to 6801179 → Cost: 96
+- From 6801153 to 6801152 → Cost: 87
+- From 6801153 to 6801293 → Cost: 98
+- From 6801153 to 6801181 → Cost: 81
+- From 6801153 to 6801836 → Cost: 39
+- From 6801153 to 6801491 → Cost: 96
+- From 6801157 to 6800055 → Cost: 66
+- From 6801157 to 6801158 → Cost: 5
+- From 6801158 to 6801157 → Cost: 74
+- From 6801158 to 6905807 → Cost: 53
+- From 6801158 to 6805533 → Cost: 98
+- From 6801158 to 6801160 → Cost: 13
+- From 6801160 to 6801828 → Cost: 73
+- From 6801160 to 6801052 → Cost: 22
+- From 6801160 to 6901052 → Cost: 29
+- From 6801160 to 6801158 → Cost: 8
+- From 6801161 to 6805676 → Cost: 95
+- From 6801161 to 6805678 → Cost: 58
+- From 6801162 to 6802359 → Cost: 83
+- From 6801162 to 6801842 → Cost: 35
+- From 6801163 to 6801843 → Cost: 57
+- From 6801163 to 6802358 → Cost: 24
+- From 6801164 to 6805679 → Cost: 7
+- From 6801164 to 6805677 → Cost: 26
+- From 6801165 to 6801071 → Cost: 49
+- From 6801165 to 6800626 → Cost: 68
+- From 6801165 to 6801874 → Cost: 83
+- From 6801166 to 6801296 → Cost: 48
+- From 6801166 to 6805620 → Cost: 75
+- From 6801166 to 6801167 → Cost: 33
+- From 6801167 to 6805808 → Cost: 85
+- From 6801167 to 6901168 → Cost: 27
+- From 6801167 to 6801166 → Cost: 25
+- From 6801167 to 6805532 → Cost: 84
+- From 6801168 to 6800054 → Cost: 5
+- From 6801172 to 6806306 → Cost: 38
+- From 6801172 to 6805706 → Cost: 67
+- From 6801174 to 6801874 → Cost: 38
+- From 6801174 to 6801053 → Cost: 34
+- From 6801174 to 6801837 → Cost: 72
+- From 6801174 to 6805706 → Cost: 68
+- From 6801174 to 6801052 → Cost: 41
+- From 6801175 to 6800645 → Cost: 46
+- From 6801175 to 6800647 → Cost: 8
+- From 6801176 to 6800660 → Cost: 15
+- From 6801176 to 6800662 → Cost: 3
+- From 6801177 to 6805706 → Cost: 35
+- From 6801177 to 6800751 → Cost: 67
+- From 6801179 to 6801295 → Cost: 19
+- From 6801179 to 6801907 → Cost: 72
+- From 6801179 to 6801152 → Cost: 14
+- From 6801179 to 6801890 → Cost: 44
+- From 6801179 to 6800042 → Cost: 11
+- From 6801179 to 6800016 → Cost: 80
+- From 6801179 to 6805639 → Cost: 84
+- From 6801179 to 6800031 → Cost: 3
+- From 6801181 to 6801916 → Cost: 62
+- From 6801181 to 6801153 → Cost: 21
+- From 6801181 to 6801819 → Cost: 86
+- From 6801181 to 6801833 → Cost: 72
+- From 6801181 to 6800005 → Cost: 84
+- From 6801181 to 6800238 → Cost: 42
+- From 6801181 to 6800031 → Cost: 53
+- From 6801181 to 6805639 → Cost: 61
+- From 6801181 to 6800016 → Cost: 75
+- From 6801192 to 6804602 → Cost: 29
+- From 6801192 to 6800879 → Cost: 17
+- From 6801193 to 6800876 → Cost: 11
+- From 6801193 to 6804603 → Cost: 55
+- From 6801194 to 6800911 → Cost: 29
+- From 6801194 to 6800912 → Cost: 88
+- From 6801195 to 6805589 → Cost: 61
+- From 6801195 to 6800915 → Cost: 26
+- From 6801196 to 6800917 → Cost: 11
+- From 6801196 to 6800919 → Cost: 99
+- From 6801197 to 6800920 → Cost: 5
+- From 6801197 to 6800921 → Cost: 38
+- From 6801200 to 6800667 → Cost: 86
+- From 6801200 to 6800669 → Cost: 84
+- From 6801201 to 6800635 → Cost: 34
+- From 6801201 to 6800637 → Cost: 57
+- From 6801202 to 6800461 → Cost: 2
+- From 6801202 to 6800462 → Cost: 64
+- From 6801203 to 6800441 → Cost: 32
+- From 6801203 to 6800442 → Cost: 21
+- From 6801204 to 6800212 → Cost: 64
+- From 6801204 to 6800441 → Cost: 25
+- From 6801205 to 6800462 → Cost: 35
+- From 6801205 to 6800302 → Cost: 68
+- From 6801207 to 6800136 → Cost: 29
+- From 6801207 to 6801050 → Cost: 18
+- From 6801208 to 6800381 → Cost: 48
+- From 6801208 to 6801849 → Cost: 42
+- From 6801208 to 6800383 → Cost: 9
+- From 6801208 to 6800162 → Cost: 38
+- From 6801208 to 6800160 → Cost: 58
+- From 6801208 to 6800378 → Cost: 68
+- From 6801209 to 6800105 → Cost: 49
+- From 6801209 to 6801982 → Cost: 42
+- From 6801210 to 6801912 → Cost: 67
+- From 6801210 to 6800219 → Cost: 6
+- From 6801211 to 6801260 → Cost: 72
+- From 6801211 to 6806237 → Cost: 21
+- From 6801211 to 6802324 → Cost: 88
+- From 6801212 to 6802340 → Cost: 27
+- From 6801212 to 6800608 → Cost: 77
+- From 6801215 to 6800795 → Cost: 1
+- From 6801215 to 6800797 → Cost: 94
+- From 6801216 to 6800797 → Cost: 87
+- From 6801216 to 6800798 → Cost: 4
+- From 6801216 to 6800770 → Cost: 86
+- From 6801218 to 6800801 → Cost: 67
+- From 6801218 to 6800802 → Cost: 22
+- From 6801219 to 6800804 → Cost: 81
+- From 6801219 to 6800801 → Cost: 13
+- From 6801219 to 6800805 → Cost: 12
+- From 6801220 to 6800845 → Cost: 76
+- From 6801220 to 6800846 → Cost: 80
+- From 6801221 to 6800807 → Cost: 58
+- From 6801221 to 6800795 → Cost: 88
+- From 6801221 to 6800788 → Cost: 93
+- From 6801223 to 6800899 → Cost: 33
+- From 6801223 to 6801853 → Cost: 45
+- From 6801223 to 6802301 → Cost: 21
+- From 6801224 to 6801852 → Cost: 51
+- From 6801224 to 6800899 → Cost: 70
+- From 6801225 to 6800693 → Cost: 80
+- From 6801225 to 6802345 → Cost: 70
+- From 6801226 to 6800869 → Cost: 23
+- From 6801226 to 6800870 → Cost: 31
+- From 6801227 to 6800687 → Cost: 21
+- From 6801227 to 6800689 → Cost: 49
+- From 6801228 to 6800690 → Cost: 39
+- From 6801228 to 6800693 → Cost: 64
+- From 6801229 to 6800399 → Cost: 52
+- From 6801229 to 6800400 → Cost: 73
+- From 6801230 to 6800509 → Cost: 83
+- From 6801230 to 6805643 → Cost: 53
+- From 6801230 to 6805809 → Cost: 46
+- From 6801231 to 6800011 → Cost: 73
+- From 6801231 to 6802316 → Cost: 38
+- From 6801232 to 6800033 → Cost: 92
+- From 6801232 to 6800034 → Cost: 60
+- From 6801233 to 6806350 → Cost: 52
+- From 6801233 to 6800961 → Cost: 4
+- From 6801233 to 6800966 → Cost: 24
+- From 6801233 to 6806242 → Cost: 30
+- From 6801237 to 6801137 → Cost: 18
+- From 6801237 to 6805609 → Cost: 12
+- From 6801238 to 6800107 → Cost: 38
+- From 6801238 to 6800108 → Cost: 41
+- From 6801239 to 6800099 → Cost: 24
+- From 6801239 to 6800100 → Cost: 26
+- From 6801240 to 6800973 → Cost: 72
+- From 6801240 to 6800099 → Cost: 50
+- From 6801241 to 6806358 → Cost: 8
+- From 6801241 to 6800319 → Cost: 94
+- From 6801242 to 6800979 → Cost: 52
+- From 6801242 to 6800981 → Cost: 47
+- From 6801243 to 6800972 → Cost: 88
+- From 6801243 to 6806371 → Cost: 28
+- From 6801244 to 6800309 → Cost: 62
+- From 6801244 to 6800322 → Cost: 71
+- From 6801252 to 6800284 → Cost: 60
+- From 6801252 to 6800285 → Cost: 62
+- From 6801253 to 6800277 → Cost: 56
+- From 6801253 to 6800278 → Cost: 22
+- From 6801256 to 6800010 → Cost: 32
+- From 6801256 to 6800011 → Cost: 96
+- From 6801256 to 6800148 → Cost: 84
+- From 6801257 to 6802339 → Cost: 12
+- From 6801257 to 6800040 → Cost: 58
+- From 6801259 to 6802332 → Cost: 29
+- From 6801259 to 6800250 → Cost: 75
+- From 6801260 to 6805486 → Cost: 12
+- From 6801260 to 6801211 → Cost: 64
+- From 6801260 to 6800126 → Cost: 24
+- From 6801261 to 6801264 → Cost: 31
+- From 6801261 to 6801075 → Cost: 19
+- From 6801262 to 6800715 → Cost: 38
+- From 6801262 to 6801263 → Cost: 49
+- From 6801263 to 6801262 → Cost: 52
+- From 6801263 to 6800717 → Cost: 17
+- From 6801264 to 6800697 → Cost: 19
+- From 6801264 to 6801261 → Cost: 93
+- From 6801266 to 6800714 → Cost: 20
+- From 6801266 to 6800700 → Cost: 94
+- From 6801267 to 6800707 → Cost: 54
+- From 6801267 to 6800709 → Cost: 80
+- From 6801269 to 6800444 → Cost: 62
+- From 6801269 to 6800445 → Cost: 24
+- From 6801275 to 6800482 → Cost: 33
+- From 6801275 to 6800483 → Cost: 12
+- From 6801276 to 6800500 → Cost: 63
+- From 6801276 to 6800501 → Cost: 45
+- From 6801277 to 6800488 → Cost: 96
+- From 6801277 to 6805631 → Cost: 99
+- From 6801278 to 6800489 → Cost: 80
+- From 6801278 to 6800491 → Cost: 24
+- From 6801278 to 6800490 → Cost: 97
+- From 6801280 to 6800571 → Cost: 40
+- From 6801280 to 6800574 → Cost: 49
+- From 6801282 to 6801283 → Cost: 17
+- From 6801282 to 6800567 → Cost: 58
+- From 6801283 to 6800558 → Cost: 49
+- From 6801283 to 6801282 → Cost: 94
+- From 6801286 to 6801114 → Cost: 36
+- From 6801286 to 6800065 → Cost: 64
+- From 6801287 to 6800069 → Cost: 49
+- From 6801287 to 6801059 → Cost: 16
+- From 6801288 to 6805665 → Cost: 82
+- From 6801288 to 6801063 → Cost: 29
+- From 6801288 to 6800945 → Cost: 46
+- From 6801288 to 6801058 → Cost: 78
+- From 6801288 to 6806347 → Cost: 63
+- From 6801288 to 6802395 → Cost: 22
+- From 6801288 to 6800742 → Cost: 96
+- From 6801288 to 6806345 → Cost: 79
+- From 6801288 to 6801062 → Cost: 73
+- From 6801288 to 6801845 → Cost: 88
+- From 6801289 to 6801057 → Cost: 24
+- From 6801289 to 6805667 → Cost: 42
+- From 6801289 to 6800741 → Cost: 33
+- From 6801289 to 6800944 → Cost: 26
+- From 6801289 to 6806346 → Cost: 59
+- From 6801289 to 6802396 → Cost: 20
+- From 6801289 to 6801051 → Cost: 22
+- From 6801289 to 6806344 → Cost: 5
+- From 6801289 to 6801111 → Cost: 97
+- From 6801289 to 6801844 → Cost: 7
+- From 6801290 to 6800031 → Cost: 80
+- From 6801290 to 6801292 → Cost: 48
+- From 6801291 to 6800751 → Cost: 35
+- From 6801291 to 6801873 → Cost: 6
+- From 6801292 to 6801290 → Cost: 92
+- From 6801292 to 6801838 → Cost: 58
+- From 6801293 to 6801153 → Cost: 68
+- From 6801293 to 6801904 → Cost: 30
+- From 6801294 to 6800763 → Cost: 81
+- From 6801294 to 6800765 → Cost: 14
+- From 6801295 to 6801917 → Cost: 6
+- From 6801295 to 6801819 → Cost: 56
+- From 6801295 to 6801823 → Cost: 31
+- From 6801295 to 6801179 → Cost: 40
+- From 6801295 to 6801496 → Cost: 32
+- From 6801296 to 6800626 → Cost: 40
+- From 6801296 to 6801166 → Cost: 96
+- From 6801296 to 6802368 → Cost: 90
+- From 6801297 to 6806238 → Cost: 5
+- From 6801297 to 6800130 → Cost: 89
+- From 6801297 to 6801908 → Cost: 70
+- From 6801300 to 6806349 → Cost: 99
+- From 6801301 to 6800083 → Cost: 67
+- From 6801301 to 6805606 → Cost: 69
+- From 6801304 to 6800045 → Cost: 65
+- From 6801304 to 6801485 → Cost: 50
+- From 6801304 to 6801141 → Cost: 56
+- From 6801304 to 6801982 → Cost: 12
+- From 6801309 to 6801389 → Cost: 23
+- From 6801309 to 6801400 → Cost: 54
+- From 6801317 to 6801399 → Cost: 84
+- From 6801317 to 6801408 → Cost: 37
+- From 6801328 to 6801394 → Cost: 33
+- From 6801328 to 6801401 → Cost: 64
+- From 6801329 to 6801402 → Cost: 13
+- From 6801329 to 6801337 → Cost: 12
+- From 6801330 to 6801337 → Cost: 31
+- From 6801330 to 6801331 → Cost: 16
+- From 6801331 to 6801330 → Cost: 99
+- From 6801331 to 6801390 → Cost: 93
+- From 6801332 to 6801350 → Cost: 33
+- From 6801332 to 6801351 → Cost: 20
+- From 6801333 to 6801354 → Cost: 17
+- From 6801333 to 6802398 → Cost: 34
+- From 6801334 to 6802308 → Cost: 91
+- From 6801334 to 6801341 → Cost: 89
+- From 6801335 to 6802398 → Cost: 19
+- From 6801335 to 6801403 → Cost: 60
+- From 6801336 to 6801397 → Cost: 45
+- From 6801336 to 6801386 → Cost: 69
+- From 6801337 to 6801329 → Cost: 22
+- From 6801337 to 6801330 → Cost: 84
+- From 6801338 to 6801359 → Cost: 97
+- From 6801338 to 6805540 → Cost: 85
+- From 6801339 to 6801351 → Cost: 98
+- From 6801339 to 6801360 → Cost: 50
+- From 6801340 to 6801384 → Cost: 92
+- From 6801340 to 6801361 → Cost: 59
+- From 6801341 to 6801334 → Cost: 25
+- From 6801341 to 6802397 → Cost: 19
+- From 6801342 to 6801406 → Cost: 73
+- From 6801342 to 6801397 → Cost: 14
+- From 6801343 to 6801352 → Cost: 57
+- From 6801343 to 6801372 → Cost: 93
+- From 6801344 to 6801373 → Cost: 80
+- From 6801344 to 6801364 → Cost: 85
+- From 6801347 to 6801395 → Cost: 91
+- From 6801347 to 6801405 → Cost: 13
+- From 6801348 to 6801355 → Cost: 34
+- From 6801348 to 6801354 → Cost: 78
+- From 6801349 to 6801387 → Cost: 8
+- From 6801349 to 6801388 → Cost: 72
+- From 6801350 to 6805540 → Cost: 5
+- From 6801350 to 6801332 → Cost: 20
+- From 6801351 to 6801332 → Cost: 1
+- From 6801351 to 6801339 → Cost: 76
+- From 6801352 to 6801368 → Cost: 34
+- From 6801352 to 6801343 → Cost: 2
+- From 6801353 to 6801393 → Cost: 72
+- From 6801353 to 6801368 → Cost: 92
+- From 6801354 to 6801348 → Cost: 6
+- From 6801354 to 6801333 → Cost: 75
+- From 6801355 to 6801407 → Cost: 65
+- From 6801355 to 6801348 → Cost: 70
+- From 6801356 to 6801383 → Cost: 11
+- From 6801356 to 6801394 → Cost: 51
+- From 6801357 to 6801401 → Cost: 26
+- From 6801357 to 6801369 → Cost: 91
+- From 6801358 to 6801377 → Cost: 86
+- From 6801358 to 6801378 → Cost: 51
+- From 6801359 to 6801338 → Cost: 18
+- From 6801359 to 6801380 → Cost: 51
+- From 6801360 to 6801339 → Cost: 85
+- From 6801360 to 6801381 → Cost: 20
+- From 6801361 to 6801340 → Cost: 93
+- From 6801361 to 6801392 → Cost: 94
+- From 6801363 to 6801364 → Cost: 63
+- From 6801363 to 6802398 → Cost: 30
+- From 6801364 to 6801344 → Cost: 71
+- From 6801364 to 6801363 → Cost: 61
+- From 6801365 to 6802397 → Cost: 49
+- From 6801365 to 6801375 → Cost: 75
+- From 6801366 to 6801381 → Cost: 30
+- From 6801366 to 6801374 → Cost: 51
+- From 6801367 to 6801400 → Cost: 94
+- From 6801367 to 6801398 → Cost: 3
+- From 6801368 to 6801353 → Cost: 87
+- From 6801368 to 6801352 → Cost: 13
+- From 6801369 to 6801357 → Cost: 16
+- From 6801369 to 6801393 → Cost: 6
+- From 6801369 to 6801402 → Cost: 77
+- From 6801372 to 6801343 → Cost: 73
+- From 6801372 to 6802308 → Cost: 28
+- From 6801373 to 6801405 → Cost: 77
+- From 6801373 to 6801344 → Cost: 62
+- From 6801374 to 6801366 → Cost: 36
+- From 6801374 to 6801385 → Cost: 24
+- From 6801375 to 6801365 → Cost: 30
+- From 6801375 to 6801407 → Cost: 45
+- From 6801376 to 6801390 → Cost: 90
+- From 6801376 to 6801399 → Cost: 72
+- From 6801377 to 6801386 → Cost: 51
+- From 6801377 to 6801358 → Cost: 35
+- From 6801378 to 6801358 → Cost: 67
+- From 6801378 to 6801379 → Cost: 75
+- From 6801379 to 6801378 → Cost: 9
+- From 6801379 to 6801380 → Cost: 16
+- From 6801380 to 6801379 → Cost: 15
+- From 6801380 to 6801359 → Cost: 23
+- From 6801381 to 6801360 → Cost: 32
+- From 6801381 to 6801366 → Cost: 47
+- From 6801382 to 6801391 → Cost: 77
+- From 6801382 to 6801384 → Cost: 82
+- From 6801383 to 6801404 → Cost: 98
+- From 6801383 to 6801356 → Cost: 60
+- From 6801384 to 6801382 → Cost: 86
+- From 6801384 to 6801340 → Cost: 42
+- From 6801385 to 6801374 → Cost: 64
+- From 6801385 to 6801387 → Cost: 77
+- From 6801386 to 6801336 → Cost: 65
+- From 6801386 to 6801377 → Cost: 17
+- From 6801387 to 6801385 → Cost: 19
+- From 6801387 to 6801349 → Cost: 19
+- From 6801388 to 6801349 → Cost: 22
+- From 6801388 to 6801389 → Cost: 16
+- From 6801389 to 6801388 → Cost: 11
+- From 6801389 to 6801309 → Cost: 44
+- From 6801390 to 6801331 → Cost: 23
+- From 6801390 to 6801376 → Cost: 4
+- From 6801391 to 6806233 → Cost: 20
+- From 6801391 to 6801382 → Cost: 21
+- From 6801392 to 6801361 → Cost: 87
+- From 6801392 to 6801401 → Cost: 69
+- From 6801393 to 6801369 → Cost: 38
+- From 6801393 to 6801353 → Cost: 43
+- From 6801394 to 6801356 → Cost: 78
+- From 6801394 to 6801328 → Cost: 40
+- From 6801395 to 6802397 → Cost: 87
+- From 6801395 to 6801347 → Cost: 93
+- From 6801397 to 6801342 → Cost: 87
+- From 6801397 to 6801336 → Cost: 71
+- From 6801398 to 6801367 → Cost: 86
+- From 6801398 to 6806233 → Cost: 48
+- From 6801399 to 6801376 → Cost: 62
+- From 6801399 to 6801317 → Cost: 16
+- From 6801400 to 6801309 → Cost: 43
+- From 6801400 to 6801367 → Cost: 59
+- From 6801401 to 6801392 → Cost: 43
+- From 6801401 to 6801357 → Cost: 65
+- From 6801401 to 6801328 → Cost: 88
+- From 6801402 to 6801369 → Cost: 93
+- From 6801402 to 6801329 → Cost: 39
+- From 6801403 to 6801335 → Cost: 63
+- From 6801403 to 6802309 → Cost: 19
+- From 6801404 to 6802309 → Cost: 97
+- From 6801404 to 6801383 → Cost: 97
+- From 6801405 to 6801347 → Cost: 3
+- From 6801405 to 6801373 → Cost: 73
+- From 6801406 to 6801409 → Cost: 19
+- From 6801406 to 6801342 → Cost: 49
+- From 6801407 to 6801375 → Cost: 34
+- From 6801407 to 6801355 → Cost: 47
+- From 6801408 to 6801317 → Cost: 17
+- From 6801408 to 6801409 → Cost: 63
+- From 6801409 to 6801408 → Cost: 65
+- From 6801409 to 6801406 → Cost: 37
+- From 6801413 to 6800857 → Cost: 30
+- From 6801413 to 6800858 → Cost: 6
+- From 6801414 to 6801415 → Cost: 13
+- From 6801414 to 6800854 → Cost: 57
+- From 6801415 to 6800852 → Cost: 48
+- From 6801415 to 6801414 → Cost: 10
+- From 6801416 to 6800809 → Cost: 53
+- From 6801416 to 6800810 → Cost: 3
+- From 6801417 to 6800818 → Cost: 60
+- From 6801417 to 6800819 → Cost: 52
+- From 6801418 to 6800813 → Cost: 14
+- From 6801418 to 6800816 → Cost: 41
+- From 6801418 to 6800855 → Cost: 44
+- From 6801426 to 6800841 → Cost: 68
+- From 6801426 to 6800842 → Cost: 1
+- From 6801485 to 6801304 → Cost: 85
+- From 6801485 to 6805516 → Cost: 69
+- From 6801485 to 6800001 → Cost: 42
+- From 6801485 to 6800075 → Cost: 70
+- From 6801485 to 6800042 → Cost: 86
+- From 6801486 to 6801015 → Cost: 27
+- From 6801486 to 6801016 → Cost: 13
+- From 6801487 to 6801043 → Cost: 41
+- From 6801487 to 6801044 → Cost: 7
+- From 6801488 to 6801837 → Cost: 32
+- From 6801488 to 6801071 → Cost: 99
+- From 6801489 to 6801053 → Cost: 15
+- From 6801489 to 6801823 → Cost: 66
+- From 6801490 to 6801054 → Cost: 23
+- From 6801490 to 6801833 → Cost: 42
+- From 6801490 to 6801491 → Cost: 54
+- From 6801491 to 6801903 → Cost: 44
+- From 6801491 to 6801492 → Cost: 83
+- From 6801491 to 6801490 → Cost: 74
+- From 6801491 to 6801890 → Cost: 57
+- From 6801491 to 6801153 → Cost: 1
+- From 6801491 to 6805519 → Cost: 68
+- From 6801491 to 6801888 → Cost: 92
+- From 6801492 to 6801491 → Cost: 98
+- From 6801492 to 6805666 → Cost: 37
+- From 6801492 to 6801908 → Cost: 60
+- From 6801493 to 6802302 → Cost: 89
+- From 6801493 to 6801854 → Cost: 38
+- From 6801494 to 6801855 → Cost: 18
+- From 6801494 to 6802351 → Cost: 43
+- From 6801495 to 6805668 → Cost: 94
+- From 6801495 to 6801496 → Cost: 14
+- From 6801495 to 6802324 → Cost: 52
+- From 6801496 to 6801495 → Cost: 14
+- From 6801496 to 6801904 → Cost: 48
+- From 6801496 to 6801497 → Cost: 95
+- From 6801496 to 6801833 → Cost: 2
+- From 6801496 to 6801295 → Cost: 64
+- From 6801496 to 6801889 → Cost: 42
+- From 6801496 to 6805520 → Cost: 1
+- From 6801497 to 6801890 → Cost: 31
+- From 6801497 to 6901070 → Cost: 23
+- From 6801497 to 6801496 → Cost: 51
+- From 6801497 to 6801070 → Cost: 9
+- From 6801798 to 6801050 → Cost: 70
+- From 6801798 to 6800219 → Cost: 70
+- From 6801798 to 6801912 → Cost: 87
+- From 6801798 to 6800222 → Cost: 71
+- From 6801799 to 6801139 → Cost: 70
+- From 6801799 to 6800165 → Cost: 23
+- From 6801799 to 6800216 → Cost: 70
+- From 6801799 to 6801911 → Cost: 37
+- From 6801800 to 6800002 → Cost: 90
+- From 6801800 to 6800748 → Cost: 47
+- From 6801801 to 6800263 → Cost: 74
+- From 6801801 to 6800264 → Cost: 78
+- From 6801802 to 6800237 → Cost: 76
+- From 6801802 to 6800238 → Cost: 88
+- From 6801803 to 6802346 → Cost: 37
+- From 6801803 to 6800240 → Cost: 80
+- From 6801803 to 6800239 → Cost: 45
+- From 6801803 to 6805636 → Cost: 89
+- From 6801804 to 6800244 → Cost: 63
+- From 6801804 to 6806236 → Cost: 39
+- From 6801804 to 6805635 → Cost: 59
+- From 6801804 to 6800245 → Cost: 17
+- From 6801805 to 6800011 → Cost: 6
+- From 6801805 to 6800988 → Cost: 30
+- From 6801806 to 6801010 → Cost: 95
+- From 6801806 to 6800035 → Cost: 73
+- From 6801807 to 6800591 → Cost: 60
+- From 6801807 to 6800592 → Cost: 94
+- From 6801808 to 6800603 → Cost: 38
+- From 6801808 to 6800604 → Cost: 40
+- From 6801809 to 6800137 → Cost: 58
+- From 6801809 to 6800138 → Cost: 7
+- From 6801816 to 6800031 → Cost: 49
+- From 6801816 to 6801867 → Cost: 89
+- From 6801816 to 6801151 → Cost: 14
+- From 6801816 to 6806275 → Cost: 39
+- From 6801817 to 6801866 → Cost: 60
+- From 6801817 to 6800016 → Cost: 71
+- From 6801817 to 6801821 → Cost: 93
+- From 6801817 to 6806274 → Cost: 32
+- From 6801819 to 6801295 → Cost: 45
+- From 6801819 to 6801820 → Cost: 97
+- From 6801819 to 6801181 → Cost: 3
+- From 6801820 to 6801819 → Cost: 8
+- From 6801820 to 6801821 → Cost: 4
+- From 6801821 to 6801820 → Cost: 46
+- From 6801821 to 6801867 → Cost: 15
+- From 6801821 to 6801817 → Cost: 22
+- From 6801823 to 6801071 → Cost: 16
+- From 6801823 to 6801295 → Cost: 95
+- From 6801823 to 6801489 → Cost: 12
+- From 6801823 to 6801824 → Cost: 73
+- From 6801824 to 6801823 → Cost: 43
+- From 6801824 to 6801914 → Cost: 6
+- From 6801825 to 6802349 → Cost: 65
+- From 6801825 to 6802351 → Cost: 96
+- From 6801826 to 6802351 → Cost: 57
+- From 6801826 to 6801890 → Cost: 78
+- From 6801827 to 6805661 → Cost: 7
+- From 6801827 to 6801828 → Cost: 44
+- From 6801827 to 6801057 → Cost: 82
+- From 6801828 to 6801827 → Cost: 71
+- From 6801828 to 6801160 → Cost: 84
+- From 6801829 to 6801070 → Cost: 25
+- From 6801829 to 6801052 → Cost: 6
+- From 6801829 to 6800016 → Cost: 88
+- From 6801829 to 6801904 → Cost: 73
+- From 6801830 to 6805661 → Cost: 77
+- From 6801830 to 6805532 → Cost: 11
+- From 6801833 to 6801903 → Cost: 33
+- From 6801833 to 6801834 → Cost: 95
+- From 6801833 to 6801490 → Cost: 5
+- From 6801833 to 6801181 → Cost: 1
+- From 6801833 to 6801496 → Cost: 73
+- From 6801834 to 6801833 → Cost: 6
+- From 6801834 to 6802302 → Cost: 56
+- From 6801835 to 6802302 → Cost: 10
+- From 6801835 to 6802350 → Cost: 59
+- From 6801836 to 6801153 → Cost: 69
+- From 6801836 to 6801837 → Cost: 58
+- From 6801836 to 6801915 → Cost: 67
+- From 6801837 to 6801836 → Cost: 60
+- From 6801837 to 6801174 → Cost: 48
+- From 6801837 to 6801488 → Cost: 61
+- From 6801838 to 6801292 → Cost: 35
+- From 6801838 to 6800626 → Cost: 72
+- From 6801839 to 6801007 → Cost: 60
+- From 6801839 to 6800990 → Cost: 30
+- From 6801840 to 6800498 → Cost: 76
+- From 6801840 to 6800499 → Cost: 96
+- From 6801841 to 6800484 → Cost: 51
+- From 6801841 to 6800485 → Cost: 72
+- From 6801842 to 6801162 → Cost: 54
+- From 6801842 to 6806304 → Cost: 75
+- From 6801842 to 6805697 → Cost: 54
+- From 6801842 to 6805814 → Cost: 21
+- From 6801843 to 6806309 → Cost: 72
+- From 6801843 to 6801163 → Cost: 64
+- From 6801843 to 6805696 → Cost: 73
+- From 6801843 to 6805815 → Cost: 11
+- From 6801844 to 6802353 → Cost: 50
+- From 6801844 to 6802310 → Cost: 73
+- From 6801844 to 6801289 → Cost: 15
+- From 6801844 to 6802361 → Cost: 89
+- From 6801845 to 6802311 → Cost: 35
+- From 6801845 to 6802354 → Cost: 7
+- From 6801845 to 6802363 → Cost: 77
+- From 6801845 to 6801288 → Cost: 52
+- From 6801848 to 6800165 → Cost: 34
+- From 6801848 to 6800149 → Cost: 49
+- From 6801848 to 6801013 → Cost: 99
+- From 6801849 to 6801208 → Cost: 8
+- From 6801849 to 6801139 → Cost: 18
+- From 6801849 to 6800747 → Cost: 81
+- From 6801850 to 6800836 → Cost: 34
+- From 6801850 to 6801044 → Cost: 37
+- From 6801851 to 6801015 → Cost: 14
+- From 6801851 to 6800822 → Cost: 57
+- From 6801852 to 6800898 → Cost: 37
+- From 6801852 to 6801224 → Cost: 35
+- From 6801853 to 6801223 → Cost: 51
+- From 6801853 to 6800900 → Cost: 62
+- From 6801854 to 6801493 → Cost: 31
+- From 6801854 to 6801872 → Cost: 77
+- From 6801855 to 6801871 → Cost: 90
+- From 6801855 to 6801494 → Cost: 32
+- From 6801856 to 6801872 → Cost: 20
+- From 6801856 to 6801858 → Cost: 45
+- From 6801857 to 6801859 → Cost: 19
+- From 6801857 to 6801871 → Cost: 13
+- From 6801858 to 6801856 → Cost: 38
+- From 6801858 to 6802400 → Cost: 26
+- From 6801858 to 6801860 → Cost: 77
+- From 6801859 to 6802399 → Cost: 50
+- From 6801859 to 6801857 → Cost: 41
+- From 6801859 to 6801861 → Cost: 80
+- From 6801860 to 6802399 → Cost: 21
+- From 6801860 to 6801862 → Cost: 74
+- From 6801860 to 6801858 → Cost: 58
+- From 6801860 to 6806249 → Cost: 50
+- From 6801860 to 6801866 → Cost: 32
+- From 6801861 to 6801863 → Cost: 22
+- From 6801861 to 6802400 → Cost: 8
+- From 6801861 to 6806250 → Cost: 17
+- From 6801861 to 6801859 → Cost: 76
+- From 6801861 to 6801867 → Cost: 80
+- From 6801862 to 6801860 → Cost: 82
+- From 6801862 to 6805260 → Cost: 80
+- From 6801862 to 6801905 → Cost: 30
+- From 6801862 to 6801864 → Cost: 51
+- From 6801862 to 6801879 → Cost: 65
+- From 6801862 to 6800589 → Cost: 33
+- From 6801863 to 6805261 → Cost: 7
+- From 6801863 to 6801861 → Cost: 24
+- From 6801863 to 6801865 → Cost: 33
+- From 6801863 to 6801906 → Cost: 92
+- From 6801863 to 6800588 → Cost: 94
+- From 6801863 to 6801878 → Cost: 48
+- From 6801864 to 6801862 → Cost: 19
+- From 6801864 to 6801866 → Cost: 30
+- From 6801864 to 6805261 → Cost: 40
+- From 6801864 to 6806334 → Cost: 57
+- From 6801865 to 6801867 → Cost: 22
+- From 6801865 to 6801863 → Cost: 63
+- From 6801865 to 6805260 → Cost: 94
+- From 6801865 to 6806329 → Cost: 48
+- From 6801866 to 6801864 → Cost: 54
+- From 6801866 to 6801151 → Cost: 57
+- From 6801866 to 6801817 → Cost: 56
+- From 6801866 to 6801860 → Cost: 83
+- From 6801866 to 6800016 → Cost: 69
+- From 6801867 to 6801821 → Cost: 75
+- From 6801867 to 6801865 → Cost: 1
+- From 6801867 to 6801816 → Cost: 48
+- From 6801867 to 6800031 → Cost: 45
+- From 6801867 to 6801861 → Cost: 81
+- From 6801871 to 6801857 → Cost: 17
+- From 6801871 to 6801855 → Cost: 34
+- From 6801872 to 6801854 → Cost: 63
+- From 6801872 to 6801856 → Cost: 71
+- From 6801873 to 6801291 → Cost: 27
+- From 6801873 to 6800016 → Cost: 72
+- From 6801874 to 6800016 → Cost: 71
+- From 6801874 to 6801174 → Cost: 95
+- From 6801874 to 6801165 → Cost: 93
+- From 6801875 to 6801149 → Cost: 4
+- From 6801875 to 6800031 → Cost: 13
+- From 6801878 to 6801906 → Cost: 10
+- From 6801878 to 6801880 → Cost: 76
+- From 6801878 to 6801863 → Cost: 58
+- From 6801878 to 6801882 → Cost: 43
+- From 6801879 to 6801881 → Cost: 11
+- From 6801879 to 6801905 → Cost: 6
+- From 6801879 to 6801883 → Cost: 18
+- From 6801879 to 6801862 → Cost: 93
+- From 6801880 to 6801878 → Cost: 12
+- From 6801880 to 6801882 → Cost: 38
+- From 6801881 to 6801883 → Cost: 37
+- From 6801881 to 6801879 → Cost: 49
+- From 6801882 to 6801880 → Cost: 11
+- From 6801882 to 6801885 → Cost: 11
+- From 6801882 to 6801878 → Cost: 51
+- From 6801882 to 6801906 → Cost: 28
+- From 6801882 to 6801889 → Cost: 3
+- From 6801883 to 6801884 → Cost: 62
+- From 6801883 to 6801881 → Cost: 14
+- From 6801883 to 6801879 → Cost: 43
+- From 6801883 to 6801888 → Cost: 9
+- From 6801883 to 6801905 → Cost: 54
+- From 6801884 to 6801886 → Cost: 67
+- From 6801884 to 6801883 → Cost: 92
+- From 6801884 to 6801888 → Cost: 26
+- From 6801885 to 6801882 → Cost: 26
+- From 6801885 to 6801887 → Cost: 54
+- From 6801885 to 6801889 → Cost: 90
+- From 6801886 to 6801888 → Cost: 11
+- From 6801886 to 6801884 → Cost: 21
+- From 6801887 to 6801885 → Cost: 54
+- From 6801887 to 6801889 → Cost: 2
+- From 6801888 to 6806237 → Cost: 9
+- From 6801888 to 6801886 → Cost: 18
+- From 6801888 to 6805666 → Cost: 23
+- From 6801888 to 6801884 → Cost: 30
+- From 6801888 to 6801491 → Cost: 91
+- From 6801888 to 6801883 → Cost: 16
+- From 6801889 to 6801887 → Cost: 6
+- From 6801889 to 6806238 → Cost: 8
+- From 6801889 to 6801885 → Cost: 34
+- From 6801889 to 6805668 → Cost: 51
+- From 6801889 to 6801882 → Cost: 71
+- From 6801889 to 6801496 → Cost: 18
+- From 6801890 to 6801826 → Cost: 33
+- From 6801890 to 6801904 → Cost: 46
+- From 6801890 to 6801497 → Cost: 70
+- From 6801890 to 6801491 → Cost: 69
+- From 6801890 to 6801179 → Cost: 1
+- From 6801891 to 6800695 → Cost: 53
+- From 6801891 to 6801894 → Cost: 95
+- From 6801892 to 6801893 → Cost: 31
+- From 6801892 to 6800719 → Cost: 27
+- From 6801893 to 6801892 → Cost: 43
+- From 6801894 to 6801891 → Cost: 47
+- From 6801894 to 6800124 → Cost: 25
+- From 6801895 to 6801017 → Cost: 70
+- From 6801895 to 6801897 → Cost: 94
+- From 6801896 to 6801898 → Cost: 83
+- From 6801896 to 6801042 → Cost: 13
+- From 6801897 to 6801895 → Cost: 43
+- From 6801897 to 6802340 → Cost: 58
+- From 6801898 to 6802341 → Cost: 5
+- From 6801898 to 6801896 → Cost: 88
+- From 6801903 to 6800054 → Cost: 9
+- From 6801903 to 6801833 → Cost: 5
+- From 6801903 to 6805621 → Cost: 2
+- From 6801903 to 6801917 → Cost: 94
+- From 6801903 to 6801491 → Cost: 38
+- From 6801903 to 6802368 → Cost: 73
+- From 6801904 to 6801890 → Cost: 66
+- From 6801904 to 6800055 → Cost: 25
+- From 6801904 to 6801293 → Cost: 41
+- From 6801904 to 6805518 → Cost: 47
+- From 6801904 to 6801496 → Cost: 81
+- From 6801904 to 6801829 → Cost: 22
+- From 6801905 to 6801879 → Cost: 98
+- From 6801905 to 6801862 → Cost: 51
+- From 6801905 to 6801883 → Cost: 90
+- From 6801905 to 6805639 → Cost: 16
+- From 6801905 to 6805638 → Cost: 64
+- From 6801906 to 6801863 → Cost: 44
+- From 6801906 to 6801878 → Cost: 84
+- From 6801906 to 6800238 → Cost: 21
+- From 6801906 to 6801882 → Cost: 92
+- From 6801906 to 6805639 → Cost: 95
+- From 6801907 to 6801179 → Cost: 66
+- From 6801907 to 6805669 → Cost: 9
+- From 6801908 to 6801492 → Cost: 82
+- From 6801908 to 6801297 → Cost: 31
+- From 6801908 to 6801909 → Cost: 19
+- From 6801909 to 6805621 → Cost: 38
+- From 6801909 to 6805666 → Cost: 90
+- From 6801909 to 6800129 → Cost: 36
+- From 6801909 to 6801908 → Cost: 1
+- From 6801909 to 6806332 → Cost: 72
+- From 6801910 to 6805668 → Cost: 55
+- From 6801910 to 6805518 → Cost: 64
+- From 6801910 to 6802324 → Cost: 61
+- From 6801910 to 6800128 → Cost: 88
+- From 6801910 to 6806331 → Cost: 33
+- From 6801911 to 6801139 → Cost: 7
+- From 6801911 to 6800222 → Cost: 48
+- From 6801911 to 6801799 → Cost: 52
+- From 6801912 to 6800216 → Cost: 66
+- From 6801912 to 6801210 → Cost: 70
+- From 6801912 to 6801798 → Cost: 17
+- From 6801912 to 6800219 → Cost: 71
+- From 6801913 to 6800655 → Cost: 47
+- From 6801914 to 6801824 → Cost: 52
+- From 6801914 to 6802302 → Cost: 45
+- From 6801915 to 6802351 → Cost: 16
+- From 6801915 to 6801836 → Cost: 69
+- From 6801916 to 6805670 → Cost: 5
+- From 6801916 to 6801181 → Cost: 17
+- From 6801917 to 6801903 → Cost: 27
+- From 6801917 to 6801295 → Cost: 79
+- From 6801982 to 6800105 → Cost: 21
+- From 6801982 to 6800001 → Cost: 1
+- From 6801982 to 6805515 → Cost: 42
+- From 6801982 to 6801209 → Cost: 48
+- From 6801982 to 6801304 → Cost: 47
+- From 6801982 to 6800005 → Cost: 76
+- From 6801983 to 6800905 → Cost: 46
+- From 6801983 to 6800890 → Cost: 54
+- From 6801984 to 6801102 → Cost: 84
+- From 6801984 to 6801101 → Cost: 47
+- From 6802300 to 6806348 → Cost: 21
+- From 6802301 to 6801223 → Cost: 70
+- From 6802302 to 6801834 → Cost: 34
+- From 6802302 to 6801835 → Cost: 61
+- From 6802302 to 6801493 → Cost: 16
+- From 6802302 to 6801914 → Cost: 59
+- From 6802305 to 6800609 → Cost: 1
+- From 6802306 to 6800616 → Cost: 57
+- From 6802308 to 6801372 → Cost: 74
+- From 6802308 to 6801334 → Cost: 4
+- From 6802309 to 6801403 → Cost: 31
+- From 6802309 to 6801404 → Cost: 21
+- From 6802310 to 6801844 → Cost: 61
+- From 6802310 to 6802313 → Cost: 21
+- From 6802310 to 6802361 → Cost: 41
+- From 6802311 to 6802312 → Cost: 85
+- From 6802311 to 6801845 → Cost: 22
+- From 6802311 to 6802363 → Cost: 57
+- From 6802312 to 6802314 → Cost: 46
+- From 6802312 to 6802311 → Cost: 42
+- From 6802313 to 6802310 → Cost: 63
+- From 6802313 to 6802315 → Cost: 69
+- From 6802314 to 6805677 → Cost: 52
+- From 6802314 to 6802312 → Cost: 36
+- From 6802315 to 6802313 → Cost: 24
+- From 6802315 to 6805676 → Cost: 84
+- From 6802316 to 6801231 → Cost: 5
+- From 6802316 to 6800013 → Cost: 91
+- From 6802317 to 6800100 → Cost: 77
+- From 6802317 to 6800101 → Cost: 94
+- From 6802318 to 6800967 → Cost: 17
+- From 6802318 to 6805611 → Cost: 68
+- From 6802318 to 6805596 → Cost: 30
+- From 6802319 to 6800132 → Cost: 17
+- From 6802319 to 6800133 → Cost: 57
+- From 6802319 to 6805484 → Cost: 89
+- From 6802319 to 6900133 → Cost: 82
+- From 6802319 to 6800719 → Cost: 93
+- From 6802320 to 6800124 → Cost: 71
+- From 6802320 to 6800125 → Cost: 39
+- From 6802320 to 6800695 → Cost: 77
+- From 6802321 to 6801075 → Cost: 83
+- From 6802321 to 6800714 → Cost: 30
+- From 6802322 to 6800709 → Cost: 66
+- From 6802322 to 6800715 → Cost: 89
+- From 6802324 to 6801211 → Cost: 80
+- From 6802324 to 6801495 → Cost: 18
+- From 6802324 to 6801910 → Cost: 32
+- From 6802327 to 6806269 → Cost: 60
+- From 6802327 to 6800725 → Cost: 85
+- From 6802328 to 6800585 → Cost: 67
+- From 6802328 to 6806271 → Cost: 79
+- From 6802329 to 6800223 → Cost: 29
+- From 6802329 to 6800224 → Cost: 23
+- From 6802330 to 6800260 → Cost: 43
+- From 6802330 to 6800261 → Cost: 78
+- From 6802331 to 6800261 → Cost: 34
+- From 6802331 to 6800248 → Cost: 79
+- From 6802331 to 6800247 → Cost: 79
+- From 6802332 to 6800248 → Cost: 54
+- From 6802332 to 6801259 → Cost: 96
+- From 6802332 to 6800286 → Cost: 11
+- From 6802333 to 6800141 → Cost: 37
+- From 6802333 to 6800142 → Cost: 24
+- From 6802334 to 6800043 → Cost: 69
+- From 6802334 to 6800219 → Cost: 29
+- From 6802335 to 6800226 → Cost: 20
+- From 6802335 to 6800139 → Cost: 39
+- From 6802337 to 6800358 → Cost: 89
+- From 6802337 to 6800359 → Cost: 12
+- From 6802338 to 6800362 → Cost: 29
+- From 6802338 to 6800363 → Cost: 81
+- From 6802339 to 6800291 → Cost: 70
+- From 6802339 to 6801257 → Cost: 75
+- From 6802340 to 6801897 → Cost: 12
+- From 6802340 to 6801212 → Cost: 62
+- From 6802341 to 6800609 → Cost: 6
+- From 6802341 to 6801898 → Cost: 17
+- From 6802342 to 6805537 → Cost: 37
+- From 6802343 to 6800861 → Cost: 18
+- From 6802343 to 6800843 → Cost: 12
+- From 6802344 to 6800971 → Cost: 65
+- From 6802344 to 6800972 → Cost: 11
+- From 6802345 to 6801225 → Cost: 65
+- From 6802345 to 6800694 → Cost: 56
+- From 6802346 to 6806236 → Cost: 18
+- From 6802346 to 6801803 → Cost: 86
+- From 6802346 to 6800245 → Cost: 30
+- From 6802349 to 6802400 → Cost: 4
+- From 6802349 to 6801825 → Cost: 42
+- From 6802349 to 6806329 → Cost: 21
+- From 6802349 to 6806330 → Cost: 75
+- From 6802350 to 6801835 → Cost: 94
+- From 6802350 to 6802399 → Cost: 91
+- From 6802350 to 6806333 → Cost: 92
+- From 6802350 to 6806334 → Cost: 97
+- From 6802351 to 6801825 → Cost: 97
+- From 6802351 to 6801826 → Cost: 54
+- From 6802351 to 6801494 → Cost: 39
+- From 6802351 to 6801915 → Cost: 29
+- From 6802352 to 6805508 → Cost: 46
+- From 6802352 to 6802356 → Cost: 12
+- From 6802353 to 6802396 → Cost: 28
+- From 6802353 to 6801844 → Cost: 51
+- From 6802353 to 6805665 → Cost: 31
+- From 6802354 to 6801845 → Cost: 23
+- From 6802354 to 6802395 → Cost: 95
+- From 6802354 to 6805667 → Cost: 8
+- From 6802355 to 6802357 → Cost: 4
+- From 6802355 to 6805507 → Cost: 99
+- From 6802356 to 6802352 → Cost: 57
+- From 6802356 to 6802362 → Cost: 67
+- From 6802357 to 6802360 → Cost: 65
+- From 6802357 to 6802355 → Cost: 38
+- From 6802358 to 6801163 → Cost: 82
+- From 6802358 to 6805679 → Cost: 51
+- From 6802358 to 6802363 → Cost: 61
+- From 6802359 to 6805678 → Cost: 18
+- From 6802359 to 6801162 → Cost: 6
+- From 6802359 to 6802361 → Cost: 91
+- From 6802360 to 6805510 → Cost: 67
+- From 6802360 to 6802357 → Cost: 28
+- From 6802361 to 6802310 → Cost: 31
+- From 6802361 to 6802359 → Cost: 11
+- From 6802361 to 6801844 → Cost: 43
+- From 6802361 to 6800016 → Cost: 66
+- From 6802361 to 6800031 → Cost: 68
+- From 6802362 to 6802356 → Cost: 76
+- From 6802362 to 6805509 → Cost: 72
+- From 6802363 to 6802358 → Cost: 62
+- From 6802363 to 6802311 → Cost: 81
+- From 6802363 to 6800031 → Cost: 9
+- From 6802363 to 6801845 → Cost: 38
+- From 6802363 to 6800016 → Cost: 55
+- From 6802366 to 6800760 → Cost: 21
+- From 6802366 to 6800759 → Cost: 99
+- From 6802366 to 6801063 → Cost: 40
+- From 6802367 to 6805508 → Cost: 2
+- From 6802367 to 6800757 → Cost: 55
+- From 6802367 to 6800758 → Cost: 38
+- From 6802367 to 6801057 → Cost: 65
+- From 6802368 to 6801296 → Cost: 73
+- From 6802368 to 6801054 → Cost: 21
+- From 6802368 to 6800031 → Cost: 55
+- From 6802368 to 6801903 → Cost: 59
+- From 6802389 to 6806335 → Cost: 34
+- From 6802389 to 6802391 → Cost: 47
+- From 6802389 to 6806324 → Cost: 95
+- From 6802390 to 6802392 → Cost: 31
+- From 6802390 to 6806323 → Cost: 89
+- From 6802390 to 6806336 → Cost: 95
+- From 6802391 to 6802389 → Cost: 32
+- From 6802391 to 6802393 → Cost: 78
+- From 6802392 to 6802394 → Cost: 92
+- From 6802392 to 6802390 → Cost: 5
+- From 6802393 to 6802391 → Cost: 22
+- From 6802393 to 6800325 → Cost: 31
+- From 6802393 to 6800324 → Cost: 63
+- From 6802394 to 6800324 → Cost: 90
+- From 6802394 to 6802392 → Cost: 2
+- From 6802394 to 6800316 → Cost: 77
+- From 6802395 to 6802354 → Cost: 36
+- From 6802395 to 6801288 → Cost: 38
+- From 6802396 to 6801289 → Cost: 86
+- From 6802396 to 6802353 → Cost: 14
+- From 6802397 to 6801341 → Cost: 44
+- From 6802397 to 6801365 → Cost: 30
+- From 6802397 to 6801395 → Cost: 92
+- From 6802398 to 6801333 → Cost: 19
+- From 6802398 to 6801363 → Cost: 50
+- From 6802398 to 6801335 → Cost: 94
+- From 6802399 to 6802350 → Cost: 63
+- From 6802399 to 6801860 → Cost: 30
+- From 6802399 to 6805669 → Cost: 19
+- From 6802399 to 6801859 → Cost: 62
+- From 6802400 to 6801861 → Cost: 16
+- From 6802400 to 6802349 → Cost: 77
+- From 6802400 to 6801858 → Cost: 16
+- From 6802400 to 6805670 → Cost: 65
+- From 6802402 to 6800399 → Cost: 76
+- From 6802403 to 6806255 → Cost: 91
+- From 6802403 to 6805519 → Cost: 96
+- From 6802403 to 6805674 → Cost: 23
+- From 6802403 to 6805682 → Cost: 85
+- From 6802403 to 6805680 → Cost: 15
+- From 6802403 to 6805628 → Cost: 5
+- From 6802403 to 6802405 → Cost: 58
+- From 6802404 to 6805684 → Cost: 91
+- From 6802404 to 6802406 → Cost: 15
+- From 6802404 to 6805629 → Cost: 53
+- From 6802404 to 6805520 → Cost: 17
+- From 6802404 to 6805682 → Cost: 24
+- From 6802405 to 6802407 → Cost: 71
+- From 6802405 to 6806255 → Cost: 49
+- From 6802405 to 6802403 → Cost: 95
+- From 6802405 to 6805685 → Cost: 9
+- From 6802405 to 6801111 → Cost: 2
+- From 6802405 to 6805519 → Cost: 56
+- From 6802406 to 6802404 → Cost: 19
+- From 6802406 to 6802408 → Cost: 55
+- From 6802406 to 6805520 → Cost: 70
+- From 6802406 to 6801062 → Cost: 5
+- From 6802407 to 6801061 → Cost: 65
+- From 6802407 to 6802405 → Cost: 19
+- From 6802407 to 6801111 → Cost: 80
+- From 6802407 to 6805623 → Cost: 31
+- From 6802408 to 6802406 → Cost: 24
+- From 6802408 to 6801112 → Cost: 37
+- From 6802408 to 6805622 → Cost: 36
+- From 6802408 to 6801062 → Cost: 70
+- From 6804602 to 6801192 → Cost: 70
+- From 6804603 to 6801193 → Cost: 44
+- From 6805260 to 6801862 → Cost: 32
+- From 6805260 to 6800041 → Cost: 56
+- From 6805260 to 6801865 → Cost: 34
+- From 6805260 to 6800040 → Cost: 62
+- From 6805260 to 6800587 → Cost: 66
+- From 6805261 to 6800006 → Cost: 70
+- From 6805261 to 6801863 → Cost: 49
+- From 6805261 to 6801864 → Cost: 17
+- From 6805261 to 6800590 → Cost: 53
+- From 6805484 to 6805503 → Cost: 21
+- From 6805484 to 6802319 → Cost: 54
+- From 6805485 to 6800130 → Cost: 53
+- From 6805485 to 6800131 → Cost: 84
+- From 6805486 to 6800126 → Cost: 3
+- From 6805486 to 6801260 → Cost: 82
+- From 6805488 to 6800583 → Cost: 47
+- From 6805488 to 6800584 → Cost: 45
+- From 6805489 to 6800582 → Cost: 34
+- From 6805489 to 6800583 → Cost: 39
+- From 6805490 to 6800581 → Cost: 73
+- From 6805490 to 6800582 → Cost: 52
+- From 6805491 to 6800731 → Cost: 41
+- From 6805491 to 6805492 → Cost: 64
+- From 6805492 to 6805491 → Cost: 11
+- From 6805492 to 6800067 → Cost: 90
+- From 6805500 to 6805812 → Cost: 70
+- From 6805500 to 6805813 → Cost: 76
+- From 6805503 to 6800125 → Cost: 93
+- From 6805503 to 6805484 → Cost: 5
+- From 6805507 to 6802355 → Cost: 55
+- From 6805507 to 6902366 → Cost: 82
+- From 6805507 to 6800758 → Cost: 96
+- From 6805508 to 6802367 → Cost: 7
+- From 6805508 to 6802352 → Cost: 3
+- From 6805508 to 6800759 → Cost: 93
+- From 6805509 to 6802362 → Cost: 80
+- From 6805509 to 6805511 → Cost: 59
+- From 6805510 to 6805517 → Cost: 77
+- From 6805510 to 6802360 → Cost: 61
+- From 6805511 to 6805509 → Cost: 60
+- From 6805511 to 6805514 → Cost: 18
+- From 6805513 to 6806243 → Cost: 79
+- From 6805513 to 6805517 → Cost: 42
+- From 6805514 to 6805511 → Cost: 95
+- From 6805514 to 6806244 → Cost: 43
+- From 6805515 to 6801982 → Cost: 15
+- From 6805515 to 6800076 → Cost: 63
+- From 6805516 to 6801485 → Cost: 34
+- From 6805516 to 6800001 → Cost: 79
+- From 6805516 to 6800105 → Cost: 11
+- From 6805517 to 6805513 → Cost: 40
+- From 6805517 to 6805510 → Cost: 42
+- From 6805518 to 6801904 → Cost: 51
+- From 6805518 to 6805520 → Cost: 32
+- From 6805518 to 6801910 → Cost: 37
+- From 6805518 to 6800054 → Cost: 62
+- From 6805518 to 6805691 → Cost: 76
+- From 6805519 to 6802403 → Cost: 84
+- From 6805519 to 6805621 → Cost: 51
+- From 6805519 to 6802405 → Cost: 76
+- From 6805519 to 6801491 → Cost: 60
+- From 6805520 to 6805518 → Cost: 26
+- From 6805520 to 6805684 → Cost: 45
+- From 6805520 to 6802404 → Cost: 99
+- From 6805520 to 6801496 → Cost: 26
+- From 6805520 to 6802406 → Cost: 69
+- From 6805531 to 6800516 → Cost: 96
+- From 6805531 to 6800610 → Cost: 96
+- From 6805532 to 6801830 → Cost: 88
+- From 6805532 to 6805663 → Cost: 71
+- From 6805532 to 6801167 → Cost: 99
+- From 6805532 to 6806345 → Cost: 31
+- From 6805533 to 6805664 → Cost: 63
+- From 6805533 to 6805662 → Cost: 65
+- From 6805533 to 6801158 → Cost: 37
+- From 6805533 to 6806344 → Cost: 13
+- From 6805534 to 6800736 → Cost: 82
+- From 6805534 to 6800133 → Cost: 14
+- From 6805535 to 6800839 → Cost: 11
+- From 6805535 to 6800840 → Cost: 14
+- From 6805536 to 6800789 → Cost: 40
+- From 6805536 to 6800790 → Cost: 2
+- From 6805537 to 6802342 → Cost: 11
+- From 6805537 to 6800032 → Cost: 23
+- From 6805538 to 6800042 → Cost: 98
+- From 6805538 to 6800043 → Cost: 96
+- From 6805539 to 6800787 → Cost: 15
+- From 6805539 to 6800788 → Cost: 10
+- From 6805540 to 6801338 → Cost: 8
+- From 6805540 to 6801350 → Cost: 26
+- From 6805587 to 6800077 → Cost: 9
+- From 6805587 to 6806002 → Cost: 53
+- From 6805588 to 6800932 → Cost: 33
+- From 6805588 to 6800918 → Cost: 21
+- From 6805589 to 6800914 → Cost: 75
+- From 6805589 to 6801195 → Cost: 62
+- From 6805590 to 6800108 → Cost: 53
+- From 6805590 to 6800967 → Cost: 40
+- From 6805591 to 6805611 → Cost: 78
+- From 6805591 to 6806270 → Cost: 36
+- From 6805592 to 6800968 → Cost: 17
+- From 6805592 to 6800969 → Cost: 15
+- From 6805593 to 6805613 → Cost: 56
+- From 6805593 to 6800973 → Cost: 26
+- From 6805593 to 6805595 → Cost: 60
+- From 6805594 to 6800866 → Cost: 75
+- From 6805594 to 6800867 → Cost: 56
+- From 6805595 to 6805597 → Cost: 44
+- From 6805595 to 6805593 → Cost: 77
+- From 6805596 to 6802318 → Cost: 43
+- From 6805596 to 6805598 → Cost: 4
+- From 6805597 to 6800097 → Cost: 63
+- From 6805597 to 6805595 → Cost: 28
+- From 6805598 to 6805596 → Cost: 50
+- From 6805598 to 6800315 → Cost: 44
+- From 6805599 to 6806323 → Cost: 17
+- From 6805599 to 6805600 → Cost: 22
+- From 6805600 to 6805599 → Cost: 78
+- From 6805600 to 6805601 → Cost: 67
+- From 6805601 to 6805600 → Cost: 90
+- From 6805601 to 6805602 → Cost: 27
+- From 6805602 to 6805601 → Cost: 18
+- From 6805602 to 6800312 → Cost: 74
+- From 6805603 to 6800310 → Cost: 4
+- From 6805603 to 6800311 → Cost: 99
+- From 6805604 to 6800309 → Cost: 74
+- From 6805604 to 6800310 → Cost: 8
+- From 6805605 to 6800977 → Cost: 21
+- From 6805605 to 6800978 → Cost: 23
+- From 6805606 to 6801301 → Cost: 10
+- From 6805606 to 6806234 → Cost: 5
+- From 6805607 to 6806235 → Cost: 40
+- From 6805607 to 6801134 → Cost: 7
+- From 6805608 to 6800078 → Cost: 65
+- From 6805608 to 6805610 → Cost: 13
+- From 6805609 to 6801237 → Cost: 58
+- From 6805609 to 6800101 → Cost: 98
+- From 6805610 to 6805608 → Cost: 7
+- From 6805610 to 6800081 → Cost: 81
+- From 6805611 to 6802318 → Cost: 50
+- From 6805611 to 6805591 → Cost: 89
+- From 6805612 to 6800897 → Cost: 16
+- From 6805612 to 6805615 → Cost: 23
+- From 6805613 to 6806270 → Cost: 15
+- From 6805613 to 6805593 → Cost: 35
+- From 6805614 to 6805615 → Cost: 6
+- From 6805614 to 6800898 → Cost: 50
+- From 6805614 to 6805616 → Cost: 40
+- From 6805614 to 6805617 → Cost: 76
+- From 6805615 to 6805612 → Cost: 62
+- From 6805615 to 6805614 → Cost: 41
+- From 6805616 to 6800900 → Cost: 33
+- From 6805616 to 6805614 → Cost: 66
+- From 6805617 to 6805614 → Cost: 16
+- From 6805617 to 6800902 → Cost: 42
+- From 6805618 to 6800694 → Cost: 94
+- From 6805618 to 6800314 → Cost: 70
+- From 6805620 to 6801166 → Cost: 49
+- From 6805620 to 6805698 → Cost: 34
+- From 6805620 to 6905698 → Cost: 16
+- From 6805620 to 6801063 → Cost: 73
+- From 6805621 to 6805519 → Cost: 95
+- From 6805621 to 6801903 → Cost: 79
+- From 6805621 to 6801909 → Cost: 95
+- From 6805621 to 6805690 → Cost: 96
+- From 6805621 to 6800055 → Cost: 57
+- From 6805622 to 6805624 → Cost: 97
+- From 6805622 to 6802408 → Cost: 44
+- From 6805623 to 6802407 → Cost: 95
+- From 6805623 to 6805625 → Cost: 9
+- From 6805624 to 6805704 → Cost: 87
+- From 6805624 to 6805622 → Cost: 24
+- From 6805624 to 6805627 → Cost: 35
+- From 6805625 to 6805623 → Cost: 79
+- From 6805625 to 6805705 → Cost: 99
+- From 6805625 to 6805626 → Cost: 44
+- From 6805626 to 6805702 → Cost: 21
+- From 6805626 to 6805674 → Cost: 32
+- From 6805626 to 6805625 → Cost: 79
+- From 6805626 to 6805628 → Cost: 40
+- From 6805627 to 6805675 → Cost: 94
+- From 6805627 to 6805703 → Cost: 69
+- From 6805627 to 6805629 → Cost: 21
+- From 6805627 to 6805624 → Cost: 1
+- From 6805628 to 6805705 → Cost: 10
+- From 6805628 to 6802403 → Cost: 65
+- From 6805628 to 6805626 → Cost: 24
+- From 6805629 to 6802404 → Cost: 2
+- From 6805629 to 6805704 → Cost: 2
+- From 6805629 to 6805627 → Cost: 95
+- From 6805630 to 6800995 → Cost: 59
+- From 6805630 to 6800996 → Cost: 44
+- From 6805631 to 6801277 → Cost: 30
+- From 6805631 to 6805633 → Cost: 51
+- From 6805632 to 6800240 → Cost: 41
+- From 6805632 to 6800489 → Cost: 78
+- From 6805633 to 6805631 → Cost: 4
+- From 6805633 to 6800244 → Cost: 20
+- From 6805634 to 6800479 → Cost: 66
+- From 6805634 to 6800480 → Cost: 88
+- From 6805635 to 6800244 → Cost: 69
+- From 6805635 to 6801804 → Cost: 43
+- From 6805636 to 6801803 → Cost: 99
+- From 6805636 to 6800240 → Cost: 16
+- From 6805637 to 6800261 → Cost: 42
+- From 6805637 to 6805638 → Cost: 42
+- From 6805638 to 6805637 → Cost: 48
+- From 6805638 to 6800239 → Cost: 49
+- From 6805638 to 6801905 → Cost: 13
+- From 6805639 to 6800245 → Cost: 66
+- From 6805639 to 6800246 → Cost: 24
+- From 6805639 to 6801905 → Cost: 81
+- From 6805639 to 6801179 → Cost: 10
+- From 6805639 to 6801181 → Cost: 17
+- From 6805639 to 6801906 → Cost: 8
+- From 6805640 to 6800243 → Cost: 68
+- From 6805641 to 6800704 → Cost: 30
+- From 6805641 to 6800997 → Cost: 41
+- From 6805641 to 6800703 → Cost: 59
+- From 6805642 to 6805648 → Cost: 95
+- From 6805642 to 6800704 → Cost: 95
+- From 6805643 to 6801230 → Cost: 82
+- From 6805643 to 6805644 → Cost: 80
+- From 6805643 to 6800400 → Cost: 93
+- From 6805644 to 6805643 → Cost: 62
+- From 6805644 to 6800401 → Cost: 27
+- From 6805644 to 6800402 → Cost: 25
+- From 6805645 to 6800410 → Cost: 2
+- From 6805645 to 6800412 → Cost: 48
+- From 6805646 to 6800389 → Cost: 88
+- From 6805646 to 6800391 → Cost: 10
+- From 6805647 to 6800140 → Cost: 58
+- From 6805647 to 6800141 → Cost: 22
+- From 6805648 to 6800996 → Cost: 66
+- From 6805648 to 6805642 → Cost: 31
+- From 6805648 to 6800999 → Cost: 81
+- From 6805650 to 6800450 → Cost: 50
+- From 6805651 to 6800438 → Cost: 18
+- From 6805652 to 6800508 → Cost: 57
+- From 6805652 to 6805653 → Cost: 51
+- From 6805653 to 6805652 → Cost: 12
+- From 6805653 to 6805654 → Cost: 65
+- From 6805654 to 6805653 → Cost: 7
+- From 6805654 to 6800574 → Cost: 60
+- From 6805655 to 6800572 → Cost: 17
+- From 6805655 to 6805656 → Cost: 67
+- From 6805656 to 6805655 → Cost: 27
+- From 6805656 to 6800556 → Cost: 46
+- From 6805657 to 6806234 → Cost: 66
+- From 6805657 to 6805660 → Cost: 64
+- From 6805658 to 6805659 → Cost: 7
+- From 6805658 to 6806235 → Cost: 5
+- From 6805659 to 6800095 → Cost: 47
+- From 6805659 to 6805658 → Cost: 55
+- From 6805660 to 6805657 → Cost: 98
+- From 6805660 to 6800112 → Cost: 62
+- From 6805661 to 6806346 → Cost: 21
+- From 6805661 to 6801827 → Cost: 99
+- From 6805661 to 6801830 → Cost: 1
+- From 6805661 to 6901827 → Cost: 63
+- From 6805662 to 6805533 → Cost: 14
+- From 6805662 to 6806347 → Cost: 73
+- From 6805662 to 6805698 → Cost: 11
+- From 6805663 to 6805532 → Cost: 6
+- From 6805663 to 6805682 → Cost: 73
+- From 6805664 to 6805683 → Cost: 36
+- From 6805664 to 6805533 → Cost: 16
+- From 6805665 to 6801044 → Cost: 30
+- From 6805665 to 6801288 → Cost: 7
+- From 6805665 to 6801051 → Cost: 93
+- From 6805665 to 6802353 → Cost: 7
+- From 6805666 to 6801909 → Cost: 68
+- From 6805666 to 6801888 → Cost: 28
+- From 6805666 to 6801492 → Cost: 10
+- From 6805667 to 6801289 → Cost: 73
+- From 6805667 to 6801015 → Cost: 27
+- From 6805667 to 6802354 → Cost: 90
+- From 6805667 to 6800742 → Cost: 99
+- From 6805668 to 6801889 → Cost: 6
+- From 6805668 to 6801910 → Cost: 31
+- From 6805668 to 6801495 → Cost: 94
+- From 6805669 to 6801907 → Cost: 72
+- From 6805669 to 6802399 → Cost: 18
+- From 6805670 to 6802400 → Cost: 52
+- From 6805670 to 6801916 → Cost: 72
+- From 6805672 to 6801111 → Cost: 12
+- From 6805672 to 6805702 → Cost: 57
+- From 6805673 to 6805703 → Cost: 95
+- From 6805673 to 6801062 → Cost: 49
+- From 6805674 to 6805626 → Cost: 94
+- From 6805674 to 6802403 → Cost: 48
+- From 6805675 to 6805684 → Cost: 63
+- From 6805675 to 6805627 → Cost: 52
+- From 6805676 to 6802315 → Cost: 29
+- From 6805676 to 6801161 → Cost: 78
+- From 6805677 to 6801164 → Cost: 76
+- From 6805677 to 6802314 → Cost: 91
+- From 6805678 to 6801161 → Cost: 87
+- From 6805678 to 6802359 → Cost: 69
+- From 6805679 to 6802358 → Cost: 57
+- From 6805679 to 6801164 → Cost: 42
+- From 6805680 to 6802403 → Cost: 37
+- From 6805680 to 6805686 → Cost: 75
+- From 6805681 to 6805687 → Cost: 1
+- From 6805681 to 6805684 → Cost: 76
+- From 6805682 to 6805663 → Cost: 31
+- From 6805682 to 6802403 → Cost: 19
+- From 6805682 to 6802404 → Cost: 77
+- From 6805683 to 6805685 → Cost: 14
+- From 6805683 to 6805664 → Cost: 97
+- From 6805684 to 6805520 → Cost: 4
+- From 6805684 to 6802404 → Cost: 62
+- From 6805684 to 6805675 → Cost: 14
+- From 6805684 to 6805681 → Cost: 40
+- From 6805684 to 6805685 → Cost: 33
+- From 6805685 to 6805684 → Cost: 10
+- From 6805685 to 6805683 → Cost: 10
+- From 6805685 to 6802405 → Cost: 27
+- From 6805686 to 6805680 → Cost: 15
+- From 6805686 to 6805688 → Cost: 46
+- From 6805687 to 6805689 → Cost: 87
+- From 6805687 to 6805681 → Cost: 14
+- From 6805688 to 6805686 → Cost: 31
+- From 6805688 to 6805690 → Cost: 43
+- From 6805689 to 6805691 → Cost: 78
+- From 6805689 to 6805687 → Cost: 9
+- From 6805690 to 6805688 → Cost: 70
+- From 6805690 to 6805621 → Cost: 39
+- From 6805691 to 6805518 → Cost: 34
+- From 6805691 to 6805689 → Cost: 80
+- From 6805692 to 6806247 → Cost: 70
+- From 6805692 to 6806256 → Cost: 18
+- From 6805693 to 6806257 → Cost: 3
+- From 6805693 to 6806246 → Cost: 90
+- From 6805694 to 6806256 → Cost: 39
+- From 6805694 to 6806258 → Cost: 5
+- From 6805695 to 6806259 → Cost: 53
+- From 6805695 to 6806257 → Cost: 64
+- From 6805696 to 6806258 → Cost: 86
+- From 6805696 to 6801843 → Cost: 60
+- From 6805697 to 6801842 → Cost: 8
+- From 6805697 to 6806259 → Cost: 55
+- From 6805698 to 6805620 → Cost: 78
+- From 6805698 to 6805662 → Cost: 78
+- From 6805699 to 6800723 → Cost: 54
+- From 6805699 to 6800724 → Cost: 88
+- From 6805700 to 6800733 → Cost: 43
+- From 6805700 to 6800734 → Cost: 50
+- From 6805701 to 6800397 → Cost: 15
+- From 6805701 to 6800398 → Cost: 46
+- From 6805702 to 6805672 → Cost: 56
+- From 6805702 to 6805626 → Cost: 61
+- From 6805703 to 6805627 → Cost: 43
+- From 6805703 to 6805673 → Cost: 77
+- From 6805704 to 6805629 → Cost: 28
+- From 6805704 to 6805624 → Cost: 14
+- From 6805705 to 6805625 → Cost: 95
+- From 6805705 to 6805628 → Cost: 18
+- From 6805706 to 6801052 → Cost: 17
+- From 6805706 to 6801177 → Cost: 24
+- From 6805706 to 6801174 → Cost: 44
+- From 6805706 to 6801172 → Cost: 17
+- From 6805706 to 6801149 → Cost: 22
+- From 6805807 to 6801071 → Cost: 93
+- From 6805808 to 6801070 → Cost: 34
+- From 6805808 to 6801167 → Cost: 38
+- From 6805809 to 6800564 → Cost: 55
+- From 6805809 to 6801230 → Cost: 66
+- From 6805810 to 6800378 → Cost: 55
+- From 6805811 to 6800342 → Cost: 51
+- From 6805812 to 6800133 → Cost: 5
+- From 6805812 to 6805500 → Cost: 77
+- From 6805813 to 6805500 → Cost: 55
+- From 6805813 to 6800124 → Cost: 33
+- From 6805814 to 6801842 → Cost: 93
+- From 6805814 to 6806337 → Cost: 69
+- From 6805815 to 6806338 → Cost: 44
+- From 6805815 to 6801843 → Cost: 43
+- From 6806002 to 6805587 → Cost: 14
+- From 6806002 to 6800078 → Cost: 50
+- From 6806003 to 6800101 → Cost: 80
+- From 6806003 to 6800327 → Cost: 33
+- From 6806186 to 6800418 → Cost: 55
+- From 6806186 to 6800433 → Cost: 38
+- From 6806187 to 6800409 → Cost: 1
+- From 6806187 to 6801118 → Cost: 14
+- From 6806188 to 6800392 → Cost: 33
+- From 6806188 to 6806189 → Cost: 6
+- From 6806189 to 6806188 → Cost: 91
+- From 6806189 to 6801118 → Cost: 18
+- From 6806190 to 6800433 → Cost: 88
+- From 6806190 to 6800431 → Cost: 85
+- From 6806233 to 6801398 → Cost: 74
+- From 6806233 to 6801391 → Cost: 76
+- From 6806234 to 6805606 → Cost: 35
+- From 6806234 to 6805657 → Cost: 17
+- From 6806235 to 6805658 → Cost: 16
+- From 6806235 to 6805607 → Cost: 14
+- From 6806236 to 6800239 → Cost: 46
+- From 6806236 to 6802346 → Cost: 43
+- From 6806236 to 6801804 → Cost: 47
+- From 6806237 to 6801211 → Cost: 84
+- From 6806237 to 6801888 → Cost: 86
+- From 6806238 to 6801889 → Cost: 86
+- From 6806238 to 6801297 → Cost: 2
+- From 6806239 to 6800315 → Cost: 34
+- From 6806239 to 6800974 → Cost: 35
+- From 6806240 to 6800096 → Cost: 86
+- From 6806240 to 6800097 → Cost: 99
+- From 6806241 to 6806351 → Cost: 88
+- From 6806241 to 6806243 → Cost: 29
+- From 6806241 to 6806245 → Cost: 68
+- From 6806242 to 6806244 → Cost: 35
+- From 6806242 to 6806350 → Cost: 42
+- From 6806242 to 6801233 → Cost: 62
+- From 6806243 to 6806241 → Cost: 55
+- From 6806243 to 6805513 → Cost: 40
+- From 6806244 to 6805514 → Cost: 31
+- From 6806244 to 6806242 → Cost: 61
+- From 6806245 to 6800955 → Cost: 75
+- From 6806245 to 6806351 → Cost: 1
+- From 6806245 to 6800966 → Cost: 86
+- From 6806245 to 6806241 → Cost: 1
+- From 6806246 to 6805693 → Cost: 3
+- From 6806247 to 6805692 → Cost: 16
+- From 6806249 to 6801860 → Cost: 81
+- From 6806250 to 6801861 → Cost: 45
+- From 6806251 to 6800065 → Cost: 47
+- From 6806251 to 6800733 → Cost: 31
+- From 6806252 to 6800724 → Cost: 25
+- From 6806252 to 6800069 → Cost: 80
+- From 6806253 to 6800133 → Cost: 23
+- From 6806254 to 6800124 → Cost: 90
+- From 6806255 to 6802405 → Cost: 13
+- From 6806255 to 6802403 → Cost: 62
+- From 6806256 to 6805692 → Cost: 73
+- From 6806256 to 6805694 → Cost: 87
+- From 6806257 to 6805695 → Cost: 46
+- From 6806257 to 6805693 → Cost: 11
+- From 6806258 to 6805694 → Cost: 58
+- From 6806258 to 6805696 → Cost: 60
+- From 6806259 to 6805697 → Cost: 49
+- From 6806259 to 6805695 → Cost: 24
+- From 6806260 to 6801068 → Cost: 94
+- From 6806260 to 6801069 → Cost: 10
+- From 6806261 to 6801055 → Cost: 22
+- From 6806261 to 6801056 → Cost: 65
+- From 6806269 to 6800065 → Cost: 87
+- From 6806269 to 6802327 → Cost: 76
+- From 6806270 to 6806371 → Cost: 83
+- From 6806270 to 6805613 → Cost: 47
+- From 6806270 to 6805591 → Cost: 98
+- From 6806270 to 6800968 → Cost: 22
+- From 6806271 to 6802328 → Cost: 68
+- From 6806271 to 6800069 → Cost: 25
+- From 6806272 to 6800762 → Cost: 96
+- From 6806272 to 6800954 → Cost: 3
+- From 6806273 to 6800962 → Cost: 28
+- From 6806273 to 6800755 → Cost: 68
+- From 6806274 to 6800031 → Cost: 12
+- From 6806274 to 6806316 → Cost: 45
+- From 6806274 to 6800947 → Cost: 7
+- From 6806274 to 6801817 → Cost: 81
+- From 6806275 to 6806315 → Cost: 76
+- From 6806275 to 6800016 → Cost: 18
+- From 6806275 to 6800950 → Cost: 71
+- From 6806275 to 6801816 → Cost: 69
+- From 6806304 to 6801842 → Cost: 44
+- From 6806304 to 6806305 → Cost: 59
+- From 6806305 to 6806304 → Cost: 77
+- From 6806305 to 6806306 → Cost: 51
+- From 6806306 to 6806305 → Cost: 59
+- From 6806306 to 6801172 → Cost: 91
+- From 6806307 to 6801146 → Cost: 45
+- From 6806307 to 6806308 → Cost: 26
+- From 6806308 to 6806307 → Cost: 20
+- From 6806308 to 6806309 → Cost: 29
+- From 6806309 to 6806308 → Cost: 39
+- From 6806309 to 6801843 → Cost: 22
+- From 6806315 to 6806318 → Cost: 66
+- From 6806315 to 6806275 → Cost: 89
+- From 6806316 to 6806274 → Cost: 95
+- From 6806316 to 6806317 → Cost: 47
+- From 6806317 to 6806316 → Cost: 52
+- From 6806317 to 6806343 → Cost: 69
+- From 6806318 to 6806342 → Cost: 26
+- From 6806318 to 6806315 → Cost: 11
+- From 6806319 to 6800314 → Cost: 43
+- From 6806319 to 6806320 → Cost: 12
+- From 6806320 to 6806319 → Cost: 10
+- From 6806320 to 6806321 → Cost: 31
+- From 6806321 to 6806320 → Cost: 83
+- From 6806321 to 6800866 → Cost: 36
+- From 6806322 to 6800905 → Cost: 23
+- From 6806322 to 6800307 → Cost: 31
+- From 6806323 to 6802390 → Cost: 95
+- From 6806323 to 6805599 → Cost: 80
+- From 6806324 to 6800311 → Cost: 29
+- From 6806324 to 6802389 → Cost: 54
+- From 6806325 to 6800976 → Cost: 25
+- From 6806325 to 6800977 → Cost: 29
+- From 6806326 to 6800984 → Cost: 15
+- From 6806326 to 6800985 → Cost: 58
+- From 6806327 to 6800686 → Cost: 63
+- From 6806327 to 6800687 → Cost: 80
+- From 6806329 to 6801865 → Cost: 98
+- From 6806329 to 6802349 → Cost: 46
+- From 6806330 to 6802349 → Cost: 87
+- From 6806330 to 6806331 → Cost: 41
+- From 6806331 to 6806330 → Cost: 60
+- From 6806331 to 6801910 → Cost: 34
+- From 6806332 to 6801909 → Cost: 59
+- From 6806332 to 6806333 → Cost: 44
+- From 6806333 to 6806332 → Cost: 69
+- From 6806333 to 6802350 → Cost: 58
+- From 6806334 to 6802350 → Cost: 70
+- From 6806334 to 6801864 → Cost: 17
+- From 6806335 to 6806337 → Cost: 81
+- From 6806335 to 6802389 → Cost: 36
+- From 6806336 to 6802390 → Cost: 56
+- From 6806336 to 6806338 → Cost: 90
+- From 6806337 to 6805814 → Cost: 54
+- From 6806337 to 6806335 → Cost: 4
+- From 6806338 to 6806336 → Cost: 57
+- From 6806338 to 6805815 → Cost: 58
+- From 6806342 to 6800949 → Cost: 78
+- From 6806342 to 6806318 → Cost: 22
+- From 6806343 to 6806317 → Cost: 40
+- From 6806343 to 6800948 → Cost: 9
+- From 6806344 to 6801289 → Cost: 39
+- From 6806344 to 6805533 → Cost: 92
+- From 6806345 to 6805532 → Cost: 50
+- From 6806345 to 6801288 → Cost: 53
+- From 6806346 to 6801289 → Cost: 60
+- From 6806346 to 6805661 → Cost: 30
+- From 6806346 to 6801057 → Cost: 39
+- From 6806347 to 6805662 → Cost: 38
+- From 6806347 to 6801288 → Cost: 18
+- From 6806347 to 6801063 → Cost: 76
+- From 6806348 to 6802300 → Cost: 79
+- From 6806348 to 6800597 → Cost: 93
+- From 6806349 to 6800597 → Cost: 23
+- From 6806349 to 6801300 → Cost: 13
+- From 6806350 to 6806242 → Cost: 58
+- From 6806350 to 6801233 → Cost: 35
+- From 6806351 to 6806245 → Cost: 92
+- From 6806351 to 6806241 → Cost: 13
+- From 6806357 to 6800555 → Cost: 21
+- From 6806357 to 6800556 → Cost: 80
+- From 6806358 to 6806361 → Cost: 87
+- From 6806358 to 6801241 → Cost: 50
+- From 6806359 to 6800114 → Cost: 33
+- From 6806359 to 6806360 → Cost: 57
+- From 6806360 to 6806359 → Cost: 71
+- From 6806360 to 6800949 → Cost: 63
+- From 6806361 to 6800948 → Cost: 74
+- From 6806361 to 6806358 → Cost: 80
+- From 6806362 to 6800681 → Cost: 5
+- From 6806362 to 6800222 → Cost: 26
+- From 6806363 to 6800216 → Cost: 32
+- From 6806363 to 6800150 → Cost: 48
+- From 6806364 to 6806366 → Cost: 23
+- From 6806364 to 6800636 → Cost: 52
+- From 6806365 to 6800223 → Cost: 96
+- From 6806365 to 6806367 → Cost: 54
+- From 6806366 to 6801050 → Cost: 70
+- From 6806366 to 6806364 → Cost: 97
+- From 6806367 to 6806365 → Cost: 4
+- From 6806367 to 6800165 → Cost: 26
+- From 6806370 to 6800008 → Cost: 8
+- From 6806370 to 6800040 → Cost: 37
+- From 6806371 to 6801243 → Cost: 47
+- From 6806371 to 6806270 → Cost: 60
+- From 6806372 to 6800366 → Cost: 8
+- From 6806372 to 6800367 → Cost: 27
+- From 6900133 to 6802319 → Cost: 92
+- From 6900361 to 6800417 → Cost: 14
+- From 6900624 to 6800568 → Cost: 66
+- From 6900906 to 6800905 → Cost: 64
+- From 6900906 to 6800307 → Cost: 50
+- From 6900906 to 6800314 → Cost: 52
+- From 6901052 to 6801160 → Cost: 72
+- From 6901054 to 6801053 → Cost: 49
+- From 6901070 to 6801497 → Cost: 27
+- From 6901168 to 6801167 → Cost: 82
+- From 6901296 to 6800626 → Cost: 58
+- From 6901827 to 6805661 → Cost: 89
+- From 6902366 to 6805507 → Cost: 8
+- From 6902367 to 6800757 → Cost: 70
+- From 6905612 to 6800901 → Cost: 56
+- From 6905612 to 6905615 → Cost: 10
+- From 6905614 to 6905615 → Cost: 43
+- From 6905614 to 6800902 → Cost: 66
+- From 6905615 to 6905612 → Cost: 8
+- From 6905615 to 6905614 → Cost: 94
+- From 6905698 to 6805620 → Cost: 82
+- From 6905807 to 6801158 → Cost: 15
+
