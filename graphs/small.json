@@ -1,0 +1,8 @@
+{
+    "nodes": ["A","B","C"],
+    "edges": [
+      {"from":"A","to":"B","cost":1},
+      {"from":"B","to":"C","cost":2},
+      {"from":"A","to":"C","cost":5}
+    ]
+  }
