@@ -149,7 +149,7 @@ num_request = 7
 
 experiments_samples_LLM_A_star = []
 
-for i, sample in (enumerate(tqdm(experiments_samples_A_star[:10]))):
+for i, sample in (enumerate(tqdm(experiments_samples_A_star))):
     start, goal = sample['point']
 
     heuristic_table = {station: (((G.nodes[goal]['x'] - G.nodes[station]['x']) ** 2 + (G.nodes[goal]['y'] - G.nodes[station]['y']) ** 2) ** 0.5) for station in nodes}
