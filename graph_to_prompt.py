@@ -27,8 +27,13 @@ You are an AI specialized in route planning and recommendations.
 **Hard Constraints:**  
 - Exclude the start node and the destination node from waypoint(s) candidates.  
 - **Output only:** a Python-style list of unquoted integers, e.g. [6803250], [6806130, ...].  
-- The list must contain exactly {n_points} integers, in order.  
+- The list must contain exactly {n_points} integers in path planning order.
 - Do **not** output the path itself or pretend the path as waypoint(s).
+- Do **not** output the path itself under any circumstance.  
+- Do **not** pretend the path as waypoints.  
+- You must output **only** a **Python-style list** of node IDs.  
+- The waypoints array must contain exactly {n_points} node IDs.
+
 
 ### Examples (do not edit)
 
