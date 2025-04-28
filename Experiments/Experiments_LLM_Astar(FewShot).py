@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import torch
 import networkx as nx
 from networkx.readwrite import json_graph
-from graph_to_prompt import graph_to_prompt_CoT
+from Experiments.graph_to_prompt import graph_to_prompt
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from tqdm.auto import tqdm
 
@@ -30,7 +30,7 @@ class Request_llm:
         self.model.config.pad_token_id = self.model.config.eos_token_id
 
     def get_waypoints(self, j, start, goal, n_points):
-        prompt = graph_to_prompt_CoT(j, start, goal, n_points)
+        prompt = graph_to_prompt(j, start, goal, n_points)
         inputs = self.tokenizer(
                     prompt,
                     return_tensors="pt",
@@ -180,5 +180,5 @@ for i, sample in (enumerate(tqdm(experiments_samples_A_star))):
         print("# of Checking edges ratio:", checking_edges_ratio)
 
 
-with open('Experiments_result/LLM_A_star_CoT.json', 'w') as jsonfile:
+with open('Experiments_result/LLM_A_star_fewshot.json', 'w') as jsonfile:
 	json.dump(experiments_samples_LLM_A_star, jsonfile, indent=4)
