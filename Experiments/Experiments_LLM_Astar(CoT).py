@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import torch
 import networkx as nx
 from networkx.readwrite import json_graph
-from graph_to_prompt import graph_to_prompt_CoT
+from Experiments.graph_to_prompt import graph_to_prompt_CoT
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from tqdm.auto import tqdm
 
