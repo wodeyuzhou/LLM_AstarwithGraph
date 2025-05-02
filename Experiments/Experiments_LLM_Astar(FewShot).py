@@ -12,43 +12,7 @@ from networkx.readwrite import json_graph
 from Experiments.graph_to_prompt import graph_to_prompt
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from tqdm.auto import tqdm
-
-def get_nums_list(s):
-    nums_str = re.findall(r'\d+', s)  
-    nums = list(map(int, nums_str))
-    return  nums
-
-class Request_llm:
-    def __init__(self, model_name):
-        if model_name == 'llama':
-            self.max_new_tokens = 200
-            self.tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-3B-Instruct")
-            self.model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.2-3B-Instruct", device_map="auto",load_in_8bit=True)
-            #self.model.save_model("models/meta-llama/Llama-3.2-3B-Instruct")
-        
-
-        self.model.config.pad_token_id = self.model.config.eos_token_id
-
-    def get_waypoints(self, j, start, goal, n_points):
-        prompt = graph_to_prompt(j, start, goal, n_points)
-        inputs = self.tokenizer(
-                    prompt,
-                    return_tensors="pt",
-                    return_attention_mask=True
-                )
-        
-        input_ids = inputs["input_ids"]
-        inputs["input_ids"] = inputs["input_ids"].to(self.model.device)
-        inputs["attention_mask"] = inputs["attention_mask"].to(self.model.device)
-
-        outputs = self.model.generate(
-                **inputs,
-                max_new_tokens = self.max_new_tokens
-            )
-        generated_token = outputs[:, input_ids.shape[-1] :]
-        result = self.tokenizer.batch_decode(generated_token, skip_special_tokens=True)[0]
-        waypoints = get_nums_list(result)
-        return waypoints
+from llm_astar import Request_llm
 
 def llm_astar(G, start, goal, heuristic, llm, obstacles=None):
     nodes = list(G.nodes)
@@ -136,7 +100,7 @@ nodes = G.nodes
 edges = G.edges
 stations = list(G.nodes())
 
-with open('Experiments_result/A_star.json', 'r') as jsonfile:
+with open('./Result/A_star.json', 'r') as jsonfile:
     experiments_samples_A_star = json.load(jsonfile)
 
 # table(random) LLM-A*
